@@ -21,3 +21,5 @@ https://dev.to/reedbarger/the-react-roadmap-10-steps-to-become-a-react-developer
 
 Gotta check the active fetch (like signalR) on js, e.g live messaging app:
 https://www.youtube.com/watch?v=CK2XEyVGc6c
+
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
