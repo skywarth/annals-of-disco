@@ -1,3 +1,8 @@
+The Holy Book, Privacy Bible
+
+https://www.eff.org/
+
+
 Messaging
 
 https://status.im/ (These guys do so many stuff)
