@@ -2,6 +2,9 @@ The Holy Book, Privacy Bible
 
 https://www.eff.org/
 
+Simple internet privacy box (neat idea)
+
+https://upribox.org/en/getting-started/
 
 Messaging
 
