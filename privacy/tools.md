@@ -36,3 +36,10 @@ Proton Mail
 VPN:
 
 Nordvpn, PIA and Protonvpn 
+
+
+DNS:
+
+https://www.quad9.net/
+
+https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/
