@@ -6,6 +6,12 @@ Simple internet privacy box (neat idea)
 
 https://upribox.org/en/getting-started/
 
+
+Not sure:
+
+https://usableprivacy.com/
+
+
 Messaging
 
 https://status.im/ (These guys do so many stuff)
