@@ -1,3 +1,60 @@
+### Foreach shorthand
+
+```
+for (let i in testData) or  for (let i of testData)
+```
+
+
+### Null, Undefined, Empty Check (dont like it a lot)
+```
+// Longhand
+if (first !== null || first !== undefined || first !== '') {
+    let second = first;
+}
+// Shorthand
+let second = first|| '';
+```
+
+### Multiple If conditions
+```
+//longhand
+if (x === 'abc' || x === 'def' || x === 'ghi' || x ==='jkl') {
+    //logic
+}
+//shorthand
+if (['abc', 'def', 'ghi', 'jkl'].includes(x)) {
+   //logic
+}
+```
+
+### Lookup Conditions Shorthand
+```
+// Longhand
+if (type === 'test1') {
+  test1();
+}
+else if (type === 'test2') {
+  test2();
+}
+else if (type === 'test3') {
+  test3();
+}
+else if (type === 'test4') {
+  test4();
+} else {
+  throw new Error('Invalid value ' + type);
+}
+// Shorthand
+var types = {
+  test1: test1,
+  test2: test2,
+  test3: test3,
+  test4: test4
+};
+
+var func = types[type];
+```
+
 ### List of Random Numbers
 ```
 Array.from({ length: 1000 }, Math.random)
