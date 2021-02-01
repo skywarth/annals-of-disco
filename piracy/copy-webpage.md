@@ -28,3 +28,8 @@ wget -r --no-parent http://site.com/songs/
 ```
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://www.yourdomain.com
 ```
+
+//Haven't tried this one yet
+```
+https://www.toolsbug.com/website-copier-online.php
+```
