@@ -26,3 +26,8 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 
 at some day i gotta set up my own dns server
+
+
+https://ab--g4.netlify.app/vs/gumroad/
+
+ghost.org
