@@ -169,3 +169,22 @@ const getQueryParams = url =>
 getQueryParams("/user?name=Orkhan&age=30");
 // { name: 'Orkhan', age: '30' }
 ```
+
+
+### Array to nested object (recursive)
+```
+function proc2(arr){
+const result = arr.reverse().reduce((prev, curr) => ({[curr]: prev}), {})
+return result
+}
+```
+Non-arrow version
+```
+function proc2(arr){
+const result = arr.reverse().reduce(function(prev, curr) {
+return ({[curr]: prev})
+},"mostInnerValue");
+
+return result
+}
+```
