@@ -31,3 +31,5 @@ at some day i gotta set up my own dns server
 https://ab--g4.netlify.app/vs/gumroad/
 
 ghost.org
+
+criminology could be a nice thing to learn, course content seems interesting
