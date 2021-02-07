@@ -25,3 +25,28 @@
 ```
 npm run audit --fix
 ```
+
+### Content Security Policies
+
+```
+<meta http-equiv="Content-Security-Policy" content="
+  default-src;
+  script-src 'self';
+  style-src 'self';
+  img-src 'self' data:;
+  font-src;
+  connect-src 'self';
+  media-src 'self';
+  object-src 'none';
+  child-src;
+  frame-src;
+  form-action;
+  base-uri;
+  manifest-src 'self';
+">
+```
+##### There is also a generator for CSP:
+https://www.cspisawesome.com/content_security_policies
+
+##### Also check this
+https://developers.google.com/web/fundamentals/security/csp
