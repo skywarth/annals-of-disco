@@ -35,3 +35,5 @@ ghost.org
 criminology could be a nice thing to learn, course content seems interesting
 
 https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push-notification-in-laravel-ac11ba3260b4
+
+Jordan Peterson
