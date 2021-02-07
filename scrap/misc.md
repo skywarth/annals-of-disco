@@ -33,3 +33,5 @@ This will blow up in near future:
 https://github.com/Nick-Gottschlich/Social-Amnesia
 
 https://pfolios.net/
+
+https://snov.io/ //lead scrapyard,free
