@@ -37,3 +37,5 @@ criminology could be a nice thing to learn, course content seems interesting
 https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push-notification-in-laravel-ac11ba3260b4
 
 Jordan Peterson
+
+https://dev.to/hrishikesh1990/50-free-tools-to-ace-launch-your-side-projects-9pf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#launch
