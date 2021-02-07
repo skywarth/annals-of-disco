@@ -21,3 +21,5 @@ https://uxwing.com/ //free svg icon
 https://unsplash.com //free wallpaper
 
 https://jsonplaceholder.typicode.com/ //free json API, mock data
+
+https://sharingbuttons.io/
