@@ -7,6 +7,9 @@ Cloak and poison your publicly available images to avoid facial recog
 
 https://sandlab.cs.uchicago.edu/fawkes/
 
+Lotsa things, all-in-one 
+
+https://www.privacytools.io/
 
 Simple internet privacy box (neat idea)
 
