@@ -46,6 +46,8 @@ npm run audit --fix
 ">
 ```
 ##### There is also a generator for CSP:
+https://report-uri.com/home/generate
+
 https://www.cspisawesome.com/content_security_policies
 
 ##### Also check this
