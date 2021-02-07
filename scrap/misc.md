@@ -25,3 +25,5 @@ https://jsonplaceholder.typicode.com/ //free json API, mock data
 https://sharingbuttons.io/
 
 https://devrant.com/
+
+https://are.na
