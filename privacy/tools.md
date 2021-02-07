@@ -11,6 +11,11 @@ Lotsa things, all-in-one
 
 https://www.privacytools.io/
 
+Great list of stuff
+
+https://github.com/Lissy93/personal-security-checklist
+
+
 Simple internet privacy box (neat idea)
 
 https://upribox.org/en/getting-started/
