@@ -2,6 +2,12 @@ The Holy Book, Privacy Bible
 
 https://www.eff.org/
 
+
+Cloak and poison your publicly available images to avoid facial recog
+
+https://sandlab.cs.uchicago.edu/fawkes/
+
+
 Simple internet privacy box (neat idea)
 
 https://upribox.org/en/getting-started/
@@ -52,3 +58,6 @@ DNS:
 https://www.quad9.net/
 
 https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/
+
+
+
