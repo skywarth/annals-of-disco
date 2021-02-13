@@ -11,6 +11,11 @@ Lotsa things, all-in-one
 
 https://www.privacytools.io/
 
+Disposable messaging platform, live. //didn't insepcted it deeply yet
+
+http://www.sharetxt.live/
+
+
 Great list of stuff
 
 https://github.com/Lissy93/personal-security-checklist
