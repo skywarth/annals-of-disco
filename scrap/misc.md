@@ -6,6 +6,8 @@ https://citizenlab.ca/
 
 threejs.org //This sh*t is crazy yo
 
+https://xkcd.com/
+
 https://carbon.now.sh
 
 https://transparencyreport.google.com/government-removals/
