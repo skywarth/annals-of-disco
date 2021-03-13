@@ -43,3 +43,9 @@ https://dev.to/hrishikesh1990/50-free-tools-to-ace-launch-your-side-projects-9pf
 https://app.haikei.app/
 
 https://dev.to/vijaypushkin/dead-simple-state-management-in-vanilla-javascript-24p0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+
+https://regex101.com/
+
+https://www.moovweb.com
+
+https://undesign.learn.uno/
