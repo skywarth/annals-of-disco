@@ -39,3 +39,7 @@ https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push
 Jordan Peterson
 
 https://dev.to/hrishikesh1990/50-free-tools-to-ace-launch-your-side-projects-9pf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#launch
+
+https://app.haikei.app/
+
+https://dev.to/vijaypushkin/dead-simple-state-management-in-vanilla-javascript-24p0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
