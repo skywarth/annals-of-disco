@@ -1,3 +1,20 @@
+### Absolute middle and center
+```
+//Dynamic
+top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  
+//If you know the width 
+position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+```
+
+
 ### Drop caps, wrapping around
 ```
 p:first-child:first-letter {
