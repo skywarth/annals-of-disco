@@ -1,12 +1,12 @@
 
-_There comes a time where you show the middle to big corpo and institues for not valuing your idea/product. Afterall, this is the next big thing eh ?_
+_There comes a time where you show the middle to big corpo and institues for not valuing your idea/product. Afterall, this is the next big thing eh ? Make sure it sounds like a scheme or a bail-out._
 
-## Requirements for application:
+# Requirements for application:
 - Broke (important)
 - Broken (you know what it is)
 - Finish or be close to finishing your product
 
-### Gather Audience
+## Gather Audience
 Thou shall not in case it is just idea. Potential risk for intellectual property theft. 
 
 - https://www.producthunt.com/
@@ -33,3 +33,8 @@ Thou shall not in case it is just idea. Potential risk for intellectual property
 - https://www.reddit.com/r/startups/
 - https://www.reddit.com/r/SideProject/
 - https://bootstrappers.io/
+
+## Email - Breathe on their neck. Stalk em, spam em. Make use of leads as it's 2010
+- https://hunter.io/ (For knocking on the door of a company. 25 searches for free)
+- https://www.voilanorbert.com/pricing/ (Knocking the doors of whole neighbourhood. 50 leads Free)
+- https://snov.io/pricing (Freemium, good tool)
