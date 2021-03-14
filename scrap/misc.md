@@ -40,7 +40,10 @@ https://github.com/Nick-Gottschlich/Social-Amnesia
 
 https://pfolios.net/
 
-https://snov.io/ //lead scrapyard,free
-
-
 https://www.orangedox.com/?c=drive
+
+https://andreasbm.github.io/web-skills/ 
+
+https://roadmap.sh/frontend
+
+https://undesign.learn.uno/
