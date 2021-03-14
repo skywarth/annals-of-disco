@@ -1,3 +1,5 @@
+https://app.haikei.app/ //that svg thingy generator
+
 https://lunchclub.ai/
 
 https://freebies.bypeople.com/
