@@ -1,6 +1,3 @@
-digital ocean deploy button:
-
-https://www.digitalocean.com/blog/easily-deploy-open-source-apps-with-the-new-deploy-to-digitalocean-button-and-other-app-platform-enhancements/?utm_medium=email&utm_source=newsletter&utm_campaign=december-2020
 
 https://www.kodluyoruz.org/jobs/
 
@@ -9,14 +6,7 @@ https://www.inveon.com/careers/
 
 
 
-https://dev.to/nitdgplug/learn-the-basics-of-socket-io-by-making-a-multiplayer-game-394g?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
-
-
-
-https://dev.to/rahxuls/ultimate-javascript-cheatsheet-for-2021-41f6
-
-
-https://dev.to/reedbarger/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021-2945
+socket.io
 
 
 Gotta check the active fetch (like signalR) on js, e.g live messaging app:
@@ -25,20 +15,13 @@ https://www.youtube.com/watch?v=CK2XEyVGc6c
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 
-at some day i gotta set up my own dns server
-
-
 https://ab--g4.netlify.app/vs/gumroad/
 
 ghost.org
 
-criminology could be a nice thing to learn, course content seems interesting
-
 https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push-notification-in-laravel-ac11ba3260b4
 
 Jordan Peterson
-
-https://dev.to/hrishikesh1990/50-free-tools-to-ace-launch-your-side-projects-9pf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#launch
 
 https://app.haikei.app/
 
@@ -46,6 +29,6 @@ https://dev.to/vijaypushkin/dead-simple-state-management-in-vanilla-javascript-2
 
 https://regex101.com/
 
-https://www.moovweb.com
+https://www.moovweb.com //for SPA's and SSR perhaps.
 
-https://undesign.learn.uno/
+https://undesign.learn.uno/ //uhh so... allround 
