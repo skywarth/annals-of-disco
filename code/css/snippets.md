@@ -1,3 +1,8 @@
+## Text Hover Transitions
+
+https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+Alt: https://codepen.io/t_afif/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDg4NDQ2MA==
+
 ### Absolute middle and center
 ```
 //Dynamic
