@@ -4,3 +4,5 @@
  - Learn criminology
  - Public thank you page (submitting form etc.), preferably parametric
  - Use PWA 
+ - Abrupt FIN protocol
+ - Graceful FIN protocol
