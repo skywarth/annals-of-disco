@@ -1,3 +1,6 @@
+- Fullstack javascript: https://fullstackopen.com/en/
+- Modern javascript: https://javascript.info/
+
 https://javascript30.com/
 
 https://github.com/softchris/react-book
