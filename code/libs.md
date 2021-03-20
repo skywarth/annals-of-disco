@@ -14,6 +14,7 @@
 3. jsPDF _//module based (smh). But can get it to work in regular stuff. _ 
 4. pdf-lib _//looking promising. Only drawback is everything must be calculated and positioned pixel by pixel._
 5. LabelMake _//nice and easy. It is a new one. Currently free, hope it stays that way._
+6. https://github.com/ovvn/dom-to-pdf *//Dayum, this looks hella easy to use. And also it is DOM to PDF. Will try on first occurence.*
 
 ## UI Test
 
