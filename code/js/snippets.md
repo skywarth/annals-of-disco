@@ -1,3 +1,22 @@
+
+## Device Orientation Event and API
+- *You can test and override this with settings->more tools->sensors in chrome*
+- *Guess you can't do it without event. But what if one fired the event forcefully ? Oy oy oy*
+### Android, standard
+```
+//beware, this causes problems with apple permissions
+// There is a fourth parameter 'absolute'. But let's not get into that
+
+window.addEventListener('deviceorientation', handleOrientation);
+
+    function handleOrientation(event) {
+        const alpha = event.alpha;
+        const beta = event.beta;
+        const gamma = event.gamma;
+        console.log(alpha+" "+beta+" "+gamma);
+    }
+```
+
 ### Foreach shorthand
 
 ```
@@ -188,3 +207,4 @@ return ({[curr]: prev})
 return result
 }
 ```
+
