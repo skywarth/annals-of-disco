@@ -1,0 +1,1 @@
+- If you change hostname during installation or at some weird point, it may cause delay when issuing ```sudo``` on bash. Especially for starship shell. To fix this edit ```/etc/hosts```.
