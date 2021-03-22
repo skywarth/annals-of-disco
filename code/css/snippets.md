@@ -70,6 +70,14 @@ html {
 }
 ```
 
+### Truncate for multiline text
+```
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+```
+
 
 ### Three dot for long text, truncate
 ```
