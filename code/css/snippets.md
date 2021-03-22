@@ -3,6 +3,25 @@
 https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
 Alt: https://codepen.io/t_afif/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDg4NDQ2MA==
 
+---
+
+### Increase hover area 
+
+```
+/*I guess this doesn't work for click area, hover only.*/
+.btnOnlineAppointment:before {
+    content: "";
+    width: 100%;
+    height: calc(100% + 25px);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+```
+
+
+
+
 ### Absolute middle and center
 ```
 //Dynamic
