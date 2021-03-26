@@ -37,7 +37,7 @@ function onClick() {
   }
 }
 ```
-
+---
 ### Foreach shorthand
 
 ```
@@ -229,3 +229,17 @@ return result
 }
 ```
 
+### Measure function or execution time (Log)
+```
+console.time('TEST')
+
+//code in between
+
+console.timeEnd('TEST')
+```
+
+### Logging array of objects
+```
+// x,y,z are objects
+console.table([x, y, z])
+```
