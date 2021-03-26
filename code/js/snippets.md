@@ -1,3 +1,11 @@
+### Remove duplicate numbers (maybe even strings ?)
+```
+const arr = [1, 2, 2, 3]
+const newArr = new Set(arr)
+const unique = [...newArr]
+```
+
+
 
 ## Device Orientation Event and API
 - *You can test and override this with settings->more tools->sensors in chrome*
