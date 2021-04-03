@@ -1,4 +1,6 @@
 ## Instruments
+
+## Techniques
 ### Hand
 
 
