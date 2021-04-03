@@ -1,3 +1,13 @@
+### Uniques of an array
+```
+$unique = array_unique($arr); 
+//this messes up the indexes, so maybe use it like this
+
+$unique = array_values(array_unique($arr)); 
+//basically array_values just changes indexes to numeric and order based.
+```
+
+
 ### Amount of duplication for each duplicate in an array
 *count duplicate amounts*
 
