@@ -1,3 +1,5 @@
+https://www.noip.com/ //For dynamic ip problem for hosting
+
 https://app.haikei.app/ //that svg thingy generator
 
 https://lunchclub.ai/
