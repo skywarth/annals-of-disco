@@ -6,3 +6,4 @@
  - Use PWA 
  - Abrupt FIN protocol
  - Graceful FIN protocol
+ - The raspberry pi thingy (supa fun)
