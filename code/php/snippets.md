@@ -1,4 +1,11 @@
 
+### Array push
+```
+//is the arr first or second param ? lulz
+//this is the reason i miss prototype functions, extensions 
+array_push($arr, "apple");
+```
+
 ### Array to string 
 ```
 $comma_separated = implode(",", $array);
