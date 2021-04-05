@@ -1,3 +1,16 @@
+
+### Array to string 
+```
+$comma_separated = implode(",", $array);
+```
+
+
+### Split a string into an array (by delimeter)
+```
+$pieces = explode(" ", $pizza);
+```
+
+
 ### Uniques of an array
 ```
 $unique = array_unique($arr); 
