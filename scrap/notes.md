@@ -40,3 +40,20 @@ http://stackoverflow.com/questions/2558172/utf-8-bom-signature-in-php-files
 
 
 https://webcode.tools/
+
+
+CSS BEM
+
+https://30secondsofinterviews.org/
+
+https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+
+https://www.toptal.com/javascript/interview-questions
+
+https://quarkly.io/
+
+https://flukeout.github.io/
+
+https://regexone.com/
+
+https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
