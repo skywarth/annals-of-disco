@@ -36,3 +36,7 @@ https://undesign.learn.uno/ //uhh so... allround
 - BOM:
 http://en.wikipedia.org/wiki/Byte_order_mark
 http://stackoverflow.com/questions/2558172/utf-8-bom-signature-in-php-files
+
+
+
+https://webcode.tools/
