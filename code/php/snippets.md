@@ -1,3 +1,20 @@
+### Iterate array (don't use this)
+```
+//8 times slower than foreach, don't use this
+$test = array_fill(0, 10000, 'test_data');
+array_walk($test, function($value, $index)
+{
+    $value = 'testdata';
+});
+//foreach equivalent
+foreach ($test as $key => $value)
+{
+    $result[$key] = 'testdata';
+}
+
+
+```
+
 
 ### Array push
 ```
