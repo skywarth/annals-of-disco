@@ -1,3 +1,15 @@
+### ~~Lazy~~ Clever programmers alphabet
+```
+$alphabet=range('A', 'Z');
+```
+
+### Order in Alphabet
+```
+function orderInAlphabet($letter){
+ return ord(strtoupper($letter)) - ord('A') + 1;
+}
+```
+
 ### ASCII value of a char
 ```
 ord("a");
