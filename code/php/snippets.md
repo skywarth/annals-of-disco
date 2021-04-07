@@ -1,3 +1,9 @@
+### ASCII value of a char
+```
+ord("a");
+//uppercase differs!
+```
+
 ### Iterate array (don't use this)
 ```
 //8 times slower than foreach, don't use this
