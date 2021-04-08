@@ -1,3 +1,25 @@
+## PDF Page Count
+### Opt1 (Debunked for PDF's with more that 160~ pages)
+```
+$file = $pdfFile->openFile()->fread($pdfFile->getSize());
+$pageCount = preg_match_all("/\/Page\W/", $file, $dummy);*/
+```
+### Opt2 
+```
+//https://github.com/howtomakeaturn/pdfinfo
+//pdfinfo has to be installed in system
+composer require "howtomakeaturn/pdfinfo:1.*"
+
+```
+```
+$pdf = new PDFInfo('path/to/the/pdf');
+//or just file itself $pdf = new PDFInfo($request->file('uploadedFileFromForm'));
+echo $pdf->title; // Get the title
+echo $pdf->pages; // Get the number of pages
+```
+---
+
+
 ### ~~Lazy~~ Clever programmers alphabet
 ```
 $alphabet=range('A', 'Z');
