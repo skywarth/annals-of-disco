@@ -1,3 +1,4 @@
+
 ### Remove duplicate numbers (maybe even strings ?)
 ```
 const arr = [1, 2, 2, 3]
@@ -251,3 +252,83 @@ console.timeEnd('TEST')
 // x,y,z are objects
 console.table([x, y, z])
 ```
+
+
+### Image modal to Gallery
+```
+/*Scenario is: there are images (duh), when clicked they open in modal. Task is to make it so that there'll be "next and prev" buttons like a gallery, and it is expected to behave respectively.*/
+
+  $('.view-modal').on('hidden.bs.modal', function () {
+              resetActiveImage();
+            });
+
+            function resetActiveImage(){
+                document.querySelector(".activeImage").classList.remove("activeImage");
+            }
+            document.querySelector(".modal-next").addEventListener("click",function(e){
+                changeModalImage(true);
+            });
+            document.querySelector(".modal-prev").addEventListener("click",function(e){
+                changeModalImage(false);
+            });
+            function changeModalImage(isNext){
+                let nextImg;
+                let currModal=document.querySelector("#PreviewModal");
+                let currImg=document.querySelector(".activeImage");
+                if(isNext){
+                    nextImg=currImg.closest(".image-item").nextElementSibling.querySelector("img");
+                }else{
+                    nextImg=currImg.closest(".image-item").previousElementSibling.querySelector("img");
+                }
+
+
+                $("#PreviewModal").attr('src' , nextImg.src);
+                resetActiveImage();
+                nextImg.classList.add("activeImage");
+            }
+
+```
+```
+/*CSS for arrows*/
+
+.modal-next{
+    position: absolute;
+    right:-6rem;
+    border-radius: 50%;
+    background-color: #717171;
+    color:#fff;
+    top:50%;
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 3rem;
+    transform: translate(0, -50%);
+    border:0;
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.7;
+}
+
+.modal-prev{
+    position: absolute;
+    left:-6rem;
+    border-radius: 50%;
+    background-color: #717171;
+    color:#fff;
+    top:50%;
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 3rem;
+    transform: translate(0, -50%);
+    border:0;
+    width: 5rem;
+    height: 5rem;
+    opacity: 0.8;
+}
+```
+```
+<!--Add this as a sibling to modal-content -->
+ <button class="modal-prev">
+            <
+        </button>
+```
+
