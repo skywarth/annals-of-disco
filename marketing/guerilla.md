@@ -38,3 +38,6 @@ Thou shall not in case it is just idea. Potential risk for intellectual property
 - https://hunter.io/ (For knocking on the door of a company. 25 searches for free)
 - https://www.voilanorbert.com/pricing/ (Knocking the doors of whole neighbourhood. 50 leads Free)
 - https://snov.io/pricing (Freemium, good tool)
+
+## Ads
+- https://tinyads.io/ (100 impressions for free)
