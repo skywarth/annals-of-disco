@@ -35,6 +35,8 @@ Messaging
 
 https://status.im/ (These guys do so many stuff)
 
+https://keybase.io/
+
 Mail
 
 Social media:
