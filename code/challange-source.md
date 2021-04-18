@@ -30,9 +30,22 @@
 - No badge for markdown, pepehands.
 - No dark/night mode for UI. Hurts your soul.
 
+
+### [hackerrank] (https://www.hackerrank.com)
+
+#### Pros:
+- Professional, and promising look that it'll be usefull for landing a job. ?
+- Achievements
+- Many sets of preparation material
+
+#### Cons:
+- Terrible problem explanations. Had a hard time understanding even the simplest questions.
+
+
+
 ### Haven't tried yet
 
-- https://www.hackerrank.com/
+- https://www.hackerrank.com/ (in progress)
 - https://exercism.io/
 - https://www.codingame.com/
 - https://app.codility.com/programmers/challenges/
