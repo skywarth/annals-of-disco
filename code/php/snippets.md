@@ -1,3 +1,17 @@
+### Enum (kinda)
+```
+class ItemTypeEnum
+{
+    const Document = 0;
+    const Book= 1;
+    const Image= 2;
+    const Photo= 3;
+    const Article=4;
+
+}
+
+```
+
 ## PDF Page Count
 ### Opt1 (Debunked for PDF's with more that 160~ pages)
 ```
