@@ -1,3 +1,10 @@
+## Get pressed key code
+```
+sudo apt-get install showkey
+sudo showkey
+```
+
+
 ## Screen
 *Case sensitive*
 - ```Ctrl+a c```  Create a new window
