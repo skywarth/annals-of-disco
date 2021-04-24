@@ -1,3 +1,10 @@
+## Nano
+```
+- Alt - U Undo
+- Alt + ^ Copy
+- Ctrl + K Cut (use this)
+- Ctrl + U Paste
+```
 ## Tmux
 ```
 - <prefix> c Create a new window
