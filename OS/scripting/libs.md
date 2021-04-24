@@ -1,9 +1,23 @@
+## Tmux
+```
+- <prefix> c Create a new window
+- <prefix> w Choose window from a list
+- <prefix> - splits the current pane vertically
+- <prefix> _ splits the current pane horizontally
+- <prefix> h, <prefix> j, <prefix> k and <prefix> l let you navigate panes ala Vim
+- <prefix> x Close the current pan
+```
+
+
+
+---
+
 ## Get pressed key code
 ```
 sudo apt-get install showkey
 sudo showkey
 ```
-
+---
 
 ## Screen
 *Case sensitive*
