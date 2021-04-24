@@ -6,6 +6,9 @@
 - Ctrl + U Paste
 ```
 ## Tmux
+*This one is pretty decent config:*
+
+https://github.com/gpakosz/.tmux#configuration
 ```
 - <prefix> c Create a new window
 - <prefix> w Choose window from a list
