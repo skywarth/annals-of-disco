@@ -3,3 +3,6 @@
 
 ## Text editor
 - https://editorjs.io/
+
+## Sound and Music player
+- https://howlerjs.com/
