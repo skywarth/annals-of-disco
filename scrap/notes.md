@@ -58,5 +58,7 @@ https://regexone.com/
 
 https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 
-
 asciiquarium
+
+
+Tensorflow is available with js
