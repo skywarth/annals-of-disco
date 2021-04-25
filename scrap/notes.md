@@ -1,11 +1,3 @@
-
-https://www.kodluyoruz.org/jobs/
-
-
-https://www.inveon.com/careers/
-
-
-
 socket.io
 
 
@@ -24,10 +16,6 @@ https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push
 Jordan Peterson
 
 https://app.haikei.app/
-
-https://dev.to/vijaypushkin/dead-simple-state-management-in-vanilla-javascript-24p0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
-
-https://regex101.com/
 
 https://www.moovweb.com //for SPA's and SSR perhaps.
 
@@ -54,7 +42,7 @@ https://quarkly.io/
 
 https://flukeout.github.io/
 
-https://regexone.com/
+
 
 https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 
