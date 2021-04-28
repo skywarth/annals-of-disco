@@ -1,3 +1,18 @@
+### save cd path for shorthand
+```
+#Add this to bashrc
+shopt -s cdable_vars
+export myFold=$HOME/Files/Scripts/Main
+
+#So that you can
+cd myFold
+```
+
+### Reload .bashrc
+```
+source ~/.bashrc
+```
+
 ### Local ip in the network
 ```
 hostname -I
