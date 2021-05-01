@@ -7,3 +7,4 @@
  - Abrupt FIN protocol
  - Graceful FIN protocol
  - The raspberry pi thingy (supa fun)
+ - Migrate to NextCloud and spread the gospel
