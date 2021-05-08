@@ -37,12 +37,17 @@ https://status.im/ (These guys do so many stuff)
 
 https://keybase.io/
 
-Social media:
+---
 
-https://parler.com/auth/access
+### Social media:
 
-https://joinmastodon.org/
+- https://parler.com/auth/access
 
+- https://joinmastodon.org/
+
+- https://gab.com/
+
+---
 
 
 Browser:
@@ -55,14 +60,16 @@ File Upload:
 
 https://blackhole.run/
 
-
-Mail:
+---
+### Mail:
 
 - Proton Mail
 - - Free, nice mobile app. Offers also encryption. Fresh on market. Also pm.me is available for email domain, dayumm.
 - Mailbox (1 EUR per month, well deserved i guess):
 - - Offers incredible encryption options
 - Tutanota
+
+---
 
 VPN:
 
