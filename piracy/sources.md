@@ -16,6 +16,7 @@
 - kickass (rip)
 - putlockers.cr (mov)
 - kodi (installation, rasp)
+- cartoonhd.app (installation)
 
 ## Pharaoh's grave
 - unblocked-pw.github.io 
