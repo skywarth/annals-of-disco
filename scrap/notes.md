@@ -43,16 +43,7 @@ https://quarkly.io/
 https://flukeout.github.io/
 
 
-
-https://dev.to/worldindev/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
-
-asciiquarium
-
-
 Tensorflow is available with js
-
-
-Finally, i have found it. Volfied
 
 
 https://github.com/danrl/wifi-probe
@@ -62,3 +53,7 @@ https://github.com/brannondorsey/sniff-probes
 https://github.com/netaddr/netaddr 
 
 TerraMaster
+
+https://github.com/lorisleiva/laravel-docker
+
+https://hub.docker.com/r/hitalos/laravel
