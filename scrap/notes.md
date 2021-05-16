@@ -57,3 +57,6 @@ TerraMaster
 https://github.com/lorisleiva/laravel-docker
 
 https://hub.docker.com/r/hitalos/laravel
+
+
+Asus tinker board, ODroid
