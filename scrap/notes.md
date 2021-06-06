@@ -64,3 +64,6 @@ Asus tinker board, ODroid
 https://ghygen.hi-folks.dev/?template=laravelapp
 
 https://www.dvc.edu/future/steps/new.html
+
+
+https://github.com/danielmiessler/SecLists
