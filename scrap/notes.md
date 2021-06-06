@@ -11,24 +11,14 @@ https://ab--g4.netlify.app/vs/gumroad/
 
 ghost.org
 
-https://medium.com/@arifulislam_ron/a-quick-guide-to-implement-firebase-web-push-notification-in-laravel-ac11ba3260b4
 
 Jordan Peterson
-
-https://app.haikei.app/
-
-https://www.moovweb.com //for SPA's and SSR perhaps.
 
 https://undesign.learn.uno/ //uhh so... allround 
 
 - BOM:
 http://en.wikipedia.org/wiki/Byte_order_mark
 http://stackoverflow.com/questions/2558172/utf-8-bom-signature-in-php-files
-
-
-
-https://webcode.tools/
-
 
 CSS BEM
 
@@ -38,28 +28,12 @@ https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
 
 https://www.toptal.com/javascript/interview-questions
 
-https://quarkly.io/
-
-https://flukeout.github.io/
-
-
-Tensorflow is available with js
-
+https://flukeout.github.io/ //CSS selector practice
 
 https://github.com/danrl/wifi-probe
 
 https://github.com/brannondorsey/sniff-probes
 
-https://github.com/netaddr/netaddr 
-
-TerraMaster
-
-https://github.com/lorisleiva/laravel-docker
-
-https://hub.docker.com/r/hitalos/laravel
-
-
-Asus tinker board, ODroid
 
 https://ghygen.hi-folks.dev/?template=laravelapp
 
