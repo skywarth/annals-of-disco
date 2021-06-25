@@ -1,3 +1,8 @@
+## Rename file names starting with x to starting with y
+```
+rename 's/X/Y/g' *
+```
+
 ## Nload
 *Is for network load tracking*
 
