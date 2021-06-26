@@ -45,3 +45,5 @@ https://github.com/danielmiessler/SecLists
 https://www.tindie.com/products/stephanelec/mooltipass-mini-ble-authenticator/
 
 https://prometheus.io/
+
+Prometheus video https://www.youtube.com/watch?v=4WWW2ZLEg74
