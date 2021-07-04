@@ -2,9 +2,17 @@
 ```
  sudo route del default gw 192.168.1.1
 
- #To re-enable it:
+ # To re-enable it:
  sudo route add default gw 192.168.1.1
+``` 
 ```
+ # Alternative, assumning your LAN range is 192.168.1.0 with /24 (haven't tried)
+ iptables -P INPUT DROP
+ iptables -A INPUT -s 192.168.1.0/24 -j ACCEPT
+```
+ 
+ 
+
 
 ### Find your network gateway
 ```
