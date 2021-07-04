@@ -1,3 +1,16 @@
+### Disable all connection except LAN (disable internet)
+```
+ sudo route del default gw 192.168.1.1
+
+ #To re-enable it:
+ sudo route add default gw 192.168.1.1
+```
+
+### Find your network gateway
+```
+route -n|grep "^0.0.0.0"
+```
+
 ### save cd path for shorthand
 ```
 #Add this to bashrc
