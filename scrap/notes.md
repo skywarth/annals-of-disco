@@ -92,3 +92,6 @@ Disable factory reset:
 If you believe that you will never need the factory restore, I recommend disabling it completely.
 Edit /usr/local/sbin/factoryRestore.sh and wipeFactoryRestore.sh and change line #2 to exit.
 */ from https://community.wd.com/t/help-all-data-in-mybook-live-gone-and-owner-password-unknown/268111/415
+
+
+Maze Generation Algorithm (https://en.wikipedia.org/wiki/Maze_generation_algorithm)
