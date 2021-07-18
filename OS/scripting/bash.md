@@ -1,3 +1,19 @@
+### mkdir with child
+```
+mkdir -p 
+```
+
+### Delete dir
+```
+rmdir yourDir
+```
+
+If has child
+
+```
+rm -r yourDir
+```
+
 ### Disable all connection except LAN (disable internet)
 ```
  sudo route del default gw 192.168.1.1
