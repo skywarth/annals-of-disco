@@ -30,6 +30,47 @@ echo "CREATED = '${myarray[CREATED]}'"
 echo "AUTHOR = '${myarray[AUTHOR]}'"
 ```
 
+Full recursive, but you cannot use any integer at all
+```
+SOURCE="$PWD"
+SETTINGS_FILE="./test2.json"
+SETTINGS_JSON=`cat "$SETTINGS_FILE"`
+
+declare -A SETTINGS
+
+get_settings() {
+    local PARAMS="$#"
+    local JSON=`jq -r "to_entries|map(\"\(.key)=\(.value|tostring)\")|.[]" <<< "$1"`
+    local KEYS=''
+
+    if [ $# -gt 1 ]; then
+        KEYS="$2"
+    fi
+
+    while read -r PAIR; do
+        local KEY=''
+
+        if [ -z "$PAIR" ]; then
+            break
+        fi
+
+        IFS== read PAIR_KEY PAIR_VALUE <<< "$PAIR"
+
+        if [ -z "$KEYS" ]; then
+            KEY="$PAIR_KEY"
+        else
+            KEY="$KEYS:$PAIR_KEY"
+        fi
+
+        if jq -e . >/dev/null 2>&1 <<< "$PAIR_VALUE"; then
+            get_settings "$PAIR_VALUE" "$KEY"
+        else
+            SETTINGS["$KEY"]="$PAIR_VALUE"
+        fi
+    done <<< "$JSON"
+}
+```
+
 
 ## Rename file names starting with x to starting with y
 ```
