@@ -1,3 +1,36 @@
+## JQ (reading JSON)
+```
+constants=$(cat "test.json" | jq '.' | jq -r "to_entries|map(\"\(.key)=\(.value|tostring)\")|.[]")
+echo $constants
+exit
+
+```
+
+Alternative
+```
+
+  {
+	"SITE_DATA": {
+	  "URL": "example.com",
+	  "AUTHOR": "John Doe",
+	  "CREATED": "10/22/2017"
+	}
+  }
+  # If you wan't every attribute inside SITE_DATA:
+  typeset -A myarray
+
+while IFS== read -r key value; do
+    myarray["$key"]="$value"
+done < <(jq -r '.SITE_DATA | to_entries | .[] | .key + "=" + .value ' test2.json)
+
+
+# make use of the array variables
+echo "URL = '${myarray[URL]}'"
+echo "CREATED = '${myarray[CREATED]}'"
+echo "AUTHOR = '${myarray[AUTHOR]}'"
+```
+
+
 ## Rename file names starting with x to starting with y
 ```
 rename 's/X/Y/g' *
