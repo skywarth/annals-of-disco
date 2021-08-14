@@ -95,32 +95,67 @@ Now we can have thousands of animals integrated and our little function won't ev
 
 Basically this principle says: All child objects should be able to replace their parents. In other words, whatever method does parent have, child gotta implement them (override or just inherit). **Not sure if this applies to only immediate inheritance or in-depth** Take this example:
 
+Before:
 ```
-class Car{
+class Mammal{
 
-public function getShotgunPassengerName(){
-  return $this->shotgunPassengerName;
-}
+  public function getArmLength(){
+    return $this->arm_length;
+  }
 
-}
-```
-
-```
-class Formula extends Car{
-
-public function getShotgunPassengerName(){
-  //formulas doesn't have shotgun nor back seat.
-  throw new NotImplemented;
-}
-//therefore there this violates liskov subsitution principle. We have to change abstraction and inheritance.
 }
 ```
 
 ```
-class Vehicle{
-//continue from here
+class Penguin extends Mammal{
+
+  public function getArmLength(){
+    //penguins don't have arms, they have flippers (or wings if you are illiterate)
+    throw new NotImplemented;
+  }
+  //therefore there this violates liskov subsitution principle. We have to change abstraction and inheritance.
 }
 ```
 
+After:
+
+```
+class Animal{
+  //pretty much is a interface actually
+  public function getPrimaryLimbLength(){
+      //message to those who extend/inherit this, override it.
+  }
+}
+```
+
+``` 
+class Mammal extends Animal {
+   
+   //overriding it
+   @override
+   public function getPrimaryLimbLength(){
+      return $this->getArmLength();
+   }
+    
+   public function getArmLength(){
+      return $this->arm_length;
+   }
+}
+```
+
+```
+class Penguin extends Animal{
+   
+   //overriding it
+   @override
+   public function getPrimaryLimbLength(){
+      return $this->getFlippersLength();
+   }
+    
+   public function getFlippersLength(){
+      return $this->flipper_length;
+   }
+}
+```
 
 
