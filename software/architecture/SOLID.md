@@ -95,6 +95,8 @@ Now we can have thousands of animals integrated and our little function won't ev
 
 Basically this principle says: All child objects should be able to replace their parents. In other words, whatever method does parent have, child gotta implement them (override or just inherit). **Not sure if this applies to only immediate inheritance or in-depth** Take this example:
 
+### Break the hierarchy
+
 Before:
 ```
 class Mammal{
@@ -158,4 +160,6 @@ class Penguin extends Animal{
 }
 ```
 
+### Tell, don't ask
 
+If you hold an array/collection/generic/list etc. with type of a parent class (like so: ```List<Animal> animalsList=new List<Animal>();```), and you have condition like this while iterationg/deleting/inserting/updating over it similar to ```if(someHorse.GetType() == typeof(Dog))``` you are probably doing something wrong. A generic collection/array/whatever should work seamlessly with all it's children as much as possible.
