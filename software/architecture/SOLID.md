@@ -91,3 +91,36 @@ Now we can have thousands of animals integrated and our little function won't ev
 
 ## Liskov substitution
 
+"If it looks like a duck, and quacks like a duck, but it needs batteries; then you have wrong abstraction."
+
+Basically this principle says: All child objects should be able to replace their parents. In other words, whatever method does parent have, child gotta implement them (override or just inherit). **Not sure if this applies to only immediate inheritance or in-depth** Take this example:
+
+```
+class Car{
+
+public function getShotgunPassengerName(){
+  return $this->shotgunPassengerName;
+}
+
+}
+```
+
+```
+class Formula extends Car{
+
+public function getShotgunPassengerName(){
+  //formulas doesn't have shotgun nor back seat.
+  throw new NotImplemented;
+}
+//therefore there this violates liskov subsitution principle. We have to change abstraction and inheritance.
+}
+```
+
+```
+class Vehicle{
+//continue from here
+}
+```
+
+
+
