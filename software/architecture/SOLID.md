@@ -31,6 +31,8 @@ IMHO this is some utopian bullcrap. If you really aim to have one reason to chan
 ### Oper for extension, closed for modification
 Write once, extend everywhere. After a software component is done, it's a big no to modify it. It should be developed it such way that it can easily be extended/inherited. 
 
+**Do not follow this principle blindly, or it'll overwhelm your whole system.**
+
 Imagine this scenario:
 
 ```
@@ -84,3 +86,8 @@ return $animal->prowess;
 ```
 
 Now we can have thousands of animals integrated and our little function won't ever fail and we won't have to add any hotfix or not-sure implementations.
+
+
+
+## Liskov substitution
+
