@@ -163,3 +163,13 @@ class Penguin extends Animal{
 ### Tell, don't ask
 
 If you hold an array/collection/generic/list etc. with type of a parent class (like so: ```List<Animal> animalsList=new List<Animal>();```), and you have condition like this while iterationg/deleting/inserting/updating over it similar to ```if(someHorse.GetType() == typeof(Dog))``` you are probably doing something wrong. A generic collection/array/whatever should work seamlessly with all it's children as much as possible.
+
+
+## Interface Segregation
+
+"No clients should be forced to depend on methods it does not use"
+
+What the hell, this is the same as Liskov substitution ??
+
+Whatever methods does an interface has, it should be present (and non-blank) in those who implement it. Also don't group unrelated behavior in one interface. Split them.
+
