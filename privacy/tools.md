@@ -2,6 +2,9 @@ The Holy Book, Privacy Bible
 
 https://www.eff.org/
 
+DeGoogle:
+https://github.com/tycrek/degoogle
+
 
 Cloak and poison your publicly available images to avoid facial recog
 
