@@ -98,3 +98,15 @@ Maze Generation Algorithm (https://en.wikipedia.org/wiki/Maze_generation_algorit
 
 
 https://themodularbody.com/
+
+
+
+
+https://www.youtube.com/channel/UC6IivHdACKC_wDc1kPWidNg
+https://www.youtube.com/watch?v=hVLjCrxKfQM (important)
+https://www.youtube.com/watch?v=JvbIEimqd0Y
+https://back7.co/home/raspberry-pi-recovery-kit
+https://archive.org/details/military-manuals
+https://evanmeaney.com/_recpi.html
+
+https://evanmeaney.com/currently.html (mindjob)
