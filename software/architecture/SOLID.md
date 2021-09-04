@@ -177,3 +177,65 @@ Whatever methods does an interface has, it should be present (and non-blank) in 
 - Chonker interfaces
 - Low cohession (unrelated elements)
 - Empty overloads, implementations to trick OOP gods
+
+
+## Dependency Inversion (DIP, p for principle)
+> "High-level modules should not depend on low-level modules. Both should depend on abstractions."
+> "Abstraction should not depend on details. Details should depend on abstractions."
+
+Can't say i'm the biggest fan of this one.
+For example, a controller shouldn't depend on some service/repository/model directly. Scenario: 
+
+Before implementing this principle:
+
+```
+class CarController(){
+public function carsList(){
+  $carServiceInstance=new CarService();
+  $cars=carServiceInstance->getCars();
+  return response()->json($cars);
+}
+}
+```
+```
+class CarService{
+public function getCars(){
+  return Car::all();
+}
+}
+```
+
+As you can see, high level module CarController's carsList() method tightly depends on low level module CarService's getCars() method. This breaks the principle. To fix this:
+```
+class CarController(){
+public function carsList(){
+  ICarService $carServiceInstance=CarServiceRepository::create(); //mind the variable type
+  $cars=CarService::getCars();
+  return response()->json($cars);
+}
+}
+```
+
+```
+interface ICarService{
+  public function getCars();
+}
+```
+
+```
+class CarService implements ICarService{
+public function getCars(){
+  return Car::all();
+}
+}
+```
+
+```
+class CarServiceFactory(){
+  public static create():ProductRepository{
+      return new CarService();
+  }
+}
+```
+
+Now high level module is no longer dependent on low level module directly. Well if you ask me, now there is 4 classes/interfaces instead of 2. Yeah it probably reduced coupling but still a little bit too much of an overhead.
