@@ -210,7 +210,7 @@ As you can see, high level module CarController's carsList() method tightly depe
 class CarController(){
 public function carsList(){
   ICarService $carServiceInstance=CarServiceRepository::create(); //mind the variable type
-  $cars=CarService::getCars();
+  $cars=$carServiceInstance::getCars();
   return response()->json($cars);
 }
 }
@@ -239,3 +239,25 @@ class CarServiceFactory(){
 ```
 
 Now high level module is no longer dependent on low level module directly. Well if you ask me, now there is 4 classes/interfaces instead of 2. Yeah it probably reduced coupling but still a little bit too much of an overhead.
+
+### Dependency Injection 
+
+In this context, it means instead of creating the ICarService instance directly in the CarController, we add a construct method which takes a parameter with type of ICarService. Dependency injection greatly reduced coupling.
+
+```
+class CarController(){
+
+protected ICarService $ICarServiceInstance;
+public function __construct(ICarService $ICarServiceInstance){
+  $this->$ICarServiceInstance=$ICarServiceInstance;
+}
+
+public function carsList(){
+
+  $cars=$this->ICarServiceInstance::getCars();
+  return response()->json($cars);
+}
+}
+```
+
+### Inversion of Control
