@@ -1,11 +1,20 @@
 # SOLID
 
+
 ## S.O.L.I.D stands for
 - Single responsiblity (hell yeah)
 - Open closed
 - Liskov substitution
 - Interface segregation
 - Dependency inversion
+
+
+## Conclusion:
+- Single responsibility: Rules, absolutely makes sense.
+- Open Closed: Sounds good, doesn't work. I mean do you honestly believe that we can simply make all those classes ready to be inherited ??
+- Liskov substitution: Duh, it's cool.
+- Interface Segregation: meh, pretty similar to Liskov anyways.
+- Dependency Inversion: Dependency Injection is great and prohibiting relation between high and low level modules DIRECTLY is logical. But for real, we can't create 5 classes with complex dependency if we can do it with 2 class and simple call. Ain't nobody got time for that ??
 
 
 ## Glossary:
@@ -242,7 +251,7 @@ Now high level module is no longer dependent on low level module directly. Well 
 
 ### Dependency Injection 
 
-In this context, it means instead of creating the ICarService instance directly in the CarController, we add a construct method which takes a parameter with type of ICarService. Dependency injection greatly reduced coupling.
+In this context; it means instead of creating the ICarService instance directly in the CarController, we add a construct method which takes a parameter with type of ICarService. Dependency injection greatly reduced coupling.
 
 ```
 class CarController(){
@@ -261,3 +270,11 @@ public function carsList(){
 ```
 
 ### Inversion of Control
+
+Yeah Dependency Injection is cool and all but what if we wanted to isolate the injection process from the upper layer. Because it's bloating my workflow.
+
+Most frameworks do this and has dedicated stuff related to it. E.g Java Spring IOC container, Laravel Service Container
+
+
+
+
