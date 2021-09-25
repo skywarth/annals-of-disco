@@ -14,12 +14,15 @@ I don't know which one of y'all thought of this but you either didn't think it t
 
 #### Possible maleficent use cases:
 - Ad services: can stop playing the ad if you  aint active. I mean everyone does that if ads are forced, you just look around, browse other tabs etc. And its fun to piss-off ad publishers. But after idle detection API it'll no longer be possible. 
+<img src="ads-looking-away.jpg" width="500">
+
 - Mine crypto coin when user is idle.
 - Charter time scheme of a person. How often they get up to go to toilet, when do they have lunch, do they use the computer on lunch.
 - Home-office physical intrusion. Assume that i were to develop an app for certain people to use. And since now i can detect if they are idle or not, i can do a home-intrusion comfortably. E.g when door is broke down, i can know if they heard it or not. Disclaimer: don't do home-intrusion. Just don't.
 - Spying on your employees, like c'mon. 
-//meme here
-//maybe also pepe
+
+<!---  ![Alt text](ads-looking-away.jpg?raw=true "Title" | width=100) --->
+
 
 
 #### Beneficent
