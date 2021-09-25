@@ -1,6 +1,6 @@
 "Great power comes with great responsibility."
 
-Well it's like that old friend from high school who is pretty successful. You might ask him to do you a favor, but it is certain that he is an arse-hole. And it's no surprise since chrome is a proprietary software. There could be ton of zero-day exploits, some anti piracy mechanism or a watchdog which violates privacy rights.
+Well it's like that old friend from high school who is pretty successful. You might ask him to do you a favor, but you knon that he is an PITA. And it's no surprise since chrome is a proprietary software. There could be ton of zero-day exploits, some anti piracy mechanism or a watchdog which violates privacy rights.
 
 Yeah it's fast, updates smoothly (looking at you firefox), doesn't have obvious bugs. But since it's proprietary, it starts the race far behind in comparison, it's a giant con.
 
