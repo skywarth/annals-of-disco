@@ -7,6 +7,10 @@ Set cookies and unique identifiers by setting a series of favicon redirects etc.
 
 Yet another illusion whereas it is claimed that this new way of tracking (rather than cookies) is more private. And of course its bs. Options shouldn't be old tracking (cookies) vs new tracking (FLoC). It should be tracking or no tracking. The way it is presented could be sensed as deceptive on it's own.
 
+### Idle Detection API by Chrome
+
+*Refer to browsers folder.*
+
 # Smart Phone
 
 ### Forced data extraction
