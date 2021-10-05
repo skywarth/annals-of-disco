@@ -69,3 +69,5 @@ https://evanmeaney.com/currently.html (mindjob)
 
 
 A* search algorithm
+
+project ARA (whoever made this project fail, yo mama aint a nice lady)
