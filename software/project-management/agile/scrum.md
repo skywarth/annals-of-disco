@@ -30,3 +30,10 @@ Agile aims on release features regular basis. It is so waterfall to deploy the w
 - Req changes are often
 - Allows discovering issues early on
 - Periodic replanning
+
+
+### Agile manifesto
+- **Individuals and interactions**, over process and tools
+- **Working software**, over comprehensive documentation
+- **Customer collab**, over contract negotiation
+- **Responding to change**, over following a plan
