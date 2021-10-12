@@ -9,7 +9,7 @@
 ### Stateful & state-management
 _Let's see who is under this hood... *reveals good ol' mutators_
 
-So i know you guys love the glorify state management and therefore support the modern frameworks but are you aware that you can do state management rather easily ?
+So i know you guys love to glorify state management and therefore support the modern frameworks but are you aware that you can do state management rather easily ?
 
 might add the code later
 
