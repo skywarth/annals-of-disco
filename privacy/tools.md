@@ -61,7 +61,7 @@ brave (not first pref. since it's chromium base)
 
 File Upload:
 
-https://blackhole.run/
+https://blackhole.run/ //careful, smells like honeypot
 
 ---
 ### Mail:
