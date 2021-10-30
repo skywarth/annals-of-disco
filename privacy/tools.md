@@ -40,6 +40,7 @@ https://status.im/ (These guys do so many stuff)
 
 https://keybase.io/
 
+https://www.signal.org/ (very based sire. They even showed a finger or two to auth)
 ---
 
 ### Social media:
