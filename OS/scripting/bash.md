@@ -1,3 +1,12 @@
+Wipe buggy flash drive
+```
+wipefs -a /dev/your-device 
+
+```
+```
+sudo dd if=/dev/zero of=/dev/the-buggy-drive bs=2048 count=32
+```
+
 ### mkdir with child
 ```
 mkdir -p 
