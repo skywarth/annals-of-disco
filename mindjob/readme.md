@@ -11,3 +11,5 @@ https://findsatoshi.com/
 stoicism
 
 playtime (movie)
+
+Conway's game of life
