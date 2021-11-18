@@ -3,6 +3,8 @@ Basically, next-big-thing that everyone wants to hope onto. Choosing the methodo
 > "Age of methodologies is over, the time of one methodology has come." 
 > -Probably some orc
 
+It is a framework
+
 ### Short story:**
 
 Waterfall bad, agile gud. Sprint is 1 week of work. 
@@ -42,8 +44,8 @@ Agile aims on release features regular basis. It is so waterfall to deploy the w
 ## Foundation of Scrum
 
 ### Scrum Theory
-- **Transparency**: Done means done, be honest
-- **Inspection**: Check progress
+- **Transparency**: Done means done, be honest. 
+- **Inspection**: Check progress. Shouldn't be so frequent where it just gets into the way of work.
 - **Adaptation**: Change product based on inspection
 
 
@@ -53,4 +55,14 @@ Agile aims on release features regular basis. It is so waterfall to deploy the w
 - **Product Backlog**: Or just backlog. The list of things that needs to be done. Can grow over time, don't worry. I've never seen a project with clean backlog. It always contains tasks so old, the backlog is just like deep-freezer at that point. *I remember a tasks so deep in the backlog... It is said if you read the description to the mirror at 3AM, ghost developers of the forsaken past shall haunt you. Those poor men who attempted it...* 
 - **Sprint backlog**: Just a bunch of tasks gathered from product backlog. Team members may take tasks from here.
 - **Sprint**: Work plan for interval/period of X. Sprint period could be 1 week, 2 week, 30 days, 1.5 eons, 3 falls, 2 stories... JK, it's gotta be less than 30 days otherwise it's just stooped. Important thing here is that you have to deliver a deployment-ready product at the end of the sprint.
-- **Daily sprint meeting**: just gather up with the team and check how's everyone doing. Review progress. See potential failures in advance.
+- **Daily scrum meeting**: just gather up with the team and check how's everyone doing. Review progress. See potential failures in advance.
+
+
+### Scrum Events
+- Sprint Planning
+- Daily scrum meeting
+- Sprint review
+- Sprint retrospective
+
+You have to be doing these events.
+
