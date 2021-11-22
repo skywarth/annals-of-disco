@@ -20,7 +20,8 @@ TBA
 
 ## Glossary
 - **ROI**: Return on investment
-- 
+- **Responsible**: The one who accomplishes the task/work. The actual person, directly.
+- **Accountable**: The one instructs or delegates a responsibility/tasks.
 
 ---
 
@@ -95,6 +96,10 @@ Developers of 10 are usually the top limit. Try not to excess that. If you have 
 - Create product backlog (nope, not really)
 - Prioritize requirements by business value, basically by money
 - Make decisions for maximum ROI
+- Product owner is **responsible**/accountable for managing product backlog
+- Gotta order priority of product backlog items.
+- Constantly seeks out opportunities to increase ROI, by optimizing developers.
+- Entire ORG must respect his/her decisions
 
 
 #### Developers
