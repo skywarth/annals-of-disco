@@ -5,11 +5,11 @@ Basically, next-big-thing that everyone wants to hope onto. Choosing the methodo
 
 It is a framework
 
-### Short story:**
+### Short story:
 
 Waterfall bad, agile gud. Sprint is 1 week of work. 
 Daily standup meetings to check if colleagues are still alive. Scum maste- Ehm, Sorry. Scrum master manages the whole thing.
-Story estimates defina a task's effort, negotiate with the master.
+Story estimates defines a task's effort, negotiate it with the master.
 
 ### Conclusion
 
@@ -19,8 +19,8 @@ TBA
 ---
 
 ## Glossary
-
-
+- **ROI**: Return on investment
+- 
 
 ---
 
@@ -64,5 +64,50 @@ Agile aims on release features regular basis. It is so waterfall to deploy the w
 - Sprint review
 - Sprint retrospective
 
-You have to be doing these events.
+You have to be doing these events. Or not! At least some of them.
+
+
+### Scrum Team
+
+Developers of 10 are usually the top limit. Try not to excess that. If you have more than 10 people then try to diverge them into sub-projects.
+
+
+- Product Owner
+- Scrum master
+- The developers
+
+#### Scrum Master
+
+***Usually project manager or team lead. Since scrum rules are not really followed anymore, he decides what will be accomplished this sprint and who-will-do-what.***
+
+- Remove impediments for the team
+- Expert on scrum rules
+- Help the team to self manage
+- Organize meetings
+- Aid the product to boost ROI
+
+
+#### Product Owner
+
+***Just the boss of the whole thing. If you are not sure who is the product owner, follow the money. Audit who payrolls your arse. That is the guy. He keeps the money flowing which keeps the show running.***
+
+- Define scenario in detail
+- Create product backlog (nope, not really)
+- Prioritize requirements by business value, basically by money
+- Make decisions for maximum ROI
+
+
+#### Developers
+
+***Bottom of the caste, poor fellas who does the actual work. Feed them and you shall see the bottom of the backlog. Respect them and do not push them to the limit. ***
+
+*** Scrum master found me guilty sir, then i was condemned to extra workload. For life-cycle of this product, developer i sentence you to gruelling. *** 
+
+- Build potentially releasable product
+- Self managing and collaborative
+- Experts in their field
+- Gets the job done
+- Looks up to the scrum master for guidance, and asking for removal of obstacles
+
+
 
