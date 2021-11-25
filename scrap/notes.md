@@ -71,3 +71,9 @@ https://evanmeaney.com/currently.html (mindjob)
 A* search algorithm
 
 project ARA (whoever made this project fail, yo mama aint a nice lady)
+
+
+
+https://www.healio.com/news/optometry/20200408/blog-how-and-why-does-asteroid-hyalosis-form
+
+"This is a harmless condition where calcium soap deposits form inside the vitreous fluid that fills the back of the eye. During an eye exam, these little specks glow brightly under the microscope – in fact, the inside of the eye looks like a blizzard or snow globe. Despite the impressive microscopic appearance, these deposits cause little visual symptoms though some people complain of more floaters than normal. Asteroid hyalosis is primarily an incidental finding seen during an eye exam and not an indicator of any problems. If there are enough floaters to obstruct vision, a vitrectomy surgery could be considered, but this is rarely indicated. Asteroid hyalosis is mainly of interest to eye doctors. We may grab a medical student or two to show you off, though!"
