@@ -80,3 +80,5 @@ https://www.healio.com/news/optometry/20200408/blog-how-and-why-does-asteroid-hy
 
 
 hmm GPG eh, aight
+
+curious.. https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/turkey.md . Quite a lot of data actually. branching in OSINT ?
