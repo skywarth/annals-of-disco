@@ -1,3 +1,9 @@
+Command history
+```
+history
+```
+
+
 Unfreeze SSH session (terminate connection)
 ```
 1. Enter
