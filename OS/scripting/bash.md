@@ -1,3 +1,11 @@
+Unfreeze SSH session (terminate connection)
+```
+1. Enter
+2. ~ (tilde)
+3. . (period)
+```
+
+
 Wipe buggy flash drive
 ```
 wipefs -a /dev/your-device 
