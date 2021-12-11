@@ -1,2 +1,3 @@
 - China syndrome
+  - Reactor control room scene is really good 
 - Wargames
