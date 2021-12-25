@@ -82,3 +82,5 @@ https://www.healio.com/news/optometry/20200408/blog-how-and-why-does-asteroid-hy
 hmm GPG eh, aight
 
 curious.. https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/turkey.md . Quite a lot of data actually. branching in OSINT ?
+
+uhh, you guys are aware that *certain people* are now just rich since bitcoin grew exponentially over the last 10 years. I mean like... bruh. 
