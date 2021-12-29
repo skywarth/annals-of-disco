@@ -84,3 +84,5 @@ hmm GPG eh, aight
 curious.. https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/turkey.md . Quite a lot of data actually. branching in OSINT ?
 
 uhh, you guys are aware that *certain people* are now just rich since bitcoin grew exponentially over the last 10 years. I mean like... bruh. 
+
+https://github.com/rxin/db-readings
