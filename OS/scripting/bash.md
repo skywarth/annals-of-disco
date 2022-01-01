@@ -11,6 +11,13 @@ Unfreeze SSH session (terminate connection)
 3. . (period)
 ```
 
+Block WiFi adapter
+```
+# sudo apt install rfkill
+sudo rfkill block wifi
+# or any other adapter, such as bluetooth
+```
+
 
 Wipe buggy flash drive
 ```
