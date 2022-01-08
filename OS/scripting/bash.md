@@ -1,3 +1,34 @@
+Move folder content to upper level
+
+```
+# Case:
+.
+├── dir1
+│   ├── QWE.md
+│   └── dir2
+│       ├── ABC.md
+│       └──  XYZ.md
+```
+
+```
+# And you want to move content of dir2 to upper level (inside dir1)
+.
+├── dir1
+│   ├── QWE.md
+│   └── ABC.md
+│   └── XYZ.md
+|   └── dir2
+```
+
+```
+# While inside dir1:
+
+mv dir2/* .
+
+# or change /* to /.*
+```
+
+
 Command history
 ```
 history
@@ -13,9 +44,9 @@ Unfreeze SSH session (terminate connection)
 
 Block WiFi adapter
 ```
-# sudo apt install rfkill
+#sudo apt install rfkill
 sudo rfkill block wifi
-# or any other adapter, such as bluetooth
+#or any other adapter, such as bluetooth
 ```
 
 
