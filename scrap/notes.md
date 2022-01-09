@@ -86,3 +86,5 @@ curious.. https://github.com/gayanvoice/top-github-users/blob/main/markdown/tota
 uhh, you guys are aware that *certain people* are now just rich since bitcoin grew exponentially over the last 10 years. I mean like... bruh. 
 
 https://github.com/rxin/db-readings
+
+https://www.artofmanliness.com/
