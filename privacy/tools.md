@@ -42,6 +42,8 @@ https://keybase.io/
 
 https://www.signal.org/ (very based sire. They even showed a finger or two to auth)
 
+https://qtox.github.io Open source
+
 Translation
 
 - Argos (FOSS, GUI)
