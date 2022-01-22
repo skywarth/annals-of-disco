@@ -129,3 +129,13 @@ array(8) {
 */
 
 ```
+
+
+### Get array elements starting with 'foo'
+```
+$hasParameters= array_filter($arr, function ($key) {
+            return strpos($key, 'foo-') === 0;
+        }, ARRAY_FILTER_USE_KEY);
+        
+```
+
