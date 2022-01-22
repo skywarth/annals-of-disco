@@ -1,7 +1,9 @@
 # Programming Questions
 
 ***
-- In a standard MVC architecture based framework, how are variables and sessions shared for the application ? Is it true that for each user, an instace of the program will be created. Are static varibles shared between individual sessions/users. (Web App). Language is PHP or C#. 
+- In a standard MVC architecture based framework, how are variables and sessions shared for the application ? Is it true that for each user, an instace of the program will be created. Are static varibles shared between individual sessions/users. (Web App). Language is PHP or C#.
+
+*Well I think it depends on how the given module (controller/service) is initialized.If dependency injection is in effect, then yes it'll be shared.*
 ### Assume the following scenario 
 *Pseudo code*
 ```

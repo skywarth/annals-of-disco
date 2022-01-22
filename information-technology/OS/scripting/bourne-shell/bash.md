@@ -1,4 +1,18 @@
-Move folder content to upper level
+If you change hostname during installation or at some weird point, it may cause delay when issuing ```sudo``` on bash. Especially for starship shell. To fix this edit ```/etc/hosts```.
+
+### Slow when `sudo` issued
+- It could be due to hostname change. ```/etc/hosts```. Starship also suffers from this sometimes.
+
+
+### Execute command on terminal start (e.g open new terminal)
+add the command to the end of the ```.bashrc```
+```
+nano ~/.bashrc
+```
+
+
+
+### Move folder content to upper level
 
 ```
 # Case:
@@ -29,20 +43,20 @@ mv dir2/* .
 ```
 
 
-Command history
+### Command history
 ```
 history
 ```
 
 
-Unfreeze SSH session (terminate connection)
+### Unfreeze SSH session (terminate connection)
 ```
 1. Enter
 2. ~ (tilde)
 3. . (period)
 ```
 
-Block WiFi adapter
+### Block WiFi adapter
 ```
 #sudo apt install rfkill
 sudo rfkill block wifi
@@ -50,7 +64,7 @@ sudo rfkill block wifi
 ```
 
 
-Wipe buggy flash drive
+### Wipe buggy flash/usb drive
 ```
 wipefs -a /dev/your-device 
 
