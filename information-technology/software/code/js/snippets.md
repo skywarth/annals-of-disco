@@ -1,3 +1,50 @@
+### Object destructing
+```
+const employee = {
+  id: 15,
+  name: 'John',
+  dept: 'Warehouse',
+  extras: {
+  whaddupStatus:'nice, impressive'
+  },
+  coolMeter:60
+}
+
+```
+
+```
+//Instead of this:
+const id = employee.id;
+const name = employee.name;
+
+//You can do this:
+const { id, name } = employee;
+//defines 2 vars with id and name.
+```
+
+Works for nested objects too
+```
+//So rather than doing this:
+const whaddupStat=employee.extras.whaddupStatus;
+
+//You may do:
+const { extras: { whaddupStatus } } = employee;
+```
+
+Default values for new objects:
+```
+//classic
+let myObject={};
+myObject.coolMeter = employee.coolMeter ? employee.coolMeter : 25;
+myObject.name=employee.name;
+
+//modern and weird
+const { name, coolMeter=25 } = employee;//focus here
+let myObject={name:name,coolMeter:coolMeter;}
+```
+
+
+
 
 ### Remove duplicate numbers (maybe even strings ?)
 ```
