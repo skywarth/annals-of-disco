@@ -1,0 +1,6 @@
+- Has a protocol 'ws'. Like `ws://127.0.0.1`. Ayo what ?!
+- In HTTP: request is sent, and server responds with a response. Then connection is terminated. WS is not like that
+- Different from Long Polling. Long polling returns data in expected resource is not ready, e.g sleep(50). Then eventually responds and __closes__ the connection.
+- Connection is persistent, does not terminate unless told otherwise
+- Bi-directional
+- Allows real time data flow
