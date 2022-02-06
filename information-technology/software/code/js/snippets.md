@@ -1,3 +1,18 @@
+### Alternative selectors (non JQ)
+```
+//this is not jquery, don't get it mixed
+
+//alternative to document.querySelector('.test'):
+$('.test')
+
+//alternative to document.querySelectorAll('.test'):
+$$('.test')
+
+//Careful, these doesn't return nodeList object. It returns arrays.
+```
+
+
+
 ### Object destructing
 ```
 const employee = {
