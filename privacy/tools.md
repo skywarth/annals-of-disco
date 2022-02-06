@@ -97,3 +97,7 @@ https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/
 
 
 
+### Mobile OS
+- GrapheneOS
+- Some others i can't remember now
+
