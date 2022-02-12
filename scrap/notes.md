@@ -1,8 +1,4 @@
-socket.io
-
-
 Gotta check the active fetch (like signalR) on js, e.g live messaging app:
-https://www.youtube.com/watch?v=CK2XEyVGc6c
 
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
