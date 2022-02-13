@@ -4,3 +4,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - China syndrome
   - Reactor control room scene is really good
 - Wargames
+
+
+
+### Watch later
+- The Sword of Doom 
