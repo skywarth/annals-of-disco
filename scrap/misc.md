@@ -52,3 +52,5 @@ https://andreasbm.github.io/web-skills/
 https://roadmap.sh/frontend
 
 https://undesign.learn.uno/
+
+https://www.thesaurus.com/ //been using it for past couple of years. It's just great.

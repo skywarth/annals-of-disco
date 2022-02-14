@@ -84,3 +84,5 @@ uhh, you guys are aware that *certain people* are now just rich since bitcoin gr
 https://github.com/rxin/db-readings
 
 https://www.artofmanliness.com/
+
+git tokens getting out of hand
