@@ -14,3 +14,5 @@
 
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
+
+ - Authentication key device 
