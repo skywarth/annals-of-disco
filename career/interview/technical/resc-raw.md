@@ -25,3 +25,12 @@ https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 https://thatjsdude.com/interview/
 
 https://yangshun.github.io/tech-interview-handbook/
+
+
+https://30secondsofinterviews.org/
+
+https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+
+https://www.toptal.com/javascript/interview-questions
+
+https://flukeout.github.io/ //CSS selector practice
