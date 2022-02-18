@@ -2,12 +2,6 @@ Gotta check the active fetch (like signalR) on js, e.g live messaging app:
 
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
-
-https://ab--g4.netlify.app/vs/gumroad/
-
-ghost.org
-
-
 Jordan Peterson
 
 https://undesign.learn.uno/ //uhh so... allround 
