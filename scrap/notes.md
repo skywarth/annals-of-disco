@@ -26,17 +26,10 @@ https://github.com/danielmiessler/SecLists
 
 https://www.tindie.com/products/stephanelec/mooltipass-mini-ble-authenticator/
 
-https://prometheus.io/
-
-Prometheus video https://www.youtube.com/watch?v=4WWW2ZLEg74
-
-
 Maze Generation Algorithm (https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
 
 https://themodularbody.com/
-
-
 
 
 https://www.youtube.com/channel/UC6IivHdACKC_wDc1kPWidNg
