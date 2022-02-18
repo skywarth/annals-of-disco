@@ -12,14 +12,6 @@ http://stackoverflow.com/questions/2558172/utf-8-bom-signature-in-php-files
 
 CSS BEM
 
-https://30secondsofinterviews.org/
-
-https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
-
-https://www.toptal.com/javascript/interview-questions
-
-https://flukeout.github.io/ //CSS selector practice
-
 https://github.com/danrl/wifi-probe
 
 https://github.com/brannondorsey/sniff-probes
