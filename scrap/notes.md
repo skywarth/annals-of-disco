@@ -67,3 +67,5 @@ https://www.artofmanliness.com/
 git tokens getting out of hand
 
 https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke
+
+https://xyproblem.info/
