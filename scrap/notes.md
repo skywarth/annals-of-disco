@@ -69,3 +69,5 @@ git tokens getting out of hand
 https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke
 
 https://xyproblem.info/
+
+metaverse could be a great con. Lotsa people jumping in without seeing any PoW or proper demos. And don't tell me some bum-ass VR is proof of that.
