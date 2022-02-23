@@ -1,3 +1,11 @@
+### Select by attribute (mainly data-*)
+```
+//get elements with class 'myClass' and data attribute 'some-field' equal to 'thatvalue'
+document.querySelectorAll(`.myClass[data-some-field='thatvalue']`);
+
+```
+
+
 ### Alternative selectors (non JQ)
 ```
 //this is not jquery, don't get it mixed
