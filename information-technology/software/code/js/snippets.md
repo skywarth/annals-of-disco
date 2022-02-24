@@ -1,3 +1,26 @@
+### Bind
+I guess it is mainly used to force a function to use a custom 'this' target. Like overriding the 'this'.
+
+I should revisit this. There is more to learn. It seems to be something important. But it is said bind is not that necessary anymore, after es6 arrow functions are introduced.
+
+```
+var x = 9; // this refers to global "window" object here in the browser
+var person = {
+  x: 81,
+  getX: function() {
+    return this.x;
+  }
+};
+
+var y = person.getX; // It will return 9, because it will call global value of x(var x=9).
+
+var x2 = y.bind(person); // It will return 81, because it will call local value of x, which is defined in the object called person(x=81).
+
+```
+
+
+
+
 ### Select by attribute (mainly data-*)
 ```
 //get elements with class 'myClass' and data attribute 'some-field' equal to 'thatvalue'
