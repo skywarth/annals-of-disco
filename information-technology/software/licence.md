@@ -26,14 +26,17 @@ Well the thing is... OSI's definition is actually for FOSS (free open-source sof
 Whatever you want includes: they take and alter the code, implement it in their system. And release it as a part of proprietary software. They can even take the code and release it for commercial use as it is. Kinda crazy.
 
 ### GNU General Public License (GPL) v3.0
-Similar to MIT, except it doesn't allow the consumer to change the licence. In other words: if released under GPL v3, stays under GPL (v3). So in essence, it is one of the most open-source licence ever. It forces copies/forks to keep up the GPL licence so they also produce open-source. It's pretty contagious.
+
+*If you deriver an open source, it should be open source.*
+
+Similar to MIT, except it doesn't allow the consumer to change the licence. In other words: if released under GPL v3, stays under GPL (v3). So in essence, it is one of the most open-source licence ever. It forces copies/forks to keep up the GPL licence so they also produce open-source. It's pretty contagious. Therefore big-corpo hates it.
 
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 
 ### Apache License 2.0
 
-Some witch craft. As Fantastic once said: "Man I don't even know, it's crazy."
+Some witch craft. As Fantastic once said: "Man I don't even know, it's crazy.". I guess in essence it is "do whatever you wan't, don't sue me."
 
 ### FreeBSD / BSD 2-Clause License
 Similar to MIT
