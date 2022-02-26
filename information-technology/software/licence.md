@@ -8,6 +8,18 @@ https://choosealicense.com/licenses/
 
 ## Open Source
 
+Main authority for open source is: Open Source initiative. And it is run by board of directors. Not that it's an official authority but it's something.
+
+For a software to be open source: **source code should be publicly accessible**. Fellas at the OSI (Open Source initiative) disagree with this definition. In their definition:
+- Free to redistribute 
+- Accessible source code
+- Free to use
+
+Well the thing is... OSI's definition is actually for FOSS (free open-source software) not open source. There is a big-ass line in between. I don't agree with their definition, but aside from certain clauses it's alright.
+
+
+
+
 ### MIT
 "It’s basically like saying take my piece of code/project, do whatever you want (commercially/non-commercially) but don’t blame me if anything goes wrong"
 
