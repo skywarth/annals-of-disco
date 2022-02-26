@@ -73,3 +73,5 @@ https://xyproblem.info/
 metaverse could be a great con. Lotsa people jumping in without seeing any PoW or proper demos. And don't tell me some bum-ass VR is proof of that.
 
 Adobe Coldfusion (`*.CFM` extension)
+
+https://2021.stateofjs.com
