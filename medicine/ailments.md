@@ -6,3 +6,8 @@
 - But if they occur more frequently and in everyday life, it indicates a neurological problem.
 - It could be indicator of these diseases: Alzheimer, epilepsy, dystonia (Research, interesting) 
 - In high severity cases it could prevent the patient from eating, sleeping etc.
+
+
+### Finger Clubbing
+- Is a result of chronically low oxygen in blood.
+- Often foretells heart or lung problems.
