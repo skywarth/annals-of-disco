@@ -1,3 +1,9 @@
+### Bulimia nervosa
+- Eating disorder. Affected does 'binge eating', eating like a pig. Similar to those in Roman times.
+- Subject actually wants to lose weight. Therefore after binge eating they commit vomitting/purging/taking-laxatives
+- Russel's sign is a indicator. Look for bruises, red spots, dead skin on knuckles.
+- Usually accompanied by depression, anxiety, bipolar d. Suicide or self-harm is possible
+
 ### Myoclonic Jerk
 - Irregular, no rhytm. If there is rhytm or a pattern, then it could be **Clonus** [Research and Insert link here]
 - **Famous example is Hiccups**
