@@ -17,3 +17,4 @@
 ### Finger Clubbing
 - Is a result of chronically low oxygen in blood.
 - Often foretells heart or lung problems.
+- I think it is also chronological, I see some pattern...
