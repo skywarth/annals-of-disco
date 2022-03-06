@@ -75,3 +75,7 @@ metaverse could be a great con. Lotsa people jumping in without seeing any PoW o
 Adobe Coldfusion (`*.CFM` extension)
 
 https://2021.stateofjs.com
+
+
+Six Thinking Hats
+
