@@ -79,3 +79,5 @@ https://2021.stateofjs.com
 
 Six Thinking Hats
 
+
+GFPGAN - nightmare fuel
