@@ -4,6 +4,9 @@
 - Russel's sign is a indicator. Look for bruises, red spots, dead skin on knuckles.
 - Usually accompanied by depression, anxiety, bipolar d. Suicide or self-harm is possible
 
+### Cushings Syndrome
+
+
 ### Myoclonic Jerk
 - Irregular, no rhytm. If there is rhytm or a pattern, then it could be **Clonus** [Research and Insert link here]
 - **Famous example is Hiccups**
