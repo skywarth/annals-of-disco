@@ -1,3 +1,14 @@
+### Tuberculosis
+- Two main states. Latent TB and Active TB. 
+  - Latent (TB Infection): TB is present in the body but inactive. Therefore won't cause any symptom or sickness (maybe a little). **It is not contagious at this tage.**
+  - Active (TB disease): Makes you hit the bed. It is possible to spread to others.
+
+- Only spreads through an infected person
+- Primarily affects the lungs
+- Coughing (might include blood). At least around 3 weeks
+- Chest pain while breathing and coughing
+- Fever, chills, fatigue, night sweats
+
 ### Bulimia nervosa
 - Eating disorder. Affected does 'binge eating', eating like a pig. Similar to those in Roman times.
 - Subject actually wants to lose weight. Therefore after binge eating they commit vomitting/purging/taking-laxatives
