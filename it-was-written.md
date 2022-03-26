@@ -18,3 +18,5 @@
  - Authentication key device 
  - Elastic search
 
+
+ - Personal Certificate Authority (CA) for TLS
