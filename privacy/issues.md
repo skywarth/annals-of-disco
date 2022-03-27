@@ -15,7 +15,7 @@ Yet another illusion whereas it is claimed that this new way of tracking (rather
 
 ### Goverment owned Certificate Authorities
 
-Some governments are publishing their own certificate authorities. CA (certificate authority) is used in TLS (SSL) and has to be a trusted party. Because if not, it can rather easily access/listen/override data passing through. MItM attacks are common in this case. Some governments known for doing this infamy (Disclamer: this is not government secret, you can easily look em up online. This document doesn't reveal any sensitive information. Source: https://wiki.mozilla.org/CA:GovernmentCAs and some other)
+Some governments are publishing their own certificate authorities. CA (certificate authority) is used in TLS (SSL) and has to be a trusted party. Because if not, it can rather easily access/listen/override data passing through. MItM attacks are common in this case. Some governments known for doing this infamy (Disclamer: this is not government secret, you can easily look em up online. This document doesn't reveal any sensitive information. Source: https://wiki.mozilla.org/CA:GovernmentCAs and some other). 
 
 - Kazakhstan
 - Turkey (many which incooperate private companies. )
@@ -34,6 +34,8 @@ Of course governments don't establish CA just for the sake of accessibility. It'
 **Keep in mind: CA can intercept, decrypt, re-encrypt, alter communication bi-directionally. So it can change what you receive (you think you login to facebook but it ain't the Facebook. It's some mirror copy. Or change what you send.**
 
 But worry not it cannot be activated on it's own. For example Russia has announced that citizens should install a government issued CA in order to access internet. They can limit access or deny it all together but can't install it to your computer. 
+
+Firefox and Chrome doesn't allow user's to install any govt issued CA even if they wanted. So far only Microsoft Windows and Edge browser (also some third-party browsers) allow it.
 
 # Smart Phone
 
