@@ -31,11 +31,13 @@ Some governments are publishing their own certificate authorities. CA (certifica
 
 Of course governments don't establish CA just for the sake of accessibility. It's mainly two purposes: to keep encryption standarts and data in-house, and to snoofing/sniffing purposes. So latter allows for spying on the users of the CA, which is citizens.
 
-**Keep in mind: CA can intercept, decrypt, re-encrypt, alter communication bi-directionally. So it can change what you receive (you think you login to facebook but it ain't the Facebook. It's some mirror copy. Or change what you send.**
+**Keep in mind: CA can intercept, decrypt, re-encrypt, alter communication bi-directionally. So it can change what you receive (you think you login to facebook but it ain't the Facebook, just a bogus custom version. It's some mirror copy. Or change what you send.**
 
 But worry not it cannot be activated on it's own. For example Russia has announced that citizens should install a government issued CA in order to access internet. They can limit access or deny it all together but can't install it to your computer. 
 
 Firefox and Chrome doesn't allow user's to install any govt issued CA even if they wanted. So far only Microsoft Windows and Edge browser (also some third-party browsers) allow it.
+
+> "you're safe to install the CA cert when you need to use it to connect to any government internet services that require it. When you're done with that interaction, don't uninstall it though... Move it to the "Untrusted Certificate Authorities" category in Windows, or similar in other operating systems, to get a free pop-up alert anytime that CA cert is referenced. Then you'll know the moment that you visit any web site that has already been overtaken by the state."
 
 # Smart Phone
 
