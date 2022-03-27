@@ -15,21 +15,7 @@ Yet another illusion whereas it is claimed that this new way of tracking (rather
 
 ### Goverment owned Certificate Authorities
 
-Some governments are publishing their own certificate authorities. CA (certificate authority) is used in TLS (SSL) and has to be a trusted party. Because if not, it can rather easily access/listen/override data passing through. MItM attacks are common in this case. Some governments known for doing this infamy (Disclamer: this is not government secret, you can easily look em up online. This document doesn't reveal any sensitive information. Source: https://wiki.mozilla.org/CA:GovernmentCAs and some other). 
-
-- Kazakhstan
-- Turkey (many which incooperate private companies. )
-- Russia (started recently due to the doctrine of close-network)
-- France
-- Spain
-- Netherlands
-- Taiwan
-- China (CNNIC. many)
-- Hong Kong
-- Japan
-- And some more.
-
-Of course governments don't establish CA just for the sake of accessibility. It's mainly two purposes: to keep encryption standarts and data in-house, and to snoofing/sniffing purposes. So latter allows for spying on the users of the CA, which is citizens.
+Some governments are publishing their own certificate authorities. CA (certificate authority) is used in TLS (SSL) and has to be a trusted party. Because if not, it can rather easily access/listen/override data passing through. MItM attacks are common in this case. Some governments known for doing this infamy (Disclamer: this is not government secret, you can easily look em up online.
 
 **Keep in mind: CA can intercept, decrypt, re-encrypt, alter communication bi-directionally. So it can change what you receive (you think you login to facebook but it ain't the Facebook, just a bogus custom version. It's some mirror copy. Or change what you send.**
 
