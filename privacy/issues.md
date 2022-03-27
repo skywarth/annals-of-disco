@@ -33,6 +33,8 @@ Of course governments don't establish CA just for the sake of accessibility. It'
 
 **Keep in mind: CA can intercept, decrypt, re-encrypt, alter communication bi-directionally. So it can change what you receive (you think you login to facebook but it ain't the Facebook. It's some mirror copy. Or change what you send.**
 
+But worry not it cannot be activated on it's own. For example Russia has announced that citizens should install a government issued CA in order to access internet. They can limit access or deny it all together but can't install it to your computer. 
+
 # Smart Phone
 
 ### Forced data extraction
