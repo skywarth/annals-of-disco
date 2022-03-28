@@ -1,3 +1,12 @@
+### Cirrhosis
+- Affects the liver
+- Can be caused by primarily: heptitis and chronic alcoholism or some other disease that hold on to liver.
+- Whenever liver gets damaged (through disease or alcohol liquids) it forms scar tissues in order to repair itself. Cirrhosis is the situation where liver produces so much scar tissue which makes it hard for the liver to function properly.
+- Damage done by cirrhosis cannot be reverted nor healed. It's perma.
+- Loss of apetite, fatigue, swelling on feet and ankles, jaundice (skin/eyes going yellow), redness in palm
+- hard to recognize in early stages
+
+
 ### Tuberculosis
 - Two main states. Latent TB and Active TB. 
   - Latent (TB Infection): TB is present in the body but inactive. Therefore won't cause any symptom or sickness (maybe a little). **It is not contagious at this tage.**
