@@ -1,6 +1,6 @@
 ### Migraine
 - Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
-
+- Serotonin might clear an attack
 
 ### Cirrhosis
 - Affects the liver
