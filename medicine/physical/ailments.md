@@ -1,3 +1,7 @@
+### Migraine
+- Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
+
+
 ### Cirrhosis
 - Affects the liver
 - Can be caused by primarily: heptitis and chronic alcoholism or some other disease that hold on to liver.
