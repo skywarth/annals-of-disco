@@ -10,6 +10,11 @@
 - Loss of apetite, fatigue, swelling on feet and ankles, jaundice (skin/eyes going yellow), redness in palm
 - hard to recognize in early stages
 
+### Gonorrhea
+- Is a STD. 
+- Caused by a bacteria "Neisseria gonorrhoeae"
+- Primary symptom is burning sensation on urination.
+- But be careful: Usually doesn't show any symptom ! So hard to diagnose.
 
 ### Tuberculosis
 - Two main states. Latent TB and Active TB. 
