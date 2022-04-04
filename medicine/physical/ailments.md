@@ -16,6 +16,8 @@
 - Primary symptom is burning sensation on urination.
 - But be careful: Usually doesn't show any symptom ! So hard to diagnose.
 - Far likely to be found on young adults
+- Name comes from the Ancient Greek (200 AD): "an unwanted discharge of semen"
+- Men have 20% chance to obtain it whilist women have 60-80%.
 
 ### Tuberculosis
 - Two main states. Latent TB and Active TB. 
