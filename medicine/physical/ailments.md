@@ -15,6 +15,7 @@
 - Caused by a bacteria "Neisseria gonorrhoeae"
 - Primary symptom is burning sensation on urination.
 - But be careful: Usually doesn't show any symptom ! So hard to diagnose.
+- Far likely to be found on young adults
 
 ### Tuberculosis
 - Two main states. Latent TB and Active TB. 
