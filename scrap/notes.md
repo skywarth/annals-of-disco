@@ -80,3 +80,6 @@ Six Thinking Hats
 
 
 GFPGAN - nightmare fuel
+
+
+https://dev.to/perigk/how-to-evaluate-if-a-certification-is-worth-it-for-you-4776
