@@ -20,3 +20,6 @@
 
 
  - Personal Certificate Authority (CA) for TLS
+
+
+ - Frontend library for punishing unfair use and overdue payment
