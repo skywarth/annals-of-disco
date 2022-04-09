@@ -1,3 +1,5 @@
+###  Steppage Gait 
+
 ### Migraine
 - Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
 - Serotonin might clear an attack
