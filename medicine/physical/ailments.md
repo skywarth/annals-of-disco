@@ -1,4 +1,12 @@
+###  Steppage Gait (Diabetic Gait)
+// Research gait abnormalities
+- Is in gait abnormalities group
+- Having hard time raising the foot back after initial step
+- Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
+- Main indicator is high-rising knee to prevent toes from scraping ground
+
 ### Cold Sores
+- https://en.wikipedia.org/wiki/Herpes_labialis
 
 
 ### Herpesviral encephalitis
@@ -8,13 +16,6 @@
 - Demoted consciousness, changes in personality, confusion
 - Definitive identification requires Lombard Puncture. Cerebrospinal fluid gathering
 - **Lethal** if not treated
-
-###  Steppage Gait (Diabetic Gait)
-// Research gait abnormalities
-- Is in gait abnormalities group
-- Having hard time raising the foot back after initial step
-- Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
-- Main indicator is high-rising knee to prevent toes from scraping ground
 
 ### Migraine
 - Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
