@@ -1,3 +1,14 @@
+### Cold Sores
+
+
+### Herpesviral encephalitis
+- Caused by herpes simplex virus (HSV-1). 
+- Is an STD. Can easily spread with droplets and casual contact
+- Causes genital herpes
+- Demoted consciousness, changes in personality, confusion
+- Definitive identification requires Lombard Puncture. Cerebrospinal fluid gathering
+- **Lethal** if not treated
+
 ###  Steppage Gait (Diabetic Gait)
 // Research gait abnormalities
 - Is in gait abnormalities group
