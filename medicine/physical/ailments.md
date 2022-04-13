@@ -16,6 +16,7 @@
 - Demoted consciousness, changes in personality, confusion
 - Definitive identification requires Lombard Puncture. Cerebrospinal fluid gathering
 - **Lethal** if not treated
+- Claimed to be targeting (or eager to target) cancer cells when cancer is present
 
 ### Migraine
 - Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
