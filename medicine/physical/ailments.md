@@ -39,6 +39,15 @@
 - Name comes from the Ancient Greek (200 AD): "an unwanted discharge of semen"
 - Men have 20% chance to obtain it whilist women have 60-80%.
 
+### Legionnaires disesase (Legionnaire Disease)
+- Caused by Legionella bacteria. This fella can't transmit from human-to-human. And usually doesn't cause illness.
+- Legionella bacteria can be obtained from poor-condition-AC's, ice-making machines, swimming pools etc. So i guess it likes aquatic environments.
+- Elderly, smokers and people with altered immuno-system is more suspectible to it
+- Untreated in can be fatal (10-25%)
+- Headache, muscle ache, fever, cough, chest pain, inflamation on lungs (pneumonia)
+- Treatment is antibiotics, no vaccine is available
+
+
 ### Tuberculosis
 - Two main states. Latent TB and Active TB. 
   - Latent (TB Infection): TB is present in the body but inactive. Therefore won't cause any symptom or sickness (maybe a little). **It is not contagious at this tage.**
