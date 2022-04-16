@@ -10,3 +10,4 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 - The Sword of Doom 
 - Starship Troopers
+- men of honor
