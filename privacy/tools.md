@@ -103,3 +103,22 @@ https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/
 - GrapheneOS
 - Some others i can't remember now
 
+### Search engine
+- Google, Bing, Yahoo
+  - Just usual surv/monitoring gateway. Do not come close to it unless necessary
+  - Especially for Google: local government's can actually request **certain content removed** from search results. So it assists authorities in aspect of censorship.
+  - Google was summoned to supreme court for a public hearing regarding **biased results and manipulation** on search results.Oof
+
+- SearX/SearXNG
+  - Allows host-it-yourself
+- Yandex Search
+  - Originating from Russia.
+  - Good reverse-image search
+  - Doesn't give-a-fly about piracy and torrent
+- DuckDuckGo
+  - They recently starte to filter Russian propaganda
+  - Also now filtering pirate sites (torrent) and content
+  - *You were supposed to destroy the big-corp, not join them !*
+- Brave search
+  - *Judgement pending*
+
