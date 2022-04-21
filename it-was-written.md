@@ -14,6 +14,7 @@
 
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
+ - JS package for page filter
 
  - Authentication key device 
  - Elastic search
