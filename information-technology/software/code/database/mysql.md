@@ -8,10 +8,12 @@
 - 
 
 ### Fulltext
+- Is a index type on it's on: `FULLTEXT`
 - **[!] For MySQL to actually use this index it is imperative you use `WHERE MATCH(column) AGAINST(“string” IN NATURAL LANGUAGE MODE);`**
 - Costly to generate
 - May cause table-locks if the table in question is highly active. It means people can't insert or update the table when it's being searched on.
-
+- Not supported on partitioned tables
+- Full-text search operations do not treat the `%` string as a wildcard. So you don't use it simiar to `LIKE '%whaddup%`
 
 ### Query insights and benchmark
 
