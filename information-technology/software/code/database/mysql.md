@@ -5,7 +5,9 @@
 ### Rule of thumb
 - If you query it, you gotta index it
 - insersected index order MATTERS. Say you got column x,y,z. If you create index for x,y, it'll be used if you query **x and y**, or if you query x. So it won't be used it you query y only. **The columns with the biggest variety in values should come first (close to 1). PK's have 1 for example**
-- 
+- Indexes cost storage space. Significant storage space. E.g if you index all columns (also with each other) it can easily multiply original raw data disk space.
+- Do not index primary key fields. They're indexed by default
+- INDEX(x), INDEX(x,y) is redundant. You may remove INDEX(x)
 
 ### Fulltext
 - Is a index type on it's on: `FULLTEXT`
