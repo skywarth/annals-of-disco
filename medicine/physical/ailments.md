@@ -78,6 +78,22 @@
 - In high severity cases it could prevent the patient from eating, sleeping etc.
 
 
+### B12 Deficiancy
+
+Symptoms
+- Tiredness
+- Reduced number of blood cells
+- Mouth ulcers
+- Low blood pressure
+- Blurred vision
+- Decreased taste and smell
+- Depression, anxiety, guilt, psychosis
+- pernicious anaemia: immune system attacks healthy cells in stomach, preventing body from absorving B12
+
+
+
+### Jaundice
+
 ### Finger Clubbing
 - Is a result of chronically low oxygen in blood.
 - Often foretells heart or lung problems.
