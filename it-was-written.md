@@ -10,6 +10,7 @@
  - Migrate to NextCloud and spread the gospel
  - System agnostic's are taking over! gotta learn docker or kubernetes i suppose smh
  - Wifi probing and passive probe listening
+ - Pocket EMP
 
 
  - PHP package for my custom enum implementation
