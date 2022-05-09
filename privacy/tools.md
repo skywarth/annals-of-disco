@@ -79,7 +79,9 @@ https://blackhole.run/ //careful, smells like honeypot
 ### Mail:
 
 - Proton Mail
-- - Free, nice mobile app. Offers also encryption. Fresh on market. Also pm.me is available for email domain, dayumm.
+  - Free, nice mobile app. Offers also encryption. Fresh on market. Also pm.me is available for email domain, dayumm.
+  - They had a public scandal: They gave away a French activist's IP address (and possible activity log, this is not confirmed) to authorities (Swiss) which is requested through Europol.
+  - They claim they'll notify the user as soon as authorities request private information. But in this case, they delayed it several months. Note: NSL and FISA organizations and agencies shall request it and **forbid** the company/corporation from disclosing it with the user. It is in order to prevent the perpetrator/suspect from getting away.
 - Mailbox (1 EUR per month, well deserved i guess):
 - - Offers incredible encryption options
 - Tutanota
