@@ -11,6 +11,7 @@
  - System agnostic's are taking over! gotta learn docker or kubernetes i suppose smh
  - Wifi probing and passive probe listening
  - Pocket EMP
+ - Productivity with thermal printers (Epson TM-T88IV has nice support and libraries)
 
 
  - PHP package for my custom enum implementation
