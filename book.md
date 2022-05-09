@@ -1,4 +1,8 @@
-The Pragmatic Programmer 1999
+**The Pragmatic Programmer 1999**
+
+Refactoring: Improving the Design of Existing Code
+
+Code Complete
 
 https://dev.to/puritanic/ive-read-the-pragmatic-programmer-2bn9
 
