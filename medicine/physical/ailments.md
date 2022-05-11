@@ -8,6 +8,13 @@
 ### Cold Sores
 - https://en.wikipedia.org/wiki/Herpes_labialis
 
+### Uveitis
+- Inflammation on the front section oft the eye
+- Floaters
+- Blurred or cloudy vision
+- photophobia
+
+- Use steroids eye droplets. It might help if it is issued by auto-immune related.
 
 ### Herpesviral encephalitis
 - Caused by herpes simplex virus (HSV-1). 
