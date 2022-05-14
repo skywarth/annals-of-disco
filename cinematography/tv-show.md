@@ -5,8 +5,8 @@ Probably forgot most of the past ones.
 - Breaking Bad
 - Hannibal
 - Halt and Catch Fire
-- See 
+- See*
 - Spartacus
-- Better Call Saul
+- Better Call Saul*
 - Arcane
-- 
+- westworld*
