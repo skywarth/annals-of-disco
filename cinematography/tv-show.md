@@ -10,3 +10,5 @@ Probably forgot most of the past ones.
 - Better Call Saul*
 - Arcane
 - westworld*
+- house*
+- the boys*
