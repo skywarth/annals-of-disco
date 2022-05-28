@@ -12,3 +12,5 @@ Probably forgot most of the past ones.
 - westworld*
 - house*
 - the boys*
+- Love, Death & Robots*
+- Black mirror*
