@@ -34,7 +34,7 @@ Not sure:
 https://usableprivacy.com/
 
 
-Messaging
+### Messaging
 
 https://status.im/ (These guys do so many stuff)
 
@@ -46,7 +46,9 @@ https://qtox.github.io (Open source, p2p Tox protocol)
 
 GNU JAMI (p2p, completely decentralized. Allows different comm types: voice message, file tranfer, text-based message. No email, phone required for registration. Will give you some hash-like code which identifies your account. Don't deliver it to those you wanna communicate over insecure channel. And you can even self-host it without cloud, damn NEAT ! )
 
-Translation
+- p2p JS application that runs client side and delivers messages in image format. So basically whatever is put inside the input will be converted to png using svg to image render. Sounds good, gotta do it sometime.
+
+### Translation
 
 - Argos (FOSS, GUI)
 - Apertium (FOSS, CLI)
@@ -65,13 +67,13 @@ Translation
 ---
 
 
-Browser:
+### Browser:
 firefox (to be revisited, latest controversy is sloppy.)
 brave (not first pref. since it's chromium base)
 
 
 
-File Upload:
+### File Upload:
 
 https://blackhole.run/ //careful, smells like honeypot
 
@@ -88,12 +90,12 @@ https://blackhole.run/ //careful, smells like honeypot
 
 ---
 
-VPN:
+### VPN:
 
 Nordvpn, PIA and Protonvpn 
 
 
-DNS:
+### DNS:
 
 https://www.quad9.net/
 
