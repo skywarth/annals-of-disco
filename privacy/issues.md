@@ -11,6 +11,12 @@ Yet another illusion whereas it is claimed that this new way of tracking (rather
 
 *Refer to browsers folder.*
 
+
+# Messaging apps
+
+### Easy to query
+- It is just so easy to query certain keywords, terms, meanings in a big data. 
+
 # DNS and TLS
 
 ### Goverment owned Certificate Authorities
@@ -45,5 +51,5 @@ Can actually get the data in most cases. IPhone might do a better job at keeping
 #### BFU (Before first unlock)
 - As long as the device is not unlocked after cold boot, it is in the most secure state.
 
-#### AFU (Before first unlock)
+#### AFU (After first unlock)
 - Far more vulnerable compared to BFU

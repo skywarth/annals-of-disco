@@ -54,3 +54,9 @@ https://roadmap.sh/frontend
 https://undesign.learn.uno/
 
 https://www.thesaurus.com/ //been using it for past couple of years. It's just great.
+
+https://thispersondoesnotexist.com/ //AI generated human faces. Royalty-free profile pictures ? Catfishing, bot generation etc.
+
+https://thisartworkdoesnotexist.com/
+
+https://breakthecode.tech/

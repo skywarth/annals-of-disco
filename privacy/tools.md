@@ -34,7 +34,7 @@ Not sure:
 https://usableprivacy.com/
 
 
-Messaging
+### Messaging
 
 https://status.im/ (These guys do so many stuff)
 
@@ -46,7 +46,9 @@ https://qtox.github.io (Open source, p2p Tox protocol)
 
 GNU JAMI (p2p, completely decentralized. Allows different comm types: voice message, file tranfer, text-based message. No email, phone required for registration. Will give you some hash-like code which identifies your account. Don't deliver it to those you wanna communicate over insecure channel. And you can even self-host it without cloud, damn NEAT ! )
 
-Translation
+- p2p JS application that runs client side and delivers messages in image format. So basically whatever is put inside the input will be converted to png using svg to image render. Sounds good, gotta do it sometime.
+
+### Translation
 
 - Argos (FOSS, GUI)
 - Apertium (FOSS, CLI)
@@ -65,13 +67,13 @@ Translation
 ---
 
 
-Browser:
+### Browser:
 firefox (to be revisited, latest controversy is sloppy.)
 brave (not first pref. since it's chromium base)
 
 
 
-File Upload:
+### File Upload:
 
 https://blackhole.run/ //careful, smells like honeypot
 
@@ -79,19 +81,21 @@ https://blackhole.run/ //careful, smells like honeypot
 ### Mail:
 
 - Proton Mail
-- - Free, nice mobile app. Offers also encryption. Fresh on market. Also pm.me is available for email domain, dayumm.
+  - Free, nice mobile app. Offers also encryption. Fresh on market. Also pm.me is available for email domain, dayumm.
+  - They had a public scandal: They gave away a French activist's IP address (and possible activity log, this is not confirmed) to authorities (Swiss) which is requested through Europol.
+  - They claim they'll notify the user as soon as authorities request private information. But in this case, they delayed it several months. Note: NSL and FISA organizations and agencies shall request it and **forbid** the company/corporation from disclosing it with the user. It is in order to prevent the perpetrator/suspect from getting away.
 - Mailbox (1 EUR per month, well deserved i guess):
 - - Offers incredible encryption options
 - Tutanota
 
 ---
 
-VPN:
+### VPN:
 
 Nordvpn, PIA and Protonvpn 
 
 
-DNS:
+### DNS:
 
 https://www.quad9.net/
 
@@ -102,4 +106,23 @@ https://dnsprivacy.org/jenkins/job/dnsprivacy-monitoring/
 ### Mobile OS
 - GrapheneOS
 - Some others i can't remember now
+
+### Search engine
+- Google, Bing, Yahoo
+  - Just usual surv/monitoring gateway. Do not come close to it unless necessary
+  - Especially for Google: local government's can actually request **certain content removed** from search results. So it assists authorities in aspect of censorship.
+  - Google was summoned to supreme court for a public hearing regarding **biased results and manipulation** on search results.Oof
+
+- SearX/SearXNG
+  - Allows host-it-yourself
+- Yandex Search
+  - Originating from Russia.
+  - Good reverse-image search
+  - Doesn't give-a-fly about piracy and torrent
+- DuckDuckGo
+  - They recently starte to filter Russian propaganda
+  - Also now filtering pirate sites (torrent) and content
+  - *You were supposed to destroy the big-corp, not join them !*
+- Brave search
+  - *Judgement pending*
 

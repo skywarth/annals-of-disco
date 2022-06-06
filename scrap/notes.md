@@ -80,3 +80,10 @@ Six Thinking Hats
 
 
 GFPGAN - nightmare fuel
+
+
+https://dev.to/perigk/how-to-evaluate-if-a-certification-is-worth-it-for-you-4776
+
+Obsidian.md
+
+web3 and ipfs https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1

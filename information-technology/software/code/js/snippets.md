@@ -1,3 +1,42 @@
+### DOM to Image
+```
+const { body } = document;
+
+const canvas = document.createElement("canvas");
+const ctx = canvas.getContext("2d");
+canvas.width = canvas.height = 600;
+
+let htmlContentToRender=`
+<b>yooo</b>
+<h2>This is crazyyy</h2>
+
+`
+
+const newImg = document.createElement("img");
+newImg.addEventListener("load", onNewImageLoad);
+newImg.src =
+  "data:image/svg+xml," +
+  encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+    <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+    
+    ${htmlContentToRender}
+    </div></foreignObject></svg>`
+  );
+
+const targetImg = document.createElement("img");
+body.appendChild(targetImg);
+
+function onNewImageLoad(e) {
+  ctx.drawImage(e.target, 0, 0);
+  targetImg.src = canvas.toDataURL();
+}
+//credit to https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c
+//this will make a fine addition if i ever decide to make a security oriented p2p messaging app
+```
+
+
 ### Bind
 I guess it is mainly used to force a function to use a custom 'this' target. Like overriding the 'this'.
 

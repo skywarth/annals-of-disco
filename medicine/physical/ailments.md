@@ -1,3 +1,34 @@
+###  Steppage Gait (Diabetic Gait)
+// Research gait abnormalities
+- Is in gait abnormalities group
+- Having hard time raising the foot back after initial step
+- Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
+- Main indicator is high-rising knee to prevent toes from scraping ground
+
+### Cold Sores
+- https://en.wikipedia.org/wiki/Herpes_labialis
+
+### Uveitis
+- Inflammation on the front section oft the eye
+- Floaters
+- Blurred or cloudy vision
+- photophobia
+
+- Use steroids eye droplets. It might help if it is issued by auto-immune related.
+
+### Herpesviral encephalitis
+- Caused by herpes simplex virus (HSV-1). 
+- Is an STD. Can easily spread with droplets and casual contact
+- Causes genital herpes
+- Demoted consciousness, changes in personality, confusion
+- Definitive identification requires Lombard Puncture. Cerebrospinal fluid gathering
+- **Lethal** if not treated
+- Claimed to be targeting (or eager to target) cancer cells when cancer is present
+
+### Migraine
+- Nitroglycerin may provoke it. Nitroglycerin can be obtained from peanut
+- Serotonin might clear an attack
+
 ### Cirrhosis
 - Affects the liver
 - Can be caused by primarily: heptitis and chronic alcoholism or some other disease that hold on to liver.
@@ -5,6 +36,23 @@
 - Damage done by cirrhosis cannot be reverted nor healed. It's perma.
 - Loss of apetite, fatigue, swelling on feet and ankles, jaundice (skin/eyes going yellow), redness in palm
 - hard to recognize in early stages
+
+### Gonorrhea
+- Is a STD. 
+- Caused by a bacteria "Neisseria gonorrhoeae"
+- Primary symptom is burning sensation on urination.
+- But be careful: Usually doesn't show any symptom ! So hard to diagnose.
+- Far likely to be found on young adults
+- Name comes from the Ancient Greek (200 AD): "an unwanted discharge of semen"
+- Men have 20% chance to obtain it whilist women have 60-80%.
+
+### Legionnaires disesase (Legionnaire Disease)
+- Caused by Legionella bacteria. This fella can't transmit from human-to-human. And usually doesn't cause illness.
+- Legionella bacteria can be obtained from poor-condition-AC's, ice-making machines, swimming pools etc. So i guess it likes aquatic environments.
+- Elderly, smokers and people with altered immuno-system is more suspectible to it
+- Untreated in can be fatal (10-25%)
+- Headache, muscle ache, fever, cough, chest pain, inflamation on lungs (pneumonia)
+- Treatment is antibiotics, no vaccine is available
 
 
 ### Tuberculosis
@@ -36,6 +84,22 @@
 - It could be indicator of these diseases: Alzheimer, epilepsy, dystonia (Research, interesting) 
 - In high severity cases it could prevent the patient from eating, sleeping etc.
 
+
+### B12 Deficiancy
+
+Symptoms
+- Tiredness
+- Reduced number of blood cells
+- Mouth ulcers
+- Low blood pressure
+- Blurred vision
+- Decreased taste and smell
+- Depression, anxiety, guilt, psychosis
+- pernicious anaemia: immune system attacks healthy cells in stomach, preventing body from absorving B12
+
+
+
+### Jaundice
 
 ### Finger Clubbing
 - Is a result of chronically low oxygen in blood.

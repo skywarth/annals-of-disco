@@ -10,13 +10,19 @@
  - Migrate to NextCloud and spread the gospel
  - System agnostic's are taking over! gotta learn docker or kubernetes i suppose smh
  - Wifi probing and passive probe listening
+ - Pocket EMP
+ - Productivity with thermal printers (Epson TM-T88 has nice support and libraries)
 
 
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
+ - JS package for page filter
 
  - Authentication key device 
  - Elastic search
 
 
  - Personal Certificate Authority (CA) for TLS
+
+
+ - Frontend library for punishing unfair use and overdue payment
