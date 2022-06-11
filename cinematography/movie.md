@@ -4,9 +4,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - China syndrome
   - Reactor control room scene is really good
 - Wargames
-
+- men of honor (navy diver, De Niro)
 
 
 ### Watch later
 - Starship Troopers
-- men of honor
+- grave of the fireflies (hotaru no haka)
