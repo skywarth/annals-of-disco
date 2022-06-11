@@ -5,6 +5,15 @@
 - Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
 - Main indicator is high-rising knee to prevent toes from scraping ground
 
+### Syphilis
+- Is a STD
+- Cured with penicillin
+- Primary syphilis: presents itself with a "chancre" (small sore) on genital part. It's painless and will be cured on it's own in 3-6 weeks
+- Secondary syphilis: begings after "chancre" heals. Rashes on almost anywhere, including palm and soles of feet. Swollen lymph nodes, sore throat.
+- Latent syphilis: this is the stage if it's left untreated after secondary syphilis.
+- Tertiary syphilis: It starts damaging. Brain, nervous system, eyes, heart, liver and bones are usual victims.
+- Has some mortality rate if untreated and in a late stage
+
 ### Cold Sores
 - https://en.wikipedia.org/wiki/Herpes_labialis
 
@@ -18,7 +27,7 @@
 
 ### Herpesviral encephalitis
 - Caused by herpes simplex virus (HSV-1). 
-- Is an STD. Can easily spread with droplets and casual contact
+- Is a STD. Can easily spread with droplets and casual contact
 - Causes genital herpes
 - Demoted consciousness, changes in personality, confusion
 - Definitive identification requires Lombard Puncture. Cerebrospinal fluid gathering
