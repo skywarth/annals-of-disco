@@ -5,9 +5,31 @@
 - Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
 - Main indicator is high-rising knee to prevent toes from scraping ground
 
+### Folliculitis
+- It can present itself on many different body parts. 
+- Appearence: Small, white-yellow acne like bump
+- Possible causes: bacteria, yeast, being overweight, not cleaning after sweating, unhygienic hot water sources (sauna)
+- In severe cases it can lead to large scars which result in perma loss of hair on that area. **Do not meddle with it**
+- These conditions trigger it's emergence:
+  - Sweating
+  - Heat and humidity
+  - Tight fitting fabric
+  - Excessive antibiotic consumption
+  - Ingrown hairs
+  - Supressed/Weakened immuno system
+
+
+- Remedity and cure:
+  - Applying oatmeal on the area
+  - Antibacterial creams/cleansers
+  - Warm towel on the affected area (don't wrap tight, gentle)
+  - Oral antibiotics
+  - Resistant penicillins
+  - Antifungal agents (if cause is fungal)
+
 ### Syphilis
 - Is a STD
-- Cured with penicillin
+- Cured with penicillin (also steroid on late stages)
 - Primary syphilis: presents itself with a "chancre" (small sore) on genital part. It's painless and will be cured on it's own in 3-6 weeks
 - Secondary syphilis: begings after "chancre" heals. Rashes on almost anywhere, including palm and soles of feet. Swollen lymph nodes, sore throat.
 - Latent syphilis: this is the stage if it's left untreated after secondary syphilis.
