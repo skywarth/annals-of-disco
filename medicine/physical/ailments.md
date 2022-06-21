@@ -1,3 +1,6 @@
+### Agnosia
+Interesting stuff, do research
+
 ###  Steppage Gait (Diabetic Gait)
 // Research gait abnormalities
 - Is in gait abnormalities group
