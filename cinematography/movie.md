@@ -11,3 +11,4 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Starship Troopers
 - grave of the fireflies (hotaru no haka)
 - prey (predator 5)
+- dog day afternoon (1975)
