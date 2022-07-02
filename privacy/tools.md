@@ -68,6 +68,9 @@ GNU JAMI (p2p, completely decentralized. Allows different comm types: voice mess
 
 
 ### Browser:
+
+- Check browser finger print: https://amiunique.org
+
 firefox (to be revisited, latest controversy is sloppy.)
 brave (not first pref. since it's chromium base)
 
