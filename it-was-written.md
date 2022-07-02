@@ -7,7 +7,7 @@
  - Abrupt FIN protocol
  - Graceful FIN protocol
  - The raspberry pi thingy (supa fun)
- - Migrate to NextCloud and spread the gospel
+ - Migrate to NextCloud and spread the gospel (Checkout YUNOHost)
  - System agnostic's are taking over! gotta learn docker or kubernetes i suppose smh
  - Wifi probing and passive probe listening
  - Pocket EMP
