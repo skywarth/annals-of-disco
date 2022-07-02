@@ -12,7 +12,7 @@
  - Wifi probing and passive probe listening
  - Pocket EMP
  - Productivity with thermal printers (Epson TM-T88 has nice support and libraries)
-
+ - Rust coding language, seems interesting
 
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
