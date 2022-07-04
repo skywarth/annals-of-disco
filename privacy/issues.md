@@ -17,6 +17,10 @@ Yet another illusion whereas it is claimed that this new way of tracking (rather
 ### Easy to query
 - It is just so easy to query certain keywords, terms, meanings in a big data. 
 
+### Honeypot
+
+- Most of these apps that claim to be "private" are just gov honeypots. 
+
 # DNS and TLS
 
 ### Goverment owned Certificate Authorities
