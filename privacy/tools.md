@@ -42,6 +42,15 @@ https://keybase.io/
 
 https://www.signal.org/ (very based sire. They even showed a finger or two to auth)
 
+Telegram 
+- absolutely weak and no concern for privacy
+- They won't risk their neck for protecting the user's rights
+- They've shared confidential user info with GER govt 
+
+Session
+- Just id and pass to login. No email, no personal info, no BS.
+- Tiny messages only
+
 https://qtox.github.io (Open source, p2p Tox protocol)
 
 GNU JAMI (p2p, completely decentralized. Allows different comm types: voice message, file tranfer, text-based message. No email, phone required for registration. Will give you some hash-like code which identifies your account. Don't deliver it to those you wanna communicate over insecure channel. And you can even self-host it without cloud, damn NEAT ! )
@@ -96,6 +105,9 @@ https://blackhole.run/ //careful, smells like honeypot
 ### VPN:
 
 Nordvpn, PIA and Protonvpn 
+
+- Orbot (for mobile only ?)
+  - Onion based vpn 
 
 
 ### DNS:
