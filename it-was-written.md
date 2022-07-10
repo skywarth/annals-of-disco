@@ -18,7 +18,8 @@
  - PHP package for CipherSuite (preferably laravel wrapper)
  - JS package for page filter
 
- - Authentication key device 
+ - Authentication key device (U2F or FIDO2 or WebAuthn)
+ - Playing around with eink 
  - Elastic search
 
 
