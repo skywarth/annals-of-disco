@@ -1,5 +1,7 @@
  _**So it shall be done**... Or not !_
  
+ 
+ - reverse shell attack
  - Set up personal dns server (pi hole)
  - Learn criminology
  - Public thank you page (submitting form etc.), preferably parametric
