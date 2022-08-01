@@ -122,4 +122,11 @@ content type: live animal, meat products, stuffed animal
 
 What is strategy when placing these items in your warehouse, so you find find them easily and fast when needed.
 
+
+<details>
+  <summary>Answer</summary>
+  Incomplete for now. But we basically expect the participant to prioritize ordering of these properties by their cardinality. Least amount of options first.
+  
+</details>
+
 ---
