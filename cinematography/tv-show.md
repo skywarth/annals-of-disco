@@ -14,8 +14,8 @@ Probably forgot most of the past ones.
 - the boys*
 - Love, Death & Robots*
 - Black mirror*
-
+- resident evil*
 
 check
-- resident evil
+
 - fringe
