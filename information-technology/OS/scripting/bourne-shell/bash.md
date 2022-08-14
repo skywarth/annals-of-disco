@@ -1,3 +1,36 @@
+### Mounting/Unmounting
+#### Mount
+
+##### Mount all from fstab
+```
+# -v is for verbose
+# -a is for all 
+# it will scan  /etc/fstab and mount all those defined in there
+# Depending on the situtation you might have to provide sudo for it to run
+mount -av 
+```
+
+##### Mount single time from console 
+```
+# This is for mounting a NAS
+sudo mount.cifs //10.18.22.44/some-path/somesubdir /mnt/this-is/where-to-mount/your-external-target -o user=john,password=doe,vers=1.0 0 0
+```
+
+
+
+#### Unmount
+```
+# you have to provide the [LOCATION of the mount point] or [drive partition name]
+# Depending on the situtation you might have to provide sudo for it to run
+unmount /media/my/predefined/mount/point
+```
+
+
+
+
+
+
+
 ### Unload module
 ```
 rmmod nvidia_uvm
