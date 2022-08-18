@@ -89,3 +89,5 @@ Obsidian.md
 web3 and ipfs https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1
 
 https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
+Slavoj Žižek
