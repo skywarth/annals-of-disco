@@ -1,3 +1,5 @@
+https://free-for.dev //freebies for developers and open source projects
+
 https://www.noip.com/ //For dynamic ip problem for hosting
 
 https://app.haikei.app/ //that svg thingy generator
