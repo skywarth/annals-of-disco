@@ -15,6 +15,7 @@ Probably forgot most of the past ones.
 - Love, Death & Robots*
 - Black mirror*
 - resident evil
+- primal*
 
 check
 
