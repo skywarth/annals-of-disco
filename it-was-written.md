@@ -2,7 +2,8 @@
  
  
  - reverse shell attack
- - Set up personal dns server (pi hole)
+ - ~~Set up personal dns server (pi hole)~~
+ - network controlled pico pomodoro
  - Learn criminology
  - Public thank you page (submitting form etc.), preferably parametric
  - Use PWA 
@@ -15,7 +16,7 @@
  - Pocket EMP
  - Productivity with thermal printers (Epson TM-T88 has nice support and libraries)
  - Rust coding language, seems interesting
-
+ - ~~Country routing algorithm with graph DFS~~
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
  - JS package for page filter
