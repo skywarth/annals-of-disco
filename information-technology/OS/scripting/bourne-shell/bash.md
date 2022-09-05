@@ -1,6 +1,8 @@
 ### Mounting/Unmounting
 #### Mount
 
+- If you get an unexplained error when mounting samba (smb) targets, try to add `vers=1.0` at the end of your directive. It forces the system to use samba v1 to establish connection. Beware it is not safe though, you might wanna apply a firmware update on the server machine.
+
 ##### Mount all from fstab
 ```
 # -v is for verbose
