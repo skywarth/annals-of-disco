@@ -21,10 +21,26 @@ You are not obliged to create listener classes, you can register them anonymousl
 - Listeners receive event instances in the handle method `public function handle(OrderShipped $event)`. But you don't have to explicitly indicate type, you may just apply loose-type. `public function handle($event)`
 - You may type-hint any necessary dependency and service in handle parameters to inject it through service container
 
-### Queuing
+#### Queuing
 - Useful when you are going to perform time-consuming tasks in the **Listener**.
 - Configure your queue in queue.php and start queue workers by either `queue:work` or `queue:listen`. (Don't forget to indicate the queue in work/listen !)
 - If a listener is going to run on queue, implement `shouldQueue` interface on the listener clas.
+- `public $connection = 'some-queue-for-events';` This refers to an entry in `queue.connections.some-queue-for-events` in `queue.php`. If you don't declare/define anything about connection in listener, it will use the default queue connection `'default'` from `queue.php`.
+- `public $queue = 'lets-gooo';` this one is for overriding `'queue'=>'....'` in queue definition of corresponding queue connection. For example:
+    ```
+    //content of queue.php
+    'connections'=>[
+            'some-queue-for-events' => [
+                    'driver' => 'redis',
+                    'connection' => 'default',
+                    'queue' => 'my-queue',
+                    'retry_after' => 90,
+                    'block_for' => null,
+                    'after_commit' => false,
+                ],
+        ....
+    ```
+    So in this case your listener will actually run on `lets-gooo` queue rather than `my-queue` because you're simply overriding it.
 
 
 ### Misc
