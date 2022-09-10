@@ -18,3 +18,4 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Empire Records
 - the running man
 - Starship Troopers
+- Crank 1 and 2
