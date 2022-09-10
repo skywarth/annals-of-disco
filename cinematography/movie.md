@@ -9,13 +9,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - dog day afternoon (1975) (not bad, some scenes are fun)
 - prey (predator 5) (so mediocre.)
 - grave of the fireflies (hotaru no haka) (pretty good, bitter)
-- crouching tiger, hidden dragon (great, kinda null in some scenes. It's very similar to the movie "Hero")
+- crouching tiger, hidden dragon (great, kinda dull in some scenes. It's very similar to the movie "Hero")
 - the island (meh it's ok nothing extraordinary. First 45 min is nice and interesting. 1/3 is sci-fi, 2/3 is classic action movie)
-
+- soylent green (magnificent, especially the ending. Doesn't feel like a far future)
 
 ### Watch later
 - surrogates
 - Empire Records
-- soylent green
 - the running man
 - Starship Troopers
