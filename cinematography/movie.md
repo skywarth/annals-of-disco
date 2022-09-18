@@ -12,10 +12,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - crouching tiger, hidden dragon (great, kinda dull in some scenes. It's very similar to the movie "Hero")
 - the island (meh it's ok nothing extraordinary. First 45 min is nice and interesting. 1/3 is sci-fi, 2/3 is classic action movie)
 - soylent green (magnificent, especially the ending. Doesn't feel like a far future)
+- surrogates (meta. Meh not so good)
+- the running man (low quality, a bit boring)
+
 
 ### Watch later
-- surrogates
+
 - Empire Records
-- the running man
 - Starship Troopers
 - Crank 1 and 2
