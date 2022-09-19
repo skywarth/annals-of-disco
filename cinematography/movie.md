@@ -21,3 +21,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Empire Records
 - Starship Troopers
 - Crank 1 and 2
+- there will be blood (2007)
+- Lethal Weapon
+- over the top
+- red heat
+- angel heart
+- Cobra
+- raid 1 & 2
+- the killer (1989)
