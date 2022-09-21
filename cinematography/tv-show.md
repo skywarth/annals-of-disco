@@ -20,3 +20,6 @@ Probably forgot most of the past ones.
 check
 
 - fringe
+- stargate (SG-1)
+- stargate atlantis (SG-A)
+- stargate universe (SG-U)
