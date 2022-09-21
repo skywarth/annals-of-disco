@@ -14,7 +14,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - soylent green (magnificent, especially the ending. Doesn't feel like a far future)
 - surrogates (meta. Meh not so good)
 - the running man (low quality, a bit boring)
-
+- raid 1 (nice action movie, some really unnecessary details are present. Like dude you are an action movie, don't try too hard to have a plot. Close to gun-fu)
+- sin city (incredible. Such artistic scenes and delivery. Fun and quality packed punch. Would recommend, probably will watch again. )
 
 ### Watch later
 
@@ -27,7 +28,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - red heat
 - angel heart
 - Cobra
-- raid 1 & 2
+- raid 2
 - the killer (1989)
 - one hour photo
 - a single man
