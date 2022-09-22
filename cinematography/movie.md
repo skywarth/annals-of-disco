@@ -16,6 +16,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - the running man (low quality, a bit boring)
 - raid 1 (nice action movie, some really unnecessary details are present. Like dude you are an action movie, don't try too hard to have a plot. Close to gun-fu)
 - sin city (incredible. Such artistic scenes and delivery. Fun and quality packed punch. Would recommend, probably will watch again. )
+- Lethal Weapon (decent action movie from 80s. A bit dumb writing at times and strong plot armor but good representation of classic 80s action)
 
 ### Watch later
 
@@ -23,9 +24,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Starship Troopers
 - Crank 1 and 2
 - there will be blood (2007)
-- Lethal Weapon
 - over the top
 - red heat
+- Lethal Weapon 2,3,4
 - angel heart
 - Cobra
 - raid 2
