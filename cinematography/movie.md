@@ -17,6 +17,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - raid 1 (nice action movie, some really unnecessary details are present. Like dude you are an action movie, don't try too hard to have a plot. Close to gun-fu)
 - sin city (incredible. Such artistic scenes and delivery. Fun and quality packed punch. Would recommend, probably will watch again. )
 - Lethal Weapon (decent action movie from 80s. A bit dumb writing at times and strong plot armor but good representation of classic 80s action)
+- Angel Heart (so thematic. I found it pretty close to 'Apocalypse Now' in some sense. I think it's a mix of 'Apocalypse Now' and 'Devils advocate' movies)
+- Cobra (Meh, it's alright. Kinda dumb, like someone overdosed the movie with "80s action pack" but turned it to eleven. Usual stereotypical 80s action, has all the elements)
+
 
 ### Watch later
 
@@ -27,11 +30,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - over the top
 - red heat
 - Lethal Weapon 2,3,4
-- angel heart
-- Cobra
 - raid 2
 - the killer (1989)
 - one hour photo
 - a single man
-- sin city
 - good time
