@@ -20,6 +20,9 @@ Probably forgot most of the past ones.
 check
 
 - fringe
+- Cyberpunk: Edgerunners
+- LoTR: Rings of power
+- House of the dragon
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
