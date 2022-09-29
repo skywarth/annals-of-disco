@@ -28,7 +28,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Crank 1 and 2
 - there will be blood (2007)
 - over the top
-- red heat
+- red heat (1988)
 - Lethal Weapon 2,3,4
 - raid 2
 - the killer (1989)
