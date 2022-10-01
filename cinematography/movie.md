@@ -19,7 +19,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lethal Weapon (decent action movie from 80s. A bit dumb writing at times and strong plot armor but good representation of classic 80s action)
 - Angel Heart (so thematic. I found it pretty close to 'Apocalypse Now' in some sense. I think it's a mix of 'Apocalypse Now' and 'Devils advocate' movies)
 - Cobra (Meh, it's alright. Kinda dumb, like someone overdosed the movie with "80s action pack" but turned it to eleven. Usual stereotypical 80s action, has all the elements)
-
+- red heat (1988) (lame)
 
 ### Watch later
 
@@ -28,7 +28,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Crank 1 and 2
 - there will be blood (2007)
 - over the top
-- red heat (1988)
+
 - Lethal Weapon 2,3,4
 - raid 2
 - the killer (1989)
