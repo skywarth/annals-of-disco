@@ -21,7 +21,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Cobra (Meh, it's alright. Kinda dumb, like someone overdosed the movie with "80s action pack" but turned it to eleven. Usual stereotypical 80s action, has all the elements)
 - red heat (1988) (lame. Arnold Schwarzenegger as russian cop)
 - Beverly hills cop (1984) (Eddie Murphy. Ordinary police-action-comedy. Jonathan banks ? Whaaaaat ?? It's alright, watchable. Family friendly except a few scenes)
-
+- one hour photo (2002) (It's alright, some scenes are stretched to dread and could be boring. Rather realistic slightly psycho movie. Robin Williams. Photo printer)
 ### Watch later
 
 - Empire Records
@@ -33,6 +33,5 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lethal Weapon 2,3,4
 - raid 2
 - the killer (1989)
-- one hour photo
 - a single man
 - good time
