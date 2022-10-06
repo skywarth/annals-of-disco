@@ -19,7 +19,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lethal Weapon (decent action movie from 80s. A bit dumb writing at times and strong plot armor but good representation of classic 80s action)
 - Angel Heart (so thematic. I found it pretty close to 'Apocalypse Now' in some sense. I think it's a mix of 'Apocalypse Now' and 'Devils advocate' movies)
 - Cobra (Meh, it's alright. Kinda dumb, like someone overdosed the movie with "80s action pack" but turned it to eleven. Usual stereotypical 80s action, has all the elements)
-- red heat (1988) (lame)
+- red heat (1988) (lame. Arnold Schwarzenegger as russian cop)
 - Beverly hills cop (1984) (Eddie Murphy. Ordinary police-action-comedy. Jonathan banks ? Whaaaaat ?? It's alright, watchable. Family friendly except a few scenes)
 
 ### Watch later
