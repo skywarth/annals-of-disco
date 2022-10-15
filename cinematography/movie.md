@@ -35,3 +35,4 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - the killer (1989)
 - a single man
 - good time
+- marathon man
