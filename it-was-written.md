@@ -14,11 +14,12 @@
  - System agnostic's are taking over! gotta learn docker or kubernetes i suppose smh
  - Wifi probing and passive probe listening
  - Pocket EMP
- - Productivity with thermal printers (Epson TM-T88 has nice support and libraries)
+ - Productivity with thermal printers (Epson TM-T88 has nice support and libraries. Xprinter is cheap and seems to have somewhat driver)
  - Rust coding language, seems interesting
  - ~~Country routing algorithm with graph DFS~~
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
+ - PHP package for dynamic env
  - JS package for page filter
 
  - Authentication key device (U2F or FIDO2 or WebAuthn)
