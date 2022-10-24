@@ -93,3 +93,9 @@ Use `event:cache` on production to speed things up a bit. Clear 'em when you don
 
 #### CI/CD
 - https://www.laravel-enlightn.com/ (Performance and Security Insight)
+
+
+
+#### Laravel Package Development
+- https://laravelpackage.com/#tools-and-helpers //Magnificent. Best documentation I encountered over the years
+- https://laravelpackageboilerplate.com/
