@@ -22,8 +22,13 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - red heat (1988) (lame. Arnold Schwarzenegger as russian cop)
 - Beverly hills cop (1984) (Eddie Murphy. Ordinary police-action-comedy. Jonathan banks ? Whaaaaat ?? It's alright, watchable. Family friendly except a few scenes)
 - one hour photo (2002) (It's alright, some scenes are stretched to dread and could be boring. Rather realistic slightly psycho movie. Robin Williams. Photo printer)
+- Animatrix (Not good, only one or two stories are worth watching.)
+- marathon man (It's OK, some scenes and elaborations are just too unnecessary, it doesn't even contribute to the story. Not an exceptional movie. Dustin Hoffman)
+
 ### Watch later
 
+
+- Blue Max (1966)
 - Empire Records
 - Starship Troopers
 - Crank 1 and 2
@@ -35,6 +40,5 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - the killer (1989)
 - a single man
 - good time
-- marathon man
+
 - Howl's Moving Castle 
-- Animatrix
