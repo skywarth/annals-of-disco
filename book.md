@@ -13,3 +13,5 @@ High Performance MySQL, 4th Edition
 (not so great) A Philosophy of Software Design - John Ousterhout (https://milkov.tech/assets/psd.pdf)
 
 Category Theory for Programmers - Bartosz Milewski
+
+How to win friends & Influence people - Dale Carnegie
