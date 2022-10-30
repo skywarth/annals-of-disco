@@ -9,6 +9,13 @@ I think they renamed it to diagrams.net perhaps ?
 Hella overpriced, but has a wide scope of tools and diagram options. So corporate, but decent.
 
 ### Start UML
+Used it during studies, it's decent.
+
+
+Some list below:
+
+https://softwarearchitecture.tools
+
 
 
 
