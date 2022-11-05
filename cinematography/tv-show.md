@@ -22,6 +22,7 @@ check
 - fringe
 - Cyberpunk: Edgerunners
 - LoTR: Rings of power
+- person of interest
 - House of the dragon
 - stargate (SG-1)
 - stargate atlantis (SG-A)
