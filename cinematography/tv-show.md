@@ -24,6 +24,7 @@ check
 - LoTR: Rings of power
 - person of interest
 - House of the dragon
+- dark
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
