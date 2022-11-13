@@ -24,9 +24,13 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - one hour photo (2002) (It's alright, some scenes are stretched to dread and could be boring. Rather realistic slightly psycho movie. Robin Williams. Photo printer)
 - Animatrix (Not good, only one or two stories are worth watching.)
 - marathon man (It's OK, some scenes and elaborations are just too unnecessary, it doesn't even contribute to the story. Not an exceptional movie. Dustin Hoffman)
+- Howl's Moving Castle (Magnificient, a classic from Hayao Miyazaki)
+- Good Time (Alright movie, doesn't require your strict attention. Contains some decent comedy. Drug, theft... vice spree. Actually it is like crime speedrun)
+- a single man (Suicidal homosexual man, psychological movie. Decent, not incredible. Focuses too damn much on romance and affairs.)
 
 ### Watch later
 
+- The Rock (1996)
 - Blue Max (1966)
 - imperium
 - Empire Records
@@ -38,7 +42,5 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lethal Weapon 2,3,4
 - raid 2
 - the killer (1989)
-- a single man
-- good time
 
-- Howl's Moving Castle 
+
