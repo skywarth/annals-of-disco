@@ -5,6 +5,7 @@ Ridiculous, nonsense, gibberish, resembling farce
 
 *The argument was farcical altogether* 
 
+---
 
 ## Salient
 `[sa-lient]` 
