@@ -23,6 +23,9 @@
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
 
+ - Markdown merger/splitter
+ - Markdown cypher
+
  - Authentication key device (U2F or FIDO2 or WebAuthn)
  - Playing around with eink 
  - Elastic search
