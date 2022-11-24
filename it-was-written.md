@@ -25,6 +25,7 @@
 
  - Markdown merger/splitter
  - Markdown cypher
+ - learn and apply cloudflare 
 
  - Authentication key device (U2F or FIDO2 or WebAuthn)
  - Playing around with eink 
