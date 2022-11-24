@@ -27,10 +27,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Howl's Moving Castle (Magnificient, a classic from Hayao Miyazaki)
 - Good Time (Alright movie, doesn't require your strict attention. Contains some decent comedy. Drug, theft... vice spree. Actually it is like crime speedrun)
 - a single man (Suicidal homosexual man, psychological movie. Decent, not incredible. Focuses too damn much on romance and affairs.)
+- The Rock (1996) (Ordinary action movie, some famous actors though. Nothing fancy. Island, alcatraz, marines go rogue, main characters go in and brrr. Nicolas Cage)
+
 
 ### Watch later
 
-- The Rock (1996)
 - Blue Max (1966)
 - imperium
 - Empire Records
