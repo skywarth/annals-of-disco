@@ -39,6 +39,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Crank 1 and 2
 - there will be blood (2007)
 - over the top
+- All quiet on the western front (2022)
 
 - Lethal Weapon 2,3,4
 - raid 2
