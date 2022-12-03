@@ -28,18 +28,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Good Time (Alright movie, doesn't require your strict attention. Contains some decent comedy. Drug, theft... vice spree. Actually it is like crime speedrun)
 - a single man (Suicidal homosexual man, psychological movie. Decent, not incredible. Focuses too damn much on romance and affairs.)
 - The Rock (1996) (Ordinary action movie, some famous actors though. Nothing fancy. Island, alcatraz, marines go rogue, main characters go in and brrr. Nicolas Cage)
-
+- Imperium (2016) (Undercover cop, supremacists and fascists. It's like bootleg version of American History X. It's not a must-watch, it's ok)
+- All quiet on the western front (2022) (A realistic WW1 movie, visuals are great. Focuses on harsh realities of war, incompetent and corrupt rulers and brutalities of war. Not as good as the movie '1917' but still somewhat good)
 
 ### Watch later
 
 - Blue Max (1966)
-- imperium
 - Empire Records
 - Starship Troopers
 - Crank 1 and 2
 - there will be blood (2007)
 - over the top
-- All quiet on the western front (2022)
+
 
 - Lethal Weapon 2,3,4
 - raid 2
