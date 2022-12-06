@@ -6,6 +6,9 @@ DeGoogle:
 https://github.com/tycrek/degoogle
 
 
+Firefox profile maker: https://ffprofile.com
+
+
 Cloak and poison your publicly available images to avoid facial recog
 
 https://sandlab.cs.uchicago.edu/fawkes/
