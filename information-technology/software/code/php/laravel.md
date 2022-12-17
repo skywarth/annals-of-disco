@@ -1,3 +1,8 @@
+## Commands (Artisan console)
+
+- DO NOT EXIT THE COMMAND WITH `EXIT(0)` OR `EXIT(1)`. It messes up unit tests big time. Just use `return 0` for the love of god. It costed me around 3 hours.
+
+
 ## Events
 
 There are events and observers/listeners. Listeners subscribe to event(s) and do actions. Events fire when certain things happen, you fire it explicitly. 
