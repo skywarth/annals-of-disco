@@ -30,11 +30,13 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Rock (1996) (Ordinary action movie, some famous actors though. Nothing fancy. Island, alcatraz, marines go rogue, main characters go in and brrr. Nicolas Cage)
 - Imperium (2016) (Undercover cop, supremacists and fascists. It's like bootleg version of American History X. It's not a must-watch, it's ok)
 - All quiet on the western front (2022) (A realistic WW1 movie, visuals are great. Focuses on harsh realities of war, incompetent and corrupt rulers and brutalities of war. Not as good as the movie '1917' but still somewhat good)
+- raid 2 (such try-hard for a story. Bro you're just some braindead action movie just do your thing. Other than that it's ok. Not as good as the first one.)
+- Empire Records (Vinyl store, group of teens working as clerk. I usually hate musicals maybe it is the reason but I really found it wexing. Unreasonable character developments, so many loop-holes in the story, unnecessary dialogues. Wouldn't really recommend. It could be that I just didn't understand it.)
+
 
 ### Watch later
 
 - Blue Max (1966)
-- Empire Records
 - Starship Troopers
 - Crank 1 and 2
 - there will be blood (2007)
@@ -42,7 +44,6 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 
 - Lethal Weapon 2,3,4
-- raid 2
 - the killer (1989)
 
 
