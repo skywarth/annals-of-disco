@@ -19,7 +19,7 @@
  - ~~Country routing algorithm with graph DFS~~
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
- - PHP package for dynamic env
+ - ~~PHP package for dynamic env~~
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
 
