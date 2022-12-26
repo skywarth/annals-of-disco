@@ -1,6 +1,6 @@
  _**So it shall be done**... Or not !_
  
- 
+ - port knocking
  - reverse shell attack
  - ~~Set up personal dns server (pi hole)~~
  - network controlled pico pomodoro
