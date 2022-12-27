@@ -32,7 +32,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - All quiet on the western front (2022) (A realistic WW1 movie, visuals are great. Focuses on harsh realities of war, incompetent and corrupt rulers and brutalities of war. Not as good as the movie '1917' but still somewhat good)
 - raid 2 (such try-hard for a story. Bro you're just some braindead action movie just do your thing. Other than that it's ok. Not as good as the first one.)
 - Empire Records (Vinyl store, group of teens working as clerk. I usually hate musicals maybe it is the reason but I really found it wexing. Unreasonable character developments, so many loop-holes in the story, unnecessary dialogues. Wouldn't really recommend. It could be that I just didn't understand it.)
-
+- House of Flying Daggers (2004) (Some sort of emotional movie. Some scenes resembles of the movie 'Hero'. Love is the main theme. Found it boring. Dunno wasn't so appealing to me. Plot was sligtly hard to grasp.)
 
 ### Watch later
 
