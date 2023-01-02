@@ -22,6 +22,7 @@
  - ~~PHP package for dynamic env~~
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
+ - Artisan credits generator
 
  - Markdown merger/splitter
  - Markdown cypher
