@@ -36,6 +36,10 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
+- virus (1999)
+- screamers
+- sphere
+- mimic
 - platoon
 - 13 assasins
 - Blue Max (1966)
