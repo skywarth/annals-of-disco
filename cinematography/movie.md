@@ -33,6 +33,10 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - raid 2 (such try-hard for a story. Bro you're just some braindead action movie just do your thing. Other than that it's ok. Not as good as the first one.)
 - Empire Records (Vinyl store, group of teens working as clerk. I usually hate musicals maybe it is the reason but I really found it wexing. Unreasonable character developments, so many loop-holes in the story, unnecessary dialogues. Wouldn't really recommend. It could be that I just didn't understand it.)
 - House of Flying Daggers (2004) (Some sort of emotional movie. Some scenes resembles of the movie 'Hero'. Love is the main theme. Found it boring. Dunno wasn't so appealing to me. Plot was sligtly hard to grasp.)
+- platoon (1986) (war movie, war crimes, Vietnam, some famous actors. good movie, don't be fooled by the dullness of the first 30 min)
+- Crank 1 and 2 (classic 2000s action movie, enjoyable and fun. wish there was a third. Concept is interesting)
+- Mongol (2007) (Genghis Khan, story is well explained. Some mystic elements is in place. Can be slightly boring though, nonetheless decent movie)
+
 
 ### Watch later
 
@@ -40,14 +44,14 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - screamers
 - sphere
 - mimic
-- platoon
+
 - 13 assasins
 - Blue Max (1966)
 - Starship Troopers
-- Crank 1 and 2
+
 - there will be blood (2007)
 - over the top
-- Mongol (2007)
+
 
 
 - Lethal Weapon 2,3,4
