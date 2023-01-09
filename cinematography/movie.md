@@ -36,7 +36,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - platoon (1986) (war movie, war crimes, Vietnam, some famous actors. good movie, don't be fooled by the dullness of the first 30 min)
 - Crank 1 and 2 (classic 2000s action movie, enjoyable and fun. wish there was a third. Concept is interesting)
 - Mongol (2007) (Genghis Khan, story is well explained. Some mystic elements is in place. Can be slightly boring though, nonetheless decent movie)
-
+- sphere (1998) (watched it so many times during childhood. Soundtracks are great, plot is intriguing, characters and acting sucks balls (Even though some great actors are present ???), scene props were horrible. It's ok. Good time killer. Sci-fi movie.)
 
 ### Watch later
 
