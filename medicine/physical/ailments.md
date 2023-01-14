@@ -8,6 +8,13 @@ Interesting stuff, do research
 - Usually patient has to rotate from the leg to prevent toes from dragging on surface (on swing phase)
 - Main indicator is high-rising knee to prevent toes from scraping ground
 
+### Asteroid hyalosis
+- floaters in the eye
+- caused by calcium soaps deposits form inside the vitreous fluid that fills the back of the eye
+- harmless, unless it is caused by a tear on cornea
+- They glow under eye exam. It could remind of a snowglobe
+- They only cause visual sympots like floaters (more than usual)
+
 ### Folliculitis
 - It can present itself on many different body parts. 
 - Appearence: Small, white-yellow acne like bump
