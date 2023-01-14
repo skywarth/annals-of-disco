@@ -24,6 +24,7 @@
  - JS package for page filter
  - Artisan credits generator
 
+ - mobile game name generator
  - Markdown merger/splitter
  - Markdown cypher
  - learn and apply cloudflare 
