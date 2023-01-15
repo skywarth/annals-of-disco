@@ -14,6 +14,8 @@ Interesting stuff, do research
 - harmless, unless it is caused by a tear on cornea
 - They glow under eye exam. It could remind of a snowglobe
 - They only cause visual sympots like floaters (more than usual)
+- "Asteroid hyalosis is primarily an incidental finding seen during an eye exam and not an indicator of any problems"
+- If the amount floaters increase and obstruct the vision, a vitrectomy surgery could be conducted. But it is rather rare.
 
 ### Folliculitis
 - It can present itself on many different body parts. 
