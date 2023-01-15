@@ -16,6 +16,7 @@ Interesting stuff, do research
 - They only cause visual sympots like floaters (more than usual)
 - "Asteroid hyalosis is primarily an incidental finding seen during an eye exam and not an indicator of any problems"
 - If the amount floaters increase and obstruct the vision, a vitrectomy surgery could be conducted. But it is rather rare.
+- https://www.healio.com/news/optometry/20200408/blog-how-and-why-does-asteroid-hyalosis-form
 
 ### Folliculitis
 - It can present itself on many different body parts. 
