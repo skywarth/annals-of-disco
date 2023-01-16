@@ -37,12 +37,14 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Crank 1 and 2 (classic 2000s action movie, enjoyable and fun. wish there was a third. Concept is interesting)
 - Mongol (2007) (Genghis Khan, story is well explained. Some mystic elements is in place. Can be slightly boring though, nonetheless decent movie)
 - sphere (1998) (watched it so many times during childhood. Soundtracks are great, plot is intriguing, characters and acting sucks balls (Even though some great actors are present ???), scene props were horrible. It's ok. Good time killer. Sci-fi movie.)
+- virus (1999) (Some entity is beamed down from the satellite, which just learns and upgrades itself, aims to destroy humans. Bootleg popcorn movie. Only the plot/story was fancy for a bit then became straight up boring. Just not good. Food movie)
+- Screamers (1995) (Some kind of AI keeps learning and improves itself. Subterran, burrowing, flying-blade, screaming-arse, non-logical creatures. At some point it tries to resemble the movie 'Thing' but ofc not even close. Main actor tried hard to carry it but the cast was a bit too heavy for that. Interseting story though. It's ok.)
+
+
 
 ### Watch later
 
-- virus (1999)
-- screamers
-- sphere
+
 - mimic
 - army of darkness (1992)
 - 13 assasins
