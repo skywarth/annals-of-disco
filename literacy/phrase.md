@@ -1,3 +1,16 @@
+> ## "Memento mori"
+> Translation: *"Remember that you [will/have to] die"*
+
+Language: Latin
+
+Origin: It's a roman custom. "...an ancient Roman tradition in which a servant would be tasked with standing behind a victorious general as he paraded though town. As the general basked in the glory of the cheering crowds, the servant would whisper in the general’s ear: 'Look behind you! Remember that you are but a man! Remember that you will die' "
+
+
+Explanation: It is a mere heed to the mortals, a reminder to their ephemeral existance in this plane.
+
+---
+
+
 > ## "Eram quod es, eris quod sum"
 > Translation: *"I was what you are, you will be what I am"*
 
