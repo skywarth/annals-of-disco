@@ -1,3 +1,16 @@
+
+> ## "Ma Nishtana"
+> Translation: *"Why is tonight different from all other nights?"*
+
+Language: Hebrew
+
+Origin: The phrase takes place in `The Four Questions` during `Passover Seder` event. It is recited on each questions beginning.
+
+Explanation: *It's kind of self explanatory*
+
+---
+
+
 > ## "Memento mori"
 > Translation: *"Remember that you [will/have to] die"*
 
