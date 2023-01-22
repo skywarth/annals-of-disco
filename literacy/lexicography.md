@@ -1,3 +1,15 @@
+## Cul-de-sac
+`[cul-de-sac]` 
+
+cul (bottom/arse) de (of) sac (sack)
+
+Dead-end street. French origin.
+
+*Snap, they got us into a cul-de-sac!* 
+
+---
+
+
 ## Farcical
 `[far-ci-cal]` 
 
