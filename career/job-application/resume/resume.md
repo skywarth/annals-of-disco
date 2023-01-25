@@ -4,6 +4,14 @@
 
 ### Employment History
 
+- Be concise and use a simple language. Don't try too hard to sound smart
+- Include quantitative accomplishments
+  - Hired 20 long-term team members
+  - Successfully developed 3 different microservices consisting of...
+  - Reviewed 1000+ PR's
+  - Reduced sustained expenses by 25%
+  - Mentor 5 people into higher ranks over the course of 2 years
+
 ### Photo
 
 This one is a bit controversial, apparently. Some say you may if you want, some say there is no need. I haven't concluded my thought on this one yet.
