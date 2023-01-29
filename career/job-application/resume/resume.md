@@ -1,5 +1,12 @@
 # Preparing a Resume-CV
 
+## Common Sense
+
+- No grammar errors
+  - Better do a proof-reading both by yourself and an automated system such as Grammarly
+- No typos
+
+
 ## Content
 
 ### Employment History
