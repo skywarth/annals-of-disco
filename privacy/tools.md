@@ -111,6 +111,14 @@ Nordvpn, PIA and Protonvpn
 
 - Orbot (for mobile only ?)
   - Onion based vpn 
+- ProtonVPN
+  - Offers free services (If there is indeed such thing for VPNs)
+- NordVPN (heard just rumors)
+- PIA VPN
+  - Extremely suspicious, high chance of being a honeypot
+  - Open source ? To what extent ?
+- Mullvad VPN
+  - Heards some good feedback
 
 
 ### DNS:
