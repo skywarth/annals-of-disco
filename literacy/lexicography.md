@@ -1,3 +1,14 @@
+## Bona Fide
+`[bone-a-faid]` 
+
+Sincere, with good intention, in good faith,without ulterior motive, genuine.
+
+Latin origin.
+
+*He was able to present himself as a bona fide man.* 
+
+---
+
 ## Cul-de-sac
 `[cul-de-sac]` 
 
