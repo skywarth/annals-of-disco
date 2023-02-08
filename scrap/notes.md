@@ -94,3 +94,5 @@ Diatoms
 https://chateau-logic.com/
 
 Robotripping
+
+Yuppies - slang term denoting the market segment of young urban professionals
