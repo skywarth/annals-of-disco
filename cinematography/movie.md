@@ -39,7 +39,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - sphere (1998) (watched it so many times during childhood. Soundtracks are great, plot is intriguing, characters and acting sucks balls (Even though some great actors are present ???), scene props were horrible. It's ok. Good time killer. Sci-fi movie.)
 - virus (1999) (Some entity is beamed down from the satellite, which just learns and upgrades itself, aims to destroy humans. Bootleg popcorn movie. Only the plot/story was fancy for a bit then became straight up boring. Just not good. Food movie)
 - Screamers (1995) (Some kind of AI keeps learning and improves itself. Subterran, burrowing, flying-blade, screaming-arse, non-logical creatures. At some point it tries to resemble the movie 'Thing' but ofc not even close. Main actor tried hard to carry it but the cast was a bit too heavy for that. Interseting story though. It's ok.)
-
+- Once upon a time in west (1968) (Railroad, wild west. Cast and acting is great. But damn is it slow, it is soo far stretched. Contains usual scowls. Good but kinda boring) 
 
 
 ### Watch later
