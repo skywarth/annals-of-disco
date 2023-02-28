@@ -22,6 +22,7 @@
  - ~~PHP package for dynamic env~~
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
+ - JS package for console proxy
  - Artisan credits generator
 
  - mobile game name generator
