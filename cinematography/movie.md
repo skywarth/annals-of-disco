@@ -47,6 +47,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 
 - mimic
+- An Officer and a Gentleman (1982)
 - army of darkness (1992)
 - 13 assasins
 - Blue Max (1966)
