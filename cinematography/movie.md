@@ -41,6 +41,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Screamers (1995) (Some kind of AI keeps learning and improves itself. Subterran, burrowing, flying-blade, screaming-arse, non-logical creatures. At some point it tries to resemble the movie 'Thing' but ofc not even close. Main actor tried hard to carry it but the cast was a bit too heavy for that. Interesting story though. It's ok.)
 - Once upon a time in west (1968) (Railroad, wild west. Cast and acting is great. But damn is it slow, it is soo far stretched. Contains usual scowls. Good but kinda boring) 
 - Malcolm X (1992) (Strong political movie, biography, civil rights, 1960s period. Scenes just cut abruptly, I don't get it. Good movie, some memorable scenes for sure. Denzel played it great.)
+- Django (1966) (Great western movie. Drifting a coffing on his back. One of a few occurrences of minigun/gatling gun in western movies. Mexicans, confederate soldiers. Heist.)
 
 ### Watch later
 
