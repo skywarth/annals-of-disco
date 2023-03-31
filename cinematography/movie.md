@@ -54,6 +54,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 - there will be blood (2007)
 - over the top
+- jarhead (2005)
 
 
 
