@@ -42,19 +42,24 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Once upon a time in west (1968) (Railroad, wild west. Cast and acting is great. But damn is it slow, it is soo far stretched. Contains usual scowls. Good but kinda boring) 
 - Malcolm X (1992) (Strong political movie, biography, civil rights, 1960s period. Scenes just cut abruptly, I don't get it. Good movie, some memorable scenes for sure. Denzel played it great.)
 - Django (1966) (Great western movie. Drifting a coffing on his back. One of a few occurrences of minigun/gatling gun in western movies. Mexicans, confederate soldiers. Heist.)
+- mimic (1997) (Cockroach infestation, adaptation, massive cockroaches, sewers. Didn't enjoy it much, insignificant movie.)
+- Blue Max (1966) (WW1 ace pilot, blue max ribbon, dogfight, unprecedented swagger of pilots, politics, sad ending. Good movie. Interactions between characters are hard to wrap your head around.)
+- There will Be Blood (2007) (drilling, pumping oil, wild westish era, blinded by determination. Good movie.)
+- Over The Top (Trucker dad, navy seal son, arm wrestling, and more 18 wheelers. Decent movie about family values and father-son relationships. Sylvester Stallone carried the movie.)
+
 
 ### Watch later
 
+- omega man (1971)
 
-- mimic
 - An Officer and a Gentleman (1982)
 - army of darkness (1992)
 - 13 assasins
-- Blue Max (1966)
+
 - Starship Troopers
 
-- there will be blood (2007)
-- over the top
+
+
 - jarhead (2005)
 
 
