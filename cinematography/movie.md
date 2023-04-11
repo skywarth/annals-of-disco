@@ -51,7 +51,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - omega man (1971)
-
+- margin call (2011)
 - An Officer and a Gentleman (1982)
 - army of darkness (1992)
 - 13 assasins
