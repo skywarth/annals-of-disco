@@ -100,3 +100,5 @@ Yuppies - slang term denoting the market segment of young urban professionals
 Digital Nomad Visa
 
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
+
+Salting earth
