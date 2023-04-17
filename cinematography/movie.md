@@ -50,6 +50,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
+- Titan AE (2000)
+- Treasure Planet (2002)
 - Swordfish (2001)
 - omega man (1971)
 - margin call (2011)
