@@ -1,9 +1,9 @@
 ## Touché
 `[tou-che]` 
 
-Great delivery, **appropriateness** of an argument/delivery. Also acknowledgement of a hit in fencing sport.
+Great delivery, **appropriateness** of an argument/delivery. But there has to be some sort of wittiness to it. Also acknowledgement of a hit in fencing sport.
 
-It is something you can say when you get debunked, fooled, played. At least you'll go down in-style, *amirite* ?
+It is something you can say when you get debunked, fooled, played. At least you'll go down in-style, *amirite* ? In some cases it is the grandfather of *noice*.
 
 French origin.
 
