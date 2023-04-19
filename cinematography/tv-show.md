@@ -11,19 +11,21 @@ Probably forgot most of the past ones.
 - Arcane
 - westworld*
 - house*
+- Cyberpunk: Edgerunners
 - the boys*
 - Love, Death & Robots*
 - Black mirror*
 - Expanse
 - resident evil
-- primal*
+- primal
+- Last Of Us*
 
 check
 
-- Last Of Us
 - marco polo
+- mindhunter
 - fringe
-- Cyberpunk: Edgerunners
+- Last Of Us
 - LoTR: Rings of power
 - person of interest
 - House of the dragon
