@@ -46,6 +46,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Blue Max (1966) (WW1 ace pilot, blue max ribbon, dogfight, unprecedented swagger of pilots, politics, sad ending. Good movie. Interactions between characters are hard to wrap your head around.)
 - There will Be Blood (2007) (drilling, pumping oil, wild westish era, blinded by determination. Good movie.)
 - Over The Top (Trucker dad, navy seal son, arm wrestling, and more 18 wheelers. Decent movie about family values and father-son relationships. Sylvester Stallone carried the movie.)
+- Death Race (2008) (Low-tier shite action movie. Jason Statham. Prison, car race to death in order to win freedom. Watch it for the fun, some scenes are just awful hilarious.)
+- omega man (1971) (Post-apocalyptic. Night people, mysterious disease, anti-techno society, cool-ass vampire lookin' people. This movie is the source of inspiration on the movie "I Am Legend (2007)". Masculine theme is strong similar to it's era. Great movie, plot kinda sucks but still nice.)
 
 
 ### Watch later
@@ -54,7 +56,6 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Titan AE (2000)
 - Treasure Planet (2002)
 - Swordfish (2001)
-- omega man (1971)
 - margin call (2011)
 - An Officer and a Gentleman (1982)
 - army of darkness (1992)
