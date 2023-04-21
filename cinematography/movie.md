@@ -53,6 +53,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - inferno (2016)
+- Do the Right Thing (1989)
 - Titan AE (2000)
 - Treasure Planet (2002)
 - Swordfish (2001)
