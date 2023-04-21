@@ -18,3 +18,5 @@ larajobs.com (specializes in job post about Laravel)
 https://www.found.dev/skill/Laravel***
 
 https://vanhack.com/ (focuses on relocation to Canada)
+
+xing.com (only german speaking countries)
