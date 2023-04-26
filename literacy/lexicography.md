@@ -1,3 +1,21 @@
+## Conciliate
+`[con-cil-i-ate]` 
+
+Eagerness to end an argument, eliminate hostility, keen on cooler heads prevail. Motived to acquire the cooperation/compliance with the other party.
+
+Intent for pacification. 
+
+Latin origin `concilium` (assembly/unite), mid-16th century.
+
+*You can't simply conciliate me with mere words, I'm not an easy prey.*
+
+*When the conciliatiation failed, I had to resort to brutal methods.* 
+
+
+
+---
+
+
 ## Touché
 `[tou-che]` 
 
