@@ -11,7 +11,7 @@ relocate.me (visa sponsorship and relocation focused)
 
 startup.jobs (lotsa jobs, primarily startups)
 
-wellfound.com (visa sponsorship indicators available)
+wellfound.com (visa sponsorship indicators available, also filter for it is present)
 
 larajobs.com (specializes in job post about Laravel)
 
