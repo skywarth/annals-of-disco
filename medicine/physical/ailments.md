@@ -1,5 +1,38 @@
+# Ailments
+
+---
+> Do not trust the contents of this document. I'm not a medical expert and these are not medical suggestions or advices. None of the material on this page is intended for subsitute to professional medical advice, diagnosis or treatment. Intention of this file is merely for educational and research purposes. You have been warned. 
+> 
+> **Always consult your doctor/physician without delay.**
+---
+
 ### Agnosia
 Interesting stuff, do research
+
+### Pneumococcal disease
+- Caused by pneumococcus bacteria
+- Common in homeless people
+- Spread by coughing and sneezing
+- It can cause various infections in the body:
+  - Sinuses  
+  - Lungs (pneumonia) 
+  - **Ears (otitis)**
+  - Sinuses (sinusitis)
+  - The lining of the brain and spinal cord (meningitis)
+  - Blood (bacteremia)
+- chest pain, fever, cough, joint pain, chills, ear pain
+- Two types: 
+  - HAP (Hospital acquired pneumonia): you can catch it from health facilities, it usually shows it's symptoms in 2-3 days
+  - CAP (Community-acquired pneumonia): spread/caught by those who are outside of the healthcare system
+- I think it is very common in military
+- Can be treated with 
+  - wide-range/common antibiotics: azithromycin, clarithromycin. Azitro.
+  - cough syrup
+  - Pseudoephedrine, afrin, a-ferin, codeine
+  - Over-the-counter ear drops (e.g siprogut)
+- It is some of the leading cause of death in all groups. But Actually mortality rate is just 1%.
+- There is a vaccine available for prevention and protection, especially for children
+
 
 ###  Steppage Gait (Diabetic Gait)
 // Research gait abnormalities
