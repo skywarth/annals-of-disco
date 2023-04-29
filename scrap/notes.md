@@ -104,3 +104,5 @@ Marc Landolt (marclandolt.ch). Serious schizo stuff.
 Salting earth
 
 CQRS
+
+Lent fasting variations
