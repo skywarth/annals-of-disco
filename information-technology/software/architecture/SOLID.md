@@ -190,7 +190,66 @@ Whatever methods does an interface has, it should be present (and non-blank) in 
 
 ## Dependency Inversion (DIP, p for principle)
 > "High-level modules should not depend on low-level modules. Both should depend on abstractions."
+
 > "Abstraction should not depend on details. Details should depend on abstractions."
+
+> "When a change occurs in High Level modules, child modules should comply and change themselves to fit/suffice. But when a low level module experiences a behavioural change, it shouldn't affect high level modules."
+
+
+In really short summary: high level class should directly aggregate/contain low level class instances like so:
+
+**Without DI**
+```
+class Chef{
+    public Oven $oven=new Oven();
+    cook(){
+        $oven->heat();
+    }
+}
+
+class Oven{
+    heat(){
+        $oven->heat();
+    }
+}
+```
+
+As you can see, `Chef` class is tightly coupled with `Oven` class. Because if a change is to occur on `Oven` class, it would devastate the `Chef` class. So we can put a layer of abstraction to isolate us from the shenanigans of the low-level `Oven` class: 
+
+**With DI**
+```
+class Chef{
+    public HeatingDevice $heatingDevice=new Oven();//you may apply dependency injection 
+    cook(){
+        $heatingDevice->heat();
+    }
+}
+
+interface HeatingDeviceInterface{//may as well be a abstract class too
+    heat();
+}
+
+class Oven implements HeatingDeviceInterface{
+    heat(){
+        $this->turnOnGas();
+        $this->lightTheGas();
+    }
+    
+    turnOnGas(){
+    //stuff
+    }
+    
+    lightTheGas(){
+    //other stuff
+    }
+}
+
+//you may even define and integrate Microwave class easily
+```
+
+
+
+
 
 Can't say i'm the biggest fan of this one.
 For example, a controller shouldn't depend on some service/repository/model directly. Scenario: 
