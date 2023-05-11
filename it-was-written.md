@@ -24,6 +24,7 @@
  - JS package for page filter
  - JS package for console proxy
  - Artisan credits generator
+ - Browser plugin for checking if job posting has visa/relo support
 
  - mobile game name generator
  - Markdown merger/splitter
