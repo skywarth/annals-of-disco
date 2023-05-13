@@ -10,7 +10,7 @@ Probably forgot most of the past ones.
 - Better Call Saul
 - Arcane
 - westworld*
-- house*
+- House
 - Cyberpunk: Edgerunners
 - the boys*
 - Love, Death & Robots*
