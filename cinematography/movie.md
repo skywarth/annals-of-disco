@@ -48,29 +48,21 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Over The Top (Trucker dad, navy seal son, arm wrestling, and more 18 wheelers. Decent movie about family values and father-son relationships. Sylvester Stallone carried the movie.)
 - Death Race (2008) (Low-tier shite action movie. Jason Statham. Prison, car race to death in order to win freedom. Watch it for the fun, some scenes are just awful hilarious.)
 - omega man (1971) (Post-apocalyptic. Night people, mysterious disease, anti-techno society, cool-ass vampire lookin' people. This movie is the source of inspiration on the movie "I Am Legend (2007)". Masculine theme is strong similar to it's era. Great movie, plot kinda sucks but still nice.)
+- An Officer and a Gentleman (1982) (Military movie. Some guy joins the army, hard training, drill instructor, loses friend to suicide, deceiving relationships. Good movie.)
+- Boyz ’N The Hood (1991) (Hood, ghetto, community, crime, felony, drive-by shooting, teaching son to be a man. Ok movie, except for a few subtle messages it's dull.)
+- inferno (2016) (dante's inferno, amnesia, WHO, puzzle solving. It feels like a boring action movie. It's ok but you won't be missing much if you don't watch it.)
 
 
 ### Watch later
-
-- inferno (2016)
-- Boyz ’N The Hood (1991)
 - Do the Right Thing (1989)
 - Titan AE (2000)
 - Treasure Planet (2002)
 - Swordfish (2001)
 - margin call (2011)
-- An Officer and a Gentleman (1982)
 - army of darkness (1992)
 - 13 assasins
-
 - Starship Troopers
-
-
-
 - jarhead (2005)
-
-
-
 - Lethal Weapon 2,3,4
 - the killer (1989)
 
