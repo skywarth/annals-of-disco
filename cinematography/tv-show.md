@@ -12,20 +12,19 @@ Probably forgot most of the past ones.
 - westworld*
 - House
 - Cyberpunk: Edgerunners
-- the boys*
+- The Boys*
 - Love, Death & Robots*
 - Black mirror*
 - Expanse
 - resident evil
 - primal
 - Last Of Us*
+- fringe *
 
 check
 
 - marco polo
 - mindhunter
-- fringe
-- Last Of Us
 - LoTR: Rings of power
 - person of interest
 - House of the dragon
