@@ -58,7 +58,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Titan AE (2000)
 - Treasure Planet (2002)
 - Swordfish (2001)
+- Last sentinel (2023), probably low-quality but let's check.
 - margin call (2011)
+- The Day of the Jackal (1973)
 - army of darkness (1992)
 - 13 assasins
 - Starship Troopers
