@@ -51,12 +51,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - An Officer and a Gentleman (1982) (Military movie. Some guy joins the army, hard training, drill instructor, loses friend to suicide, deceiving relationships. Good movie.)
 - Boyz ’N The Hood (1991) (Hood, ghetto, community, crime, felony, drive-by shooting, teaching son to be a man. Ok movie, except for a few subtle messages it's dull.)
 - inferno (2016) (dante's inferno, amnesia, WHO, puzzle solving. It feels like a boring action movie. It's ok but you won't be missing much if you don't watch it.)
-
+- Titan AE (2000) (Classic children animated movie. Decent animations for it's time, but CGIs suck. Protagonist has a map imprinted on his hand (by ring). Great film to watch with family, suggested especially for younglings.)
+- Treasure Planet (2002) (Animated kids movie, but adults can watch as well. Has some fantastic characters with depth. Voice acting and body languages are impressive. Fun to watch.)
 
 ### Watch later
 - Do the Right Thing (1989)
-- Titan AE (2000)
-- Treasure Planet (2002)
+
 - Swordfish (2001)
 - Last sentinel (2023), probably low-quality but let's check.
 - margin call (2011)
