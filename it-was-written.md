@@ -31,6 +31,9 @@
  - Markdown cypher
  - learn and apply cloudflare 
 
+ - First Github Action for marketplace
+ - Github Action for automatically mapping every input to shell, for bash shell steps. Unbelievable this isn't resolved. https://github.com/actions/runner/issues/665
+
  - Authentication key device (U2F or FIDO2 or WebAuthn)
  - Playing around with eink 
  - Elastic search
