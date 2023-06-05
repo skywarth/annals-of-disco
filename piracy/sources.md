@@ -2,7 +2,7 @@
 
 
 ## Public hubs
-- rarbg.to
+- rarbg.to (RIP, big respect for operating all those years from their own pockets.)
 - rarbgmirror.com
 - yts.ag / yify
 - sonarr (installation)
