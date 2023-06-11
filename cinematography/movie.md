@@ -54,14 +54,13 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Titan AE (2000) (Classic children animated movie. Decent animations for it's time, but CGIs suck. Protagonist has a map imprinted on his hand (by ring). Great film to watch with family, suggested especially for younglings.)
 - Treasure Planet (2002) (Animated kids movie, but adults can watch as well. Has some fantastic characters with depth. Voice acting and body languages are impressive. Fun to watch.)
 - Do the Right Thing (1989) (Interesting movie regarding racial issues, ghettos, empathy. Pizzaria, Italians, Asians, Afro-americans. Fun movie.)
+- The Day of the Jackal (1973) (Pretty good. Basically a cat-mouse game between detective and an assasin. France, forged identity, assasination plot, know-how.)
+- Swordfish (2001) (John Travolta, Hugh Jackman. Heist, infamous hacker, hacking, corruption. Finally a movie where antoganist wins, damn. Plot twist is strong. Good movie. Even though hacking scenes were so far fetched, I enjoyed it.) 
 
 ### Watch later
 
-
-- Swordfish (2001)
 - Last sentinel (2023), probably low-quality but let's check.
 - margin call (2011)
-- The Day of the Jackal (1973)
 - army of darkness (1992)
 - 13 assasins
 - Starship Troopers
