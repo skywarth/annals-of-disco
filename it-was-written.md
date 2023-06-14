@@ -21,6 +21,7 @@
  - PHP package for CipherSuite (preferably laravel wrapper)
  - Laravel package for RND schedule command
  - ~~PHP package for dynamic env~~
+ - Laravel package for running commands with special intervals (the twister thing)
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
  - JS package for console proxy
