@@ -19,6 +19,7 @@
  - ~~Country routing algorithm with graph DFS~~
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
+ - Laravel package for RND schedule command
  - ~~PHP package for dynamic env~~
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
@@ -43,3 +44,6 @@
 
 
  - Frontend library for punishing unfair use and overdue payment
+
+
+ - Run a marathon
