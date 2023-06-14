@@ -19,7 +19,6 @@
  - ~~Country routing algorithm with graph DFS~~
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
- - Laravel package for RND schedule command
  - ~~PHP package for dynamic env~~
  - Laravel package for running commands with special intervals (the twister thing)
  - that ray-tracing chars and dot distribution. Incredible algorithm 
