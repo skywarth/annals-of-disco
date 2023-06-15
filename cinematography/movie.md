@@ -59,10 +59,10 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
-- Last sentinel (2023), probably low-quality but let's check.
 - margin call (2011)
 - army of darkness (1992)
 - 13 assasins
+- Turkey shoot (1982)
 - Starship Troopers
 - jarhead (2005)
 - Lethal Weapon 2,3,4
