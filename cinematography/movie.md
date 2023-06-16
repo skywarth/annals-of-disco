@@ -56,11 +56,14 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Do the Right Thing (1989) (Interesting movie regarding racial issues, ghettos, empathy. Pizzaria, Italians, Asians, Afro-americans. Fun movie.)
 - The Day of the Jackal (1973) (Pretty good. Basically a cat-mouse game between detective and an assasin. France, forged identity, assasination plot, know-how.)
 - Swordfish (2001) (John Travolta, Hugh Jackman. Heist, infamous hacker, hacking, corruption. Finally a movie where antoganist wins, damn. Plot twist is strong. Good movie. Even though hacking scenes were so far fetched, I enjoyed it.) 
+- Avatar: The Way of Water (2022) (Meh, it's alright. Visuals are great.)
+- Army of darkness (1992) (Famous "boom stick" scene is from this movie. Time travel, medieval, shotgun, skeletons, necromancers... Not a 'must watch', meh. It's good as a meal movie or watch-with-friends movie though. Fun elements are always present but quite forced imo)
+
 
 ### Watch later
 
 - margin call (2011)
-- army of darkness (1992)
+
 - 13 assasins
 - Turkey shoot (1982)
 - Starship Troopers
