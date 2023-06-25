@@ -65,6 +65,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - margin call (2011)
 
 - 13 assasins
+- Riding Bean (1989)
+- Violence Jack (3 episodes/movies. Order differs, care)
 - Turkey shoot (1982)
 - Starship Troopers
 - jarhead (2005)
