@@ -59,6 +59,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Avatar: The Way of Water (2022) (Meh, it's alright. Visuals are great.)
 - Army of darkness (1992) (Famous "boom stick" scene is from this movie. Time travel, medieval, shotgun, skeletons, necromancers... Not a 'must watch', meh. It's good as a meal movie or watch-with-friends movie though. Fun elements are always present but quite forced imo)
 - Turkey shoot (1982) (A classical hyper-violence movie. R@p3, murder, manslaughter, it's all there. Basically a dystopian future where divergent people are sent to camps for re-education camps. Then the elite arrive occasionally to hunt the prisoners in a hunting game. Fun movie.)
+- Dungeons & Dragons: Honor Among Thieves (2023) (Fun movie with DnD theme, duh. It's good, visuals are nice. CGI is a bit too much but whatever. Not bad at all.)
 
 ### Watch later
 
