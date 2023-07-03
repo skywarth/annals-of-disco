@@ -24,6 +24,8 @@
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
  - JS package for console proxy
+ - Use Vue/React/Svelte once
+ - Publish my first github action
  - Artisan credits generator
  - Browser plugin for checking if job posting has visa/relo support
 
