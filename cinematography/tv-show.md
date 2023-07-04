@@ -20,12 +20,14 @@ Probably forgot most of the past ones.
 - primal
 - Last Of Us*
 - fringe *
+- The Witcher *
 
 check
 
 - marco polo
 - mindhunter
 - LoTR: Rings of power
+- The Witcher: Blood Origin
 - person of interest
 - House of the dragon
 - dark
