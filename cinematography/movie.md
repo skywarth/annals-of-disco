@@ -61,17 +61,17 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Turkey shoot (1982) (A classical hyper-violence movie. R@p3, murder, manslaughter, it's all there. Basically a dystopian future where divergent people are sent to camps for re-education camps. Then the elite arrive occasionally to hunt the prisoners in a hunting game. Fun movie.)
 - Dungeons & Dragons: Honor Among Thieves (2023) (Fun movie with DnD theme, duh. It's good, visuals are nice. CGI is a bit too much but whatever. Not bad at all.)
 - Sicario (2015) (Glorified drug bust action movie IMHO, I don't really see the point what makes it a good movie. Meh, decent action, actors did a real good job though. Cartel, drug, three letter boys, corruption, vengance. Mediocre.)
+- margin call (2011) (Fire scale scene that lasts 10-15 min is good, rest is insignificant. Good movie. Every boss, manager, leader should watch. Tough decisions, firing people, company bankrupting, corporate culture, mega-corp.)
+- jarhead (2005) (Army movie. It's okay. Decent food movie.)
 
 ### Watch later
 
-- margin call (2011)
+
 
 - 13 assasins
 - Riding Bean (1989)
 - Violence Jack (3 episodes/movies. Order differs, care)
-- Turkey shoot (1982)
 - Starship Troopers
-- jarhead (2005)
 - Lethal Weapon 2,3,4
 - the killer (1989)
 
