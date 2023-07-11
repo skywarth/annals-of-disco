@@ -20,3 +20,7 @@ https://www.found.dev/skill/Laravel***
 https://vanhack.com/ (focuses on relocation to Canada)
 
 xing.com (only german speaking countries)
+
+https://www.ycombinator.com/ (USA Startup jobs, most lack visa support)
+
+https://www.make-it-in-germany.com/en/working-in-germany/job-listings (Jobs in Germany for foreigners. Although around ~90% of the posts are in German...)
