@@ -63,6 +63,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Sicario (2015) (Glorified drug bust action movie IMHO, I don't really see the point what makes it a good movie. Meh, decent action, actors did a real good job though. Cartel, drug, three letter boys, corruption, vengance. Mediocre.)
 - margin call (2011) (Fire scale scene that lasts 10-15 min is good, rest is insignificant. Good movie. Every boss, manager, leader should watch. Tough decisions, firing people, company bankrupting, corporate culture, mega-corp.)
 - jarhead (2005) (Army movie. It's okay. Decent food movie.)
+- The talented Mr. Ripley (1999) (Magnificent, Magnificient!.. Manipulation, impersonation, identity theft, crime spree, homosexuality, forgery, Italy, America. Great actors, great acting, great story. )
 
 ### Watch later
 
