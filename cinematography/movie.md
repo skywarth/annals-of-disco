@@ -65,10 +65,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - jarhead (2005) (Army movie. It's okay. Decent food movie.)
 - The talented Mr. Ripley (1999) (Magnificent, Magnificient!.. Manipulation, impersonation, identity theft, crime spree, homosexuality, forgery, Italy, America. Great actors, great acting, great story. )
 
+
 ### Watch later
 
 
-
+- Fugitive (1993)
 - 13 assasins
 - Riding Bean (1989)
 - Violence Jack (3 episodes/movies. Order differs, care)
