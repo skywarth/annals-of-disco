@@ -69,6 +69,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 
+- Northman (2022)
 - Fugitive (1993)
 - 13 assasins
 - Riding Bean (1989)
