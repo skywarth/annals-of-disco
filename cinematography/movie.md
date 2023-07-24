@@ -65,11 +65,16 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - jarhead (2005) (Army movie. It's okay. Decent food movie.)
 - The talented Mr. Ripley (1999) (Magnificent, Magnificient!.. Manipulation, impersonation, identity theft, crime spree, homosexuality, forgery, Italy, America. Great actors, great acting, great story. )
 - Nocturnal Animals (2016) (Glorified messy divorce movie. Guy writes a book about; a man and his family is harassed, then all except husband is m*rdered. Revenge story. Ending is debatable, not clear. Great acting though and characters though. It's ok.)
+- The Northman (2022) (Great one. A lot of folklore, symbolism, shamanism is inplace. Psychological at certain scenes. At times it reminded me of Lighthouse(2019). Vengeance, revenge, nordic, vikings, medieval.)
 
 ### Watch later
 
-
-- The Northman (2022)
+- Machinist (2004)
+- Mr Brooks (2007)
+- Gone girl (2014)
+- Collateral (2004)
+- Bronson (2008)
+- Seven Psychopaths (2012)
 - Fugitive (1993)
 - 13 assasins
 - Riding Bean (1989)
