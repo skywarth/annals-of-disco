@@ -64,7 +64,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - margin call (2011) (Fire scale scene that lasts 10-15 min is good, rest is insignificant. Good movie. Every boss, manager, leader should watch. Tough decisions, firing people, company bankrupting, corporate culture, mega-corp.)
 - jarhead (2005) (Army movie. It's okay. Decent food movie.)
 - The talented Mr. Ripley (1999) (Magnificent, Magnificient!.. Manipulation, impersonation, identity theft, crime spree, homosexuality, forgery, Italy, America. Great actors, great acting, great story. )
-
+- Nocturnal Animals (2016) (Glorified messy divorce movie. Guy writes a book about; a man and his family is harassed, then all except husband is m*rdered. Revenge story. Ending is debatable, not clear. Great acting though and characters though. It's ok.)
 
 ### Watch later
 
