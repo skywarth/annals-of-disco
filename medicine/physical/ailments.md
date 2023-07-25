@@ -6,7 +6,7 @@
 > **Always consult your doctor/physician without delay.**
 ---
 
-### Decubitus Sacrum (Pressure ulcer)
+### Decubitus (Pressure ulcer, bedsores)
 Research. Careful, nasty stuff. Varies in location: elbows, shoulder, sacrum etc. Has 4 stages. 
 
 
