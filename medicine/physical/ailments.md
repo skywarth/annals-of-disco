@@ -6,6 +6,10 @@
 > **Always consult your doctor/physician without delay.**
 ---
 
+### Decubitus Sacrum (Pressure ulcer)
+Research. Careful, nasty stuff. Varies in location: elbows, shoulder, sacrum etc. Has 4 stages. 
+
+
 ### Agnosia
 Interesting stuff, do research
 
