@@ -66,11 +66,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The talented Mr. Ripley (1999) (Magnificent, Magnificient!.. Manipulation, impersonation, identity theft, crime spree, homosexuality, forgery, Italy, America. Great actors, great acting, great story. )
 - Nocturnal Animals (2016) (Glorified messy divorce movie. Guy writes a book about; a man and his family is harassed, then all except husband is m*rdered. Revenge story. Ending is debatable, not clear. Great acting though and characters though. It's ok.)
 - The Northman (2022) (Great one. A lot of folklore, symbolism, shamanism is inplace. Psychological at certain scenes. At times it reminded me of Lighthouse(2019). Vengeance, revenge, nordic, vikings, medieval.)
+- Mr Brooks (2007) (Psycho, alter ego, businessman in the day murderer by night. Some details were really unnecessary, it wouldn't affect the movie slightest if we cut like 15-20 min of scenes. It's decent.)
+
 
 ### Watch later
 
 - Machinist (2004)
-- Mr Brooks (2007)
 - Gone girl (2014)
 - Collateral (2004)
 - Bronson (2008)
