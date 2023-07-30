@@ -1,5 +1,6 @@
  _**So it shall be done**... Or not !_
- 
+
+ - Publish my UltraMegaFusionRandom PRNG for PHP. (why so little amount of PRNGs in PHP, do I have to do everything myself ?)
  - port knocking
  - reverse shell attack
  - ~~Set up personal dns server (pi hole)~~
