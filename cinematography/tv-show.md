@@ -21,6 +21,7 @@ Probably forgot most of the past ones.
 - Last Of Us*
 - fringe *
 - The Witcher *
+- Castlevania *
 
 check
 
