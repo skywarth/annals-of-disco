@@ -15,6 +15,7 @@ Probably forgot most of the past ones.
 - The Boys*
 - Love, Death & Robots*
 - Black mirror*
+- Castlevania
 - Expanse
 - resident evil
 - primal
@@ -35,3 +36,4 @@ check
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
+- Castlevania: Nocturne
