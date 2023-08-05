@@ -1,3 +1,35 @@
+## Surmise
+`[sir-mise]`
+
+Presume something to be truthful without any evidence or material to back it. It's the art of supposition. 
+
+In other words, you're making a guess entirely out of hunch meanwhile lacking the necessary clue nor knowledge.
+
+Old French origin, `surmetre` (to accuse). from sur- (“upon”) + metre (“to put”). 15th century to 17th century.
+
+In law context, it means to allege, to charge, accuse.
+
+> A: "Are they with you?"
+> 
+> B: "Surmise."
+> 
+> A: "What?"
+> 
+> B: "Because we arrived together, we are together. Surmise"
+> 
+> A: "Well are ya??"
+> 
+> B: "Yes..."
+
+
+*I surmise the victim wasn't alive when you arrived*
+
+---
+
+
+
+
+
 ## Conciliate
 `[con-cil-i-ate]` 
 
