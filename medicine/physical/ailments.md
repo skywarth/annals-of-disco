@@ -1,7 +1,7 @@
 # Ailments
 
 ---
-> Do not trust the contents of this document. I'm not a medical expert and these are not medical suggestions or advices. None of the material on this page is intended for subsitute to professional medical advice, diagnosis or treatment. Intention of this file is merely for educational and research purposes. You have been warned. 
+> Disclaimer: Do not trust the contents of this document. I'm not a medical expert and these are not medical suggestions or advices. None of the material on this page is intended for subsitute to professional medical advice, diagnosis or treatment. Intention of this file is merely for educational and research purposes. You have been warned. 
 > 
 > **Always consult your doctor/physician without delay.**
 ---
@@ -86,8 +86,11 @@ Interesting stuff, do research
 According to some peoples hear-say:
 - benzoyl peroxide cream (%5, %10. The more, the merrier.)
 - neutrogena cleanser
-- Apple vinegar
-- Daily pillow case changing
+- Apple vinegar, apply it on the area
+- Daily pillow case changing, if present in scalp area
+- You may have gotten it from a barber or Accutane treatment/consumption.
+
+---
 
 ### Syphilis
 - Is a STD
