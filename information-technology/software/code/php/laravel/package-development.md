@@ -1,5 +1,18 @@
 # Laravel package development
 
+
+## Notes
+
+If any point, something doesn't make sense, or you made some changes in composer.json of your package: do these to ensure the slate is clean:
+- Clear bootstrap/cache folder content, don't delete the folder
+- Delete vendor folder
+- Delete composer.lock
+- `composer install`
+- `composer dump-autoload`
+- Re-require your package
+- If none of these work: call an exorcist. Trust me, it worked.
+
+
 ## Resc
 https://laravelpackage.com/02-development-environment/
 
