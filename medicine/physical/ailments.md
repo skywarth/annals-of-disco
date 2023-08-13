@@ -73,14 +73,21 @@ Interesting stuff, do research
   - Ingrown hairs
   - Supressed/Weakened immuno system
 
+- Usually caused by Staph bacteria, which resides in ears, nostril, belly, groin. So dealing with  Folliculitis's region not always helpful, it'll eventually come back.
 
-- Remedity and cure:
+#### Remedity and cure:
   - Applying oatmeal on the area
   - Antibacterial creams/cleansers
   - Warm towel on the affected area (don't wrap tight, gentle)
   - Oral antibiotics
   - Resistant penicillins
   - Antifungal agents (if cause is fungal)
+
+According to some peoples hear-say:
+- benzoyl peroxide cream (%5, %10. The more, the merrier.)
+- neutrogena cleanser
+- Apple vinegar
+- Daily pillow case changing
 
 ### Syphilis
 - Is a STD
