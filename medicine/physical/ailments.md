@@ -85,6 +85,7 @@ Interesting stuff, do research
 
 According to some peoples hear-say:
 - benzoyl peroxide cream (%5, %10. The more, the merrier.)
+- Tea tree oil/shampoo
 - neutrogena cleanser
 - Apple vinegar, apply it on the area
 - Daily pillow case changing, if present in scalp area
