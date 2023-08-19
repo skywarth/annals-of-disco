@@ -1,3 +1,17 @@
+## Adulation
+`[a-gu-la-ti-on]`
+
+Excessive flattery,admiration praise. Usually insincere.
+
+Old French origin.
+
+*If you desire adulation, seek it elsewhere*
+
+*Your public adulation stunts start to get on my nerves*
+
+---
+
+
 ## Surmise
 `[sir-mise]`
 
