@@ -77,7 +77,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
-
+- Gangs of New York(2002)
 - Collateral (2004)
 - Fugitive (1993)
 - 13 assasins
