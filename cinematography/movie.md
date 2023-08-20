@@ -68,18 +68,20 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Northman (2022) (Great one. A lot of folklore, symbolism, shamanism is inplace. Psychological at certain scenes. At times it reminded me of Lighthouse(2019). Vengeance, revenge, nordic, vikings, medieval.)
 - Mr Brooks (2007) (Psycho, alter ego, businessman in the day murderer by night. Some details were really unnecessary, it wouldn't affect the movie slightest if we cut like 15-20 min of scenes. It's decent.)
 - The League of Extraordinary Gentlemen (2003) (With this story and actors, it could've been so much better. Sean Connery tried to lift the movie's quality but it was so heavy. Group of gifted people, hunting a arms-dealer which'll start world war. Incredibly bland, boring and predictable. Meh.)
+- Gone girl (2014) (Psycho woman, pyschopathy, scheming, faking death/kidnapping, framing with murder. It's alright, kinda interesting. But rather predictable.)
+- Machinist (2004) (It's been so long since i watched this. Insomnia, schizophrenia. Really good movie, must watch I would say.)
+- Bronson (2008) (Bri'ish. Boxer, asylum, prison life, sociopath. Narrative. Decent, interesting. )
+- Seven Psychopaths (2012) (Basically a guy writing a story book about seven psychos. Comedy-oriented. Famous actors present. It's meh)
+- Violence Jack (1990) (So uhhh... Hyper-violence galore. Anime with 3 episodes. A lot of no-no's present: r*pe, murder, torture, manslaughter, gang-violence, looting. It's pretty good. Be careful, it is extremely obscene and nasty. Best one is Hell City - Evil Town. )
+
 
 ### Watch later
 
-- Machinist (2004)
-- Gone girl (2014)
+
 - Collateral (2004)
-- Bronson (2008)
-- Seven Psychopaths (2012)
 - Fugitive (1993)
 - 13 assasins
 - Riding Bean (1989)
-- Violence Jack (3 episodes/movies. Order differs, care)
 - Starship Troopers
 - Lethal Weapon 2,3,4
 - the killer (1989)
