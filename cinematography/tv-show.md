@@ -22,7 +22,8 @@ Probably forgot most of the past ones.
 - Last Of Us*
 - fringe *
 - The Witcher *
-- Castlevania *
+- Castlevania
+- What we do in the shadows *
 
 check
 
