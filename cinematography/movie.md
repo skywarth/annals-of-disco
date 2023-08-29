@@ -73,15 +73,20 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Bronson (2008) (Bri'ish. Boxer, asylum, prison life, sociopath. Narrative. Decent, interesting. )
 - Seven Psychopaths (2012) (Basically a guy writing a story book about seven psychos. Comedy-oriented. Famous actors present. It's meh)
 - Violence Jack (1990) (So uhhh... Hyper-violence galore. Anime with 3 episodes. A lot of no-no's present: r*pe, murder, torture, manslaughter, gang-violence, looting. It's pretty good. Be careful, it is extremely obscene and nasty. Best one is Hell City - Evil Town. )
-
+- Fugitive (1993) (A doctor accused of murdering his wife, on the run to prove them wrong. It's OK, nothing special)
+- The Gentlemen (2019) (Great narrative. Some scenes reminded me of 'Snatch' and 'Lock stock and two smoking barrels'. Drug lord, high-end deals, schemes, more schemes and some comedy. Decent movie.)
+- Gangs of New York(2002) (1800s New York, gangs, crime, syndicate, army draft, gang wars. Some well-known actors are present. Didn't like it whole a lot. It's rather weak.)
 
 ### Watch later
 
+
+- Coherence (2013)
+- Primer (2004)
+- The Bothersome Man (2006)
+- Ghost in the shell (1995)
 - The Conversation (1974)
-- The Gentlemen (2019)
-- Gangs of New York(2002)
+- Triangle (2009)
 - Collateral (2004)
-- Fugitive (1993)
 - 13 assasins
 - Riding Bean (1989)
 - Starship Troopers
