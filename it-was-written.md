@@ -8,6 +8,7 @@
  - Learn criminology
  - Public thank you page (submitting form etc.), preferably parametric
  - Use PWA 
+ - Devise a Method/package/library for reliably store ~~pirated~~ confiscated books, documents and articles in GitHub. Then, store em?
  - Abrupt FIN protocol
  - Graceful FIN protocol
  - The raspberry pi thingy (supa fun)
