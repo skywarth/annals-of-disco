@@ -11,6 +11,7 @@ Probably forgot most of the past ones.
 - Arcane
 - westworld*
 - House
+- Black Summer
 - Cyberpunk: Edgerunners
 - The Boys*
 - Love, Death & Robots*
