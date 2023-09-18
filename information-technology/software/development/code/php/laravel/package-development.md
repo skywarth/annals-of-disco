@@ -3,7 +3,7 @@
 
 ## Notes
 
-If any point, something doesn't make sense, or you made some changes in composer.json of your package: do these to ensure the slate is clean:
+If any point, something doesn't make sense, or you made some changes in composer.json of your package: do these (in your test laravel project, not the package project) to ensure the slate is clean:
 - Clear bootstrap/cache folder content, don't delete the folder
 - Delete vendor folder
 - Delete composer.lock
@@ -39,16 +39,28 @@ composer.lock
 - /src
 - /tests
 
-5. Add your package development folder into an actual laravel project for basic testing capabilities.
-```
-"repositories": [
+5. Add orchestra. Enables laravel mocking environment. For type-hint and stuff.
+
+6. Integrate into an actual laravel project for local development and testing purposes
+   1. `composer create-project laravel/laravel example-app`
+   2. `cd example-app`
+   3. `composer install`
+   4. Add repository target for your package, do this in the laravel project's `composer.json`:
+   ```
+   "repositories": [
         {
             "type": "path",
-            "url": "../path-to-your-package"
+            "url": "../path-to-your-package",
+            "options": {
+                "symlink": true
+            }
         }
-    ]
-```
-6. Add orchestra. Enables laravel mocking environment. For type-hint and stuff.
+    ],
+   ```
+   5. `composer install`
+   6. `composer require username/package-name:dev-master` (username/package-name should be identical with `name` key in your package's `composer.json`.
+   7. `composer install`
+
 ```
 composer require --dev "orchestra/testbench"
 
