@@ -132,7 +132,9 @@ run '~/.tmux/plugins/tpm/tpm'
 - Xsel 
 ```sudo apt-get install xsel # or xclip```
 
+- Tmux-powerline (plugin, not the font) [https://github.com/erikw/tmux-powerline]
 
+If your tmux status bar icons looks slightly offset, like they have some margin: adjust your font and it's size to fit.
 
 
 ---
