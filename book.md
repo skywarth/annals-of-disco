@@ -16,4 +16,8 @@ High Performance MySQL, 4th Edition
 
 Category Theory for Programmers - Bartosz Milewski
 
+Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert Martin
+
+Refactoring: Improving the Design of Existing Code - Martin Fowler
+
 How to win friends & Influence people - Dale Carnegie
