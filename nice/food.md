@@ -1,3 +1,4 @@
 - Gumbo
 - Goulash
 - Sloppy Joe
+- Malasada (Portuguese style fried doughnut)
