@@ -39,3 +39,4 @@ check
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
 - Castlevania: Nocturne
+- x-files (damn this is a big one. 217 episodes, 15 years running.)
