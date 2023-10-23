@@ -2,3 +2,4 @@
 - Goulash
 - Sloppy Joe
 - Malasada (Portuguese style fried doughnut)
+- Disco Fries (Alternatively, Canadian Poutine)
