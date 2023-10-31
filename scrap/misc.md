@@ -62,3 +62,5 @@ https://thispersondoesnotexist.com/ //AI generated human faces. Royalty-free pro
 https://thisartworkdoesnotexist.com/
 
 https://breakthecode.tech/
+
+https://www.wikarekare.org/ //Karekare beach in New Zealand, it's network infrastructure and weird trivias
