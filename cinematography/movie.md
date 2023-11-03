@@ -84,6 +84,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - The Bothersome Man (2006)
+- born on the fourth of july (1989)
+- American Assasin (2017)
 - Deathstalker (1983)
 - The Cheerleader (1973)
 - Ghost in the shell (1995)
