@@ -25,6 +25,9 @@ Probably forgot most of the past ones.
 - The Witcher *
 - Castlevania
 - What we do in the shadows *
+- For all mankind*
+- Fargo*
+- Invincible*
 
 check
 
