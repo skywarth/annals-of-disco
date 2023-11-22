@@ -79,19 +79,19 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Coherence (2013) (Pretty good mind-twist, barely sci-fi. A comment passes and the whole neighborhood is now co-existing with their parallels from alternate realities. Good movie.)
 - Primer (2004) (My expectations were really high for this one, since many people suggested it. It was a giant flop and a let-down. First 30-45min are fine and all technical, but after that some new plot unravels and confuses the sh*t out of you, I didn't grasp the whole thing to be honest. Most of the time i was lost. Maybe I'll give it another try later. Extremely boring. Not good.)
 - American Assasin (2017) (Truly a terrible movie. "GF gets killed by baddies, imma bulk up, imma be mad, imma be vengeful, imma kill baddies". Even acting sucks. There are one or two well-known actors but even they couldn't carry this clusterf*ck. Don't waste your time.)
+- The Bothersome Man (2006) (Main idea is decent. Execution and atmosphere is subpar. Ending is terrible. Meh movie.)
+- Collateral (2004) (Classic 2000s action movie. Nothing exceptional. Food movie.)
 
 
 ### Watch later
 
-- The Bothersome Man (2006)
+- Equalizer 3 (2023)
 - born on the fourth of july (1989)
-
 - Deathstalker (1983)
 - The Cheerleader (1973)
 - Ghost in the shell (1995)
 - The Conversation (1974)
 - Triangle (2009)
-- Collateral (2004)
 - 13 assasins
 - Riding Bean (1989)
 - Starship Troopers
