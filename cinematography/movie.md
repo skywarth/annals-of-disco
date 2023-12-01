@@ -81,11 +81,10 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - American Assasin (2017) (Truly a terrible movie. "GF gets killed by baddies, imma bulk up, imma be mad, imma be vengeful, imma kill baddies". Even acting sucks. There are one or two well-known actors but even they couldn't carry this clusterf*ck. Don't waste your time.)
 - The Bothersome Man (2006) (Main idea is decent. Execution and atmosphere is subpar. Ending is terrible. Meh movie.)
 - Collateral (2004) (Classic 2000s action movie. Nothing exceptional. Food movie.)
-
+- Master and Commander: The Far Side of the World (2003) (Navy, Napoleon era, seamen, naval wars, commandship. Good movie about leadership and hard choices. Nice one)
 
 ### Watch later
 
-- Master and Commander: The Far Side of the World (2003)
 - The Ninth Gate (1999)
 - Equalizer 3 (2023)
 - born on the fourth of july (1989)
