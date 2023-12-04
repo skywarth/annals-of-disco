@@ -82,11 +82,15 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Bothersome Man (2006) (Main idea is decent. Execution and atmosphere is subpar. Ending is terrible. Meh movie.)
 - Collateral (2004) (Classic 2000s action movie. Nothing exceptional. Food movie.)
 - Master and Commander: The Far Side of the World (2003) (Navy, Napoleon era, seamen, naval wars, commandship. Good movie about leadership and hard choices. Nice one)
+- Equalizer 3 (2023) (Full of cliche. Plot is lame. Action scenes are decent. Couldn't hold a damn candle to it's predecessors. Generic action movie about a vigilante.)
+
+
+
 
 ### Watch later
 
 - The Ninth Gate (1999)
-- Equalizer 3 (2023)
+
 - born on the fourth of july (1989)
 - Deathstalker (1983)
 - The Cheerleader (1973)
