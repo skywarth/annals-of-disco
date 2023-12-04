@@ -13,3 +13,5 @@
 ### Buick GNX (1987)
 
 ### Volvo 744 (1988)
+
+### Subaru Sambar (1999) (JDM Kei Van)
