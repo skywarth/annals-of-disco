@@ -21,3 +21,5 @@ Clean Architecture: A Craftsman's Guide to Software Structure and Design - Rober
 Refactoring: Improving the Design of Existing Code - Martin Fowler
 
 How to win friends & Influence people - Dale Carnegie
+
+The Papalagi (Der Papalagi)
