@@ -83,14 +83,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Collateral (2004) (Classic 2000s action movie. Nothing exceptional. Food movie.)
 - Master and Commander: The Far Side of the World (2003) (Navy, Napoleon era, seamen, naval wars, commandship. Good movie about leadership and hard choices. Nice one)
 - Equalizer 3 (2023) (Full of cliche. Plot is lame. Action scenes are decent. Couldn't hold a damn candle to it's predecessors. Generic action movie about a vigilante.)
-
-
+- The Ninth Gate (1999) (Kingdom of Shadows book, aka Ninth Gate. Book collector. Theological stuff. Johnny Depp. Achieving great power through rituals. Satanism. It's ok)
+- The Hitchhiker's Guide to the Galaxy (2005) (Terrible, couldn't wait for it to end. Really lame comedy.)
 
 
 ### Watch later
-
-- The Hitchhiker's Guide to the Galaxy (2005)
-- The Ninth Gate (1999)
 
 - born on the fourth of july (1989)
 - Deathstalker (1983)
