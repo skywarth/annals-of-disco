@@ -85,12 +85,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Equalizer 3 (2023) (Full of cliche. Plot is lame. Action scenes are decent. Couldn't hold a damn candle to it's predecessors. Generic action movie about a vigilante.)
 - The Ninth Gate (1999) (Kingdom of Shadows book, aka Ninth Gate. Book collector. Theological stuff. Johnny Depp. Achieving great power through rituals. Satanism. It's ok)
 - The Hitchhiker's Guide to the Galaxy (2005) (Terrible, couldn't wait for it to end. Really lame comedy.)
-
+- Deathstalker (1983) (Good ol' 70s/80s action RPG hero centric, hyperviolence filled, nuditity containing movie. Pretty bad. Three artifact of power: sword, amulet, chalice. Villain, hero, usual drill.)
 
 ### Watch later
 
 - born on the fourth of july (1989)
-- Deathstalker (1983)
+
 - The Cheerleader (1973)
 - Ghost in the shell (1995)
 - The Conversation (1974)
