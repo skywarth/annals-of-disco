@@ -63,4 +63,8 @@ https://thisartworkdoesnotexist.com/
 
 https://breakthecode.tech/
 
+rotten.com //an old, terrible, weird, out-of-ordinary content. You've been warned. Don't know it's still active.
+
 https://www.wikarekare.org/ //Karekare beach in New Zealand, it's network infrastructure and weird trivias
+
+
