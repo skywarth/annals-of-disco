@@ -86,14 +86,15 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Ninth Gate (1999) (Kingdom of Shadows book, aka Ninth Gate. Book collector. Theological stuff. Johnny Depp. Achieving great power through rituals. Satanism. It's ok)
 - The Hitchhiker's Guide to the Galaxy (2005) (Terrible, couldn't wait for it to end. Really lame comedy.)
 - Deathstalker (1983) (Good ol' 70s/80s action RPG hero centric, hyperviolence filled, nuditity containing movie. Pretty bad. Three artifact of power: sword, amulet, chalice. Villain, hero, usual drill.)
+- Heat (1995) (De Niro, Al Pacino. Affair, heist, bank heist, incredible action scenes, determination. Great movie.)
+- Ghost in the shell (1995) (Neo Tokyo, Noir, dystopia, cyberpunk. Identity crisis, AI. It's a classic.)
+
 
 ### Watch later
 
-- heat (1995)
-- born on the fourth of july (1989)
 
+- born on the fourth of july (1989)
 - The Cheerleader (1973)
-- Ghost in the shell (1995)
 - The Conversation (1974)
 - Triangle (2009)
 - 13 assasins
