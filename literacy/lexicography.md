@@ -1,3 +1,17 @@
+## Erstwhile
+
+`[erst-while]`
+
+Old, previously, former.
+
+Old English. Used as in it's current form since late 16th century.
+
+*Erstwhile on Fargo*
+
+*My erstwhile endeavours were not in vain as you can see now.*
+
+
+
 ## Adulation
 `[a-gu-la-ti-on]`
 
