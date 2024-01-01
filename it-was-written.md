@@ -23,12 +23,12 @@
  - PHP package for my custom enum implementation
  - PHP package for CipherSuite (preferably laravel wrapper)
  - ~~PHP package for dynamic env~~
- - Laravel package for running commands with special intervals (the twister thing)
+ - ~~Laravel package for running commands with random intervals~~
  - that ray-tracing chars and dot distribution. Incredible algorithm 
  - JS package for page filter
  - JS package for console proxy
  - Use Vue/React/Svelte once
- - Publish my first github action
+ - ~~Publish my first github action~~
  - Artisan credits generator
  - Browser plugin for checking if job posting has visa/relo support
 
@@ -37,12 +37,15 @@
  - Markdown cypher
  - learn and apply cloudflare 
 
- - First Github Action for marketplace
+ - ~~First Github Action for marketplace~~
  - Github Action for automatically mapping every input to shell, for bash shell steps. Unbelievable this isn't resolved. https://github.com/actions/runner/issues/665
 
  - Authentication key device (U2F or FIDO2 or WebAuthn)
  - Playing around with eink 
  - Elastic search
+
+ - ~~Custom endpoint for Prometheus BlackBox exporter~~
+ - Dynamic custom endpoint proxy for transforming endpoint responses into Prometheus Blackbox exporter compliant type
 
 
  - Personal Certificate Authority (CA) for TLS
