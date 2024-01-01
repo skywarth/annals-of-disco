@@ -1,10 +1,25 @@
+## Derring-do
+`der-rin-do`
+
+Taking a brave action without accouting for the consequences. Daring. 
+
+Old-middle English origin, 16th century. Evolved from series of mispronunciation and misunderstanding. Originally it was "dorring don" or "daring to do".
+
+
+*Little rascal has spirit. You know, spirit, bravado, a touch of derring-do...*
+
+*No matter the outcome, Such derring-do will not go unpunished.*
+
+
+
+
 ## Erstwhile
 
 `[erst-while]`
 
 Old, previously, former.
 
-Old English. Used as in it's current form since late 16th century.
+Old English origin. Used as in it's current form since late 16th century.
 
 *Erstwhile on Fargo*
 
