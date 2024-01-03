@@ -5,7 +5,7 @@ For now I'll be storing some software, maybe we'll distinguish the list in the f
 - Another Redis Distro (Redis management)
 - Filezilla (FTP)
 - Draw.io
-- Raspberyy pi imager
+- Raspberry pi imager
 - Lutris (Cross-platform gaming)
 - Jetbrains programs
 - Visual Code
