@@ -1,3 +1,5 @@
+Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling people. Must read)
+
 **The Pragmatic Programmer 1999**
 
 Refactoring: Improving the Design of Existing Code
@@ -23,3 +25,4 @@ Refactoring: Improving the Design of Existing Code - Martin Fowler
 How to win friends & Influence people - Dale Carnegie
 
 The Papalagi (Der Papalagi)
+
