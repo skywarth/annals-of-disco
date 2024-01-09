@@ -67,4 +67,6 @@ rotten.com //an old, terrible, weird, out-of-ordinary content. You've been warne
 
 https://www.wikarekare.org/ //Karekare beach in New Zealand, it's network infrastructure and weird trivias
 
+https://blog.juanconvers.com/
+
 
