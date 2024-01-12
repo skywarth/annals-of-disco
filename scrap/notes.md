@@ -112,3 +112,5 @@ Github profile metrics using actions: lowlighter/metrics
 kreuzritter
 
 Catharsis
+
+Jungian archetypes
