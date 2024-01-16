@@ -15,7 +15,7 @@
 
 ### Targus
 
-- Targus TARTCG460GL Targus Citygear 15.6"
+- Targus Citygear 15-17.3" TCG470GL
 
 ### Timbuk2
 
