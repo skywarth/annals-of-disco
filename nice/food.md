@@ -6,3 +6,4 @@
 - Raw chopped garlic (Chopped garlic, lemon, olive oil. Done.)
 - Chicken Piccata
 - lamb birria
+- Hashbrowns
