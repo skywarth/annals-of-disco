@@ -89,10 +89,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Heat (1995) (De Niro, Al Pacino. Affair, heist, bank heist, incredible action scenes, determination. Great movie.)
 - Ghost in the shell (1995) (Neo Tokyo, Noir, dystopia, cyberpunk. Identity crisis, AI. It's a classic.)
 - Cell (2000) (Jennifer Lopez, trauma, psychology, subconcious, psycho, dreams and nightmares, shared subconcious. Good one but not great for sure)
+- Batman Begins (2005) (It's ok. Scarecrow, ra's al ghul, first Batman)
+
 
 ### Watch later
 
-- Batman Begins (2005)
+
 
 - born on the fourth of july (1989)
 - The Cheerleader (1973)
