@@ -90,15 +90,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Ghost in the shell (1995) (Neo Tokyo, Noir, dystopia, cyberpunk. Identity crisis, AI. It's a classic.)
 - Cell (2000) (Jennifer Lopez, trauma, psychology, subconcious, psycho, dreams and nightmares, shared subconcious. Good one but not great for sure)
 - Batman Begins (2005) (It's ok. Scarecrow, ra's al ghul, first Batman)
+- born on the fourth of july (1989) (Army veteran abandoned by the government, classic. Patriot turning lib and abandoning his old ideals. War movie. Anti-gov movie.)
+- The Conversation (1974) (Paranoia. Wire-tapping, listening phones and conversations. Early signal processing and audio engineering. Raising awareness on infosec.)
 
 
 ### Watch later
-
-
-
-- born on the fourth of july (1989)
 - The Cheerleader (1973)
-- The Conversation (1974)
 - Triangle (2009)
 - 13 assasins
 - Riding Bean (1989)
