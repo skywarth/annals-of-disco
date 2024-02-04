@@ -1,16 +1,8 @@
-Gotta check the active fetch (like signalR) on js, e.g live messaging app:
+Gotta check the active fetch (like signalR) on js, e.g live messaging app:nd 
 
-https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- n8n (no/low code automation)
 
-Jordan Peterson
-
-https://undesign.learn.uno/ //uhh so... allround 
-
-- BOM:
-http://en.wikipedia.org/wiki/Byte_order_mark
-http://stackoverflow.com/questions/2558172/utf-8-bom-signature-in-php-files
-
-CSS BEM
+- zapier (no/low code automation)
 
 https://github.com/danrl/wifi-probe
 
