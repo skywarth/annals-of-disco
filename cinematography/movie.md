@@ -96,6 +96,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 - Ben-Hur (1959)
+- Thor: Love and Thunder (2022)
+- Good Burger (1997)
 - Saturday Night Fever (1977)
 - guardians of the galaxy vol 3 (2023)
 - The Cheerleader (1973)
