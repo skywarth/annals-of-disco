@@ -98,6 +98,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Ben-Hur (1959)
 - Flash Gordon (1980)
 - Thor: Love and Thunder (2022)
+- The Flash (2023)
 - Good Burger (1997)
 - Saturday Night Fever (1977)
 - guardians of the galaxy vol 3 (2023)
