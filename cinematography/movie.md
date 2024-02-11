@@ -96,6 +96,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 - Ben-Hur (1959)
+- Flash Gordon (1980)
 - Thor: Love and Thunder (2022)
 - Good Burger (1997)
 - Saturday Night Fever (1977)
