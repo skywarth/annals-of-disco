@@ -92,12 +92,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Batman Begins (2005) (It's ok. Scarecrow, ra's al ghul, first Batman)
 - born on the fourth of july (1989) (Army veteran abandoned by the government, classic. Patriot turning lib and abandoning his old ideals. War movie. Anti-gov movie.)
 - The Conversation (1974) (Paranoia. Wire-tapping, listening phones and conversations. Early signal processing and audio engineering. Raising awareness on infosec.)
-
+- Ben-Hur (1959) (Jesus of Nazareth, Judah Ben-hur, Judaism, Jerusalem, Roman Empire, vengance, redemption. Pretty good, boring at times. Some spiritual themes are just a bit too forced.)
+- Thor: Love and Thunder (2022) (Un-memorable, easily forgotten. Only shadow realm sequence is aight. Only watched it for Christian Bale, which was the only one that did a decent job. Whole story, plot, CGI and animations are terrible. Food movie)
 
 ### Watch later
-- Ben-Hur (1959)
+
 - Flash Gordon (1980)
-- Thor: Love and Thunder (2022)
 - The Flash (2023)
 - Good Burger (1997)
 - Saturday Night Fever (1977)
