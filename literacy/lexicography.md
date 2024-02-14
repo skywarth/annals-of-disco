@@ -1,3 +1,39 @@
+## Sweepstake
+`sweep-stake`
+
+Gambling or contest where the prize is awarded to winner or winners. Such as horse races, in which all the stakes bet are divided between winners.
+
+Usually winner takes all form of race/contest.
+
+Late 14th century English.
+
+*Sweepstakes! You're a winner*
+
+*Hey there is gonna be a sweepstakes dance-off at 2001, wanna come with me?*
+
+
+
+
+## Celibacy
+`ce-li-ba-cy`
+
+Abstaining from intentionally having sexual intercourse, and usually marriage. Often due to religious/spiritual reasons.
+
+Three schools of thought for this behaviour: sacerdotal, monastic, and institutional.
+- Sacerdotal (priestly): for priests and clerics
+- Monastic: for monks. By the famous Greek philosopher Pythagoras
+- Institutional: counterpart of the monastic celibacy, for females such as vestals.
+
+Word and the cultural roots originate from ancient Greece and Rome. Followers of the Cybele (anatolian goddess) cult, vestal virgins. Idea was established since ancient Egypt by the followers of Isis.
+
+Latin origin, 16th century. *caelibatus* (state of being unmarried, a single life)
+
+*Orthodox faithdom has more to offer than mere celibacy*
+
+*I didn't choose celibacy life, celibacy life chose me.*
+
+
+
 ## Derring-do
 `der-rin-do`
 
