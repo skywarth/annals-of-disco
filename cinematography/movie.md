@@ -93,14 +93,15 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - born on the fourth of july (1989) (Army veteran abandoned by the government, classic. Patriot turning lib and abandoning his old ideals. War movie. Anti-gov movie.)
 - The Conversation (1974) (Paranoia. Wire-tapping, listening phones and conversations. Early signal processing and audio engineering. Raising awareness on infosec.)
 - Ben-Hur (1959) (Jesus of Nazareth, Judah Ben-hur, Judaism, Jerusalem, Roman Empire, vengance, redemption. Pretty good, boring at times. Some spiritual themes are just a bit too forced.)
-- Thor: Love and Thunder (2022) (Un-memorable, easily forgotten. Only shadow realm sequence is aight. Only watched it for Christian Bale, which was the only one that did a decent job. Whole story, plot, CGI and animations are terrible. Food movie)
+- Thor: Love and Thunder (2022) (Un-memorable, easily forgotten. Only shadow realm sequence is aight. Only watched it for Christian Bale, which was the only one that did a decent job. Whole story, plot, CGI and animations are terrible. Food movie) 
+- Good Burger (1997) (Burger place, competition, secret sauce, kids movie, bunch of fools. Its a kids movie. Incredibly stupid and boring. Hard skip.)
+- Saturday Night Fever (1977) (Dance-off, 70s Disco, Italian-american life, suburbs, low-life lifestyle, love, drama, Travolta. Decent movie, Travolta was alright. Why is it such a emotion rollercoaster, kinda depressing actually. Ending was weird. Yeah it is depressing. Incredible dance moves tho. Decent.)
+
 
 ### Watch later
 
 - Flash Gordon (1980)
 - The Flash (2023)
-- Good Burger (1997)
-- Saturday Night Fever (1977)
 - guardians of the galaxy vol 3 (2023)
 - The Cheerleader (1973)
 - Triangle (2009)
