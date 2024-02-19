@@ -7,3 +7,4 @@
 - Chicken Piccata
 - lamb birria
 - Hashbrowns
+- Bread, cheese, Beer
