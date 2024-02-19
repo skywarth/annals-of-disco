@@ -21,7 +21,7 @@ Probably forgot most of the past ones.
 - resident evil
 - primal
 - Last Of Us*
-- fringe *
+- fringe
 - The Witcher *
 - Castlevania
 - What we do in the shadows *
