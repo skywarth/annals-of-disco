@@ -34,6 +34,8 @@
 
 ## Online Movie/TV show streaming
 - sflix.to
-- 123movie.pw
-- 123moviesfree.mx
+- 123movie.pw (moved)
+- ~~123moviesfree.mx~~ (down)
+- fmoviesz.to
+- movie4kto.net
 
