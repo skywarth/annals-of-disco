@@ -28,7 +28,7 @@ Be;
 - Don't jump straight to judging and improving. First explore the domain, environment, algorithm, techniques, methodology and reasoning. Put yourself into the author's shoe
 - Gather clues on the code author's reasoning. Why did they choose that over this, why they solved it like so, what was the idea behind this structure. Then after gathering enough clues to build up a hypothesis, confront the author to validate your hypothesis. Don't be harsh, aim to have mutual agreement on their reasoning.
 - Deduce the reasoning. Just because they think "the floor is dirty" doesn't justify "traversing via monkeybars".
-- Back your claims and theories. It sucks to make empty claims, because anyone above room temperature IQ would question and say "why?". So do yourhomework, hit them with your vast knowledge and encyclopedia. Resort to anectodes only when you're out of bullets, facts come first.
+- Back your claims and theories. It sucks to make empty claims, because anyone above room temperature IQ would question and say "why?". So do your homework, hit them with your vast knowledge and encyclopedia. Resort to anectodes only when you're out of bullets, facts come first.
   - Per PSR-4, class names and folder structure should be...
   - This code section violates Liskov principle of the SOLID
   - This abstraction is incorrect because it doesn't allow for extension, hence violating open-close principle of the SOLID
