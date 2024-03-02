@@ -32,7 +32,7 @@ Be;
   - Per PSR-4, class names and folder structure should be...
   - This code section violates Liskov principle of the SOLID
   - This abstraction is incorrect because it doesn't allow for extension, hence violating open-close principle of the SOLID
-  - What you're trying to achieve here is polymorphism, one of the pillars of OOP
+  - What you're trying to achieve here is polymorphism, one of the pillars of OOP. But to apply it correctly we should...
   - MySQL best practices dictate that you shouldn't add random indexes, you should do them per cardinality and query capabilities.
   - As Dijkstra suggests, gotos are evil so abstain from using them.
 - Categorize the issues. Blocking (requires immediate action), pebble (non blocking but annoys you whenever you interact with that code), sand (non blocking, requires future consideration for refactor)
