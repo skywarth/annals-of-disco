@@ -1,3 +1,19 @@
+## Force Majeure
+`force meguere`
+
+Superior force. Usually used in law/business context where the meaning varies slightly. In business or law context it means; powers or events out of control or interception, e.g: war, natural disaster, cataclysim where no party as at fault so no-one is to blame. 
+
+In the cases of force majeure; any obligations, terms, agreements and desigations may be rendered invalid. So if you see this clause in a law/businesss context it means the disclaimer relieves themselves from any obligations and liabilities, since it is beyond their control. 
+
+*...We do not enforce any extra shifts, unless it is paid and agreed upon by both parties. Though force majeure may require you to perform extra shifts outside any agreement or time schedule.*
+
+*As our defense in the court, we will primarily focus on the force majeure aspect and use it to our advantage.*
+
+
+
+1883, French Origin.
+
+
 ## Sweepstake
 `sweep-stake`
 
