@@ -1,5 +1,5 @@
 ## Force Majeure
-`force meguere`
+`force-meguere`
 
 Superior force. Usually used in law/business context where the meaning varies slightly. In business or law context it means; powers or events out of control or interception, e.g: war, natural disaster, cataclysim where no party as at fault so no-one is to blame. 
 
