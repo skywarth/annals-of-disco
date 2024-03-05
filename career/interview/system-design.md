@@ -1,5 +1,9 @@
 # System Design Interview
 
+## Resources
+- https://www.designgurus.io/course/grokking-the-system-design-interview
+- https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3
+
 ## Aim and Goal
 
 - To see if you got what it takes to design complex systems.
@@ -37,6 +41,28 @@ More seniority means more focus on non-functional requirements.
 - Concurrency
 - Fault-tolerance
 - Freshness/caching  
+
+
+##### CAP Theorem
+Theorem states that a system cannot provide consistency, availability and partitions simultaneously. You have to forfeit one of them.
+
+##### ACID properties
+Set of properties that guarantee database transaction are processed reliably. 
+- Atomicity: Transactions are either all or nothing. This means a database system has to support the feature to; either successfully and fully complete the operation, or rollback to previous state. Simply the ability to rollback.
+- Consistency: Foreign keys and other constraints are always enforced.
+- Isolation: Distinct concurrent transactions/queries can occur in parallel and won't interfere with each other.
+- Durability: Data stays where its written regardless of system restarts or other events. Non-volatile storage capability.
+
+SQL databases are (almost) always ACID compliant. Meanwhile NoSQL databases can't really be ACID compliant for obvious reasons, they use BASE.
+
+**BASE:**
+- Basically available
+- Soft State
+- Eventually consistent
+
+- ACID is the gold standard for SQL RDBMS
+- BASE is used by most NoSQL databases
+
 
 ### High level design
 
