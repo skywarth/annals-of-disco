@@ -98,8 +98,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Saturday Night Fever (1977) (Dance-off, 70s Disco, Italian-american life, suburbs, low-life lifestyle, love, drama, Travolta. Decent movie, Travolta was alright. Why is it such a emotion rollercoaster, kinda depressing actually. Ending was weird. Yeah it is depressing. Incredible dance moves tho. Decent.)
 - guardians of the galaxy vol 3 (2023) (Heavily focused on emotional side, but kinda fails to deliver it. So many forced jokes, so many plotholes that have no contribution to the story. You may easily cut 30-40 min content and story would stay identical. It's a generic action movie. But good as a binge eating movie.)
 
+
 ### Watch later
 
+- The Crow (1994)
+- Dune (1984)
 - Flash Gordon (1980)
 - The Flash (2023)
 - The Cheerleader (1973)
