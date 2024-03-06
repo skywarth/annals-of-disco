@@ -105,6 +105,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Dune (1984)
 - Flash Gordon (1980)
 - The Flash (2023)
+- Jason and the Argonauts (1963)
 - The Cheerleader (1973)
 - Triangle (2009)
 - 13 assasins
