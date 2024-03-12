@@ -28,10 +28,11 @@ Probably forgot most of the past ones.
 - For all mankind*
 - Fargo*
 - Invincible*
+- marco polo*
 
 check
 
-- marco polo
+
 - mindhunter
 - LoTR: Rings of power
 - The Witcher: Blood Origin
