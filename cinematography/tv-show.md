@@ -32,7 +32,8 @@ Probably forgot most of the past ones.
 
 check
 
-
+- shogun
+- fallout
 - mindhunter
 - LoTR: Rings of power
 - The Witcher: Blood Origin
