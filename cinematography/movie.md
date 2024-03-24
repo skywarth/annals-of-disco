@@ -97,18 +97,17 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Good Burger (1997) (Burger place, competition, secret sauce, kids movie, bunch of fools. Its a kids movie. Incredibly stupid and boring. Hard skip.)
 - Saturday Night Fever (1977) (Dance-off, 70s Disco, Italian-american life, suburbs, low-life lifestyle, love, drama, Travolta. Decent movie, Travolta was alright. Why is it such a emotion rollercoaster, kinda depressing actually. Ending was weird. Yeah it is depressing. Incredible dance moves tho. Decent.)
 - guardians of the galaxy vol 3 (2023) (Heavily focused on emotional side, but kinda fails to deliver it. So many forced jokes, so many plotholes that have no contribution to the story. You may easily cut 30-40 min content and story would stay identical. It's a generic action movie. But good as a binge eating movie.)
-
+- The Crow (1994) (A guy and his gf gets killed by intruders, through sheer vengance and a crow he is resurrected with special ability of super healing. Decent movie.)
+- Dune (1984) (Dune, spice, arrakis, atredies, baron harkonnen, paul atredies. I mean cmon its dune alright. So many fantastic aspects compared to the remake. But symbolism is incredible in this one, I would easily prefer some scenes from this to the remake. Unfortunately, sfx didn't held up at all.)
+- The Flash (2023) (flash, batman, time travel, and even more time travel. Terrible. Just really really bad. Plot, sfx, action sequence, choreography, it just sucks.)
+- Triangle (2009) (time capsule, repeating events, similar to coherence, choices and alternating time lines. Plot is just incredibly obvious, you see it coming from miles away. As soon as you see the plot coming, it just becomes incredibly boring. Its meh.)
 
 ### Watch later
 
-- The Crow (1994)
 - The Descent (2005)
-- Dune (1984)
 - Flash Gordon (1980)
-- The Flash (2023)
 - Jason and the Argonauts (1963)
 - The Cheerleader (1973)
-- Triangle (2009)
 - 13 assasins
 - Riding Bean (1989)
 - Starship Troopers
