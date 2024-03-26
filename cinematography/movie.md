@@ -102,8 +102,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Flash (2023) (flash, batman, time travel, and even more time travel. Terrible. Just really really bad. Plot, sfx, action sequence, choreography, it just sucks.)
 - Triangle (2009) (time capsule, repeating events, similar to coherence, choices and alternating time lines. Plot is just incredibly obvious, you see it coming from miles away. As soon as you see the plot coming, it just becomes incredibly boring. Its meh.)
 
+
+
 ### Watch later
 
+- Harakiri (1964)
 - The Descent (2005)
 - Flash Gordon (1980)
 - Jason and the Argonauts (1963)
