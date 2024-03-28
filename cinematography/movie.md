@@ -107,6 +107,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - Harakiri (1964)
+- Lion of the Desert (1981)
 - The Descent (2005)
 - Flash Gordon (1980)
 - Jason and the Argonauts (1963)
