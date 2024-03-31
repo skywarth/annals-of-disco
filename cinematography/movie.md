@@ -101,12 +101,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Dune (1984) (Dune, spice, arrakis, atredies, baron harkonnen, paul atredies. I mean cmon its dune alright. So many fantastic aspects compared to the remake. But symbolism is incredible in this one, I would easily prefer some scenes from this to the remake. Unfortunately, sfx didn't held up at all.)
 - The Flash (2023) (flash, batman, time travel, and even more time travel. Terrible. Just really really bad. Plot, sfx, action sequence, choreography, it just sucks.)
 - Triangle (2009) (time capsule, repeating events, similar to coherence, choices and alternating time lines. Plot is just incredibly obvious, you see it coming from miles away. As soon as you see the plot coming, it just becomes incredibly boring. Its meh.)
-
+- Rain Man (1988) (Its an American classic, pop culture from old times like Forrest Gump. Autist, inheritance, asylum, comedy, vegas, card counting, even more autism)
 
 
 ### Watch later
 
-- Rain Man (1988)
+
 - Harakiri (1964)
 - Lion of the Desert (1981)
 - The Descent (2005)
