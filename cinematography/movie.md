@@ -102,12 +102,10 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Flash (2023) (flash, batman, time travel, and even more time travel. Terrible. Just really really bad. Plot, sfx, action sequence, choreography, it just sucks.)
 - Triangle (2009) (time capsule, repeating events, similar to coherence, choices and alternating time lines. Plot is just incredibly obvious, you see it coming from miles away. As soon as you see the plot coming, it just becomes incredibly boring. Its meh.)
 - Rain Man (1988) (Its an American classic, pop culture from old times like Forrest Gump. Autist, inheritance, asylum, comedy, vegas, card counting, even more autism)
-
+- Harakiri (1964) (Edo period Japan, 17th century. Samurai, honor, vengance, 30 vs 1, hunting samurais, poverty, pestilence, comitting harakiri, family, scheming. Great movie, loved it.)
 
 ### Watch later
 
-
-- Harakiri (1964)
 - Lion of the Desert (1981)
 - The Descent (2005)
 - Flash Gordon (1980)
