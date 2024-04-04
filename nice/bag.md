@@ -22,3 +22,16 @@
 Overall such a great brand for bags. A bit pricey though.
 
 ### Tomtoc
+
+
+## Sling bag
+
+### Caterpillar
+
+### Tomtoc
+
+- Tomtoc Explorer H02
+
+### Patagonia
+
+- Patagonia hip bag
