@@ -26,7 +26,9 @@ Overall such a great brand for bags. A bit pricey though.
 
 ## Sling bag
 
-### Caterpillar
+### Caterpillar (CAT)
+
+- CAT Jones - Travel Sling bag (1 liter, lite, simple, lightweight. 230gr)
 
 ### Tomtoc
 
