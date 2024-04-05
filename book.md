@@ -2,6 +2,8 @@ Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling
 
 **The Pragmatic Programmer 1999**
 
+Meditations - Marcus Aurelius
+
 Refactoring: Improving the Design of Existing Code
 
 Code Complete
