@@ -17,3 +17,5 @@
 ### Subaru Sambar (1999) (JDM Kei Van)
 
 ### Peugeot 205 GTI (1990) (That masculine ad with aircraft carrier and fighter jet.)
+
+### Porsche 924 dakar  (1974-78)
