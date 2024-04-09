@@ -106,6 +106,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
+- Dune 2
+- Lawrence of Arabia (1962)
 - Passengers (2016)
 - Lion of the Desert (1981)
 - The Descent (2005)
