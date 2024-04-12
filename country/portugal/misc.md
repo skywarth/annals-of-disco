@@ -27,6 +27,10 @@ These will be categorized and put into separate files in time.
 - Tipping is not mandatory unlike US, there is no tipping culture.But it is greatly appreciated. ~10% is the standard rate.
 - Super local/native places still process only cash, but most places accept credit card payments.
 - 'Time out market' is for tourists
+- Don't eat in Baixa district/street, it is a tourist trap. Overpriced and not local-owned.
+- Don't fall for the "free shot" trap, it is usually low-alchocol concentration drink to lure you into the bar.
+- Santa Justa Elevator is for birds, don't pay it, it is not worth it.
+
 
 ### Transportation
 - Uber is available but prefer the local alternative "Bolt". Bolt is cheaper and more people use it.
