@@ -1,32 +1,58 @@
-Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling people. Must read)
+# Books
 
-**The Pragmatic Programmer 1999**
+## List
 
-Meditations - Marcus Aurelius
+### Read Already
 
-Refactoring: Improving the Design of Existing Code
+(not including those who are already read in the past)
 
-Code Complete
+### Read Again
 
-Mythical Man-Month, The: Essays on Software Engineering (1995),  Frederick Brooks Jr.
+- How to win friends & Influence people - Dale Carnegie
 
-https://dev.to/puritanic/ive-read-the-pragmatic-programmer-2bn9
+### Awaiting to be read
+- Ben Hur: a tale of the Christ - Lewis Wallace
+- Making it happen - John Harvey-Jones
 
-Art of Thinking Clearly 2013 - Rolf Dobelli
+### Hunting
 
-High Performance MySQL, 4th Edition
+#### Technical
 
-(not so great) A Philosophy of Software Design - John Ousterhout (https://milkov.tech/assets/psd.pdf)
+- **The Pragmatic Programmer 1999**
+- Refactoring: Improving the Design of Existing Code
+- Code Complete
+- Mythical Man-Month, The: Essays on Software Engineering (1995),  Frederick Brooks Jr.
+- High Performance MySQL, 4th Edition
+- (not so great) A Philosophy of Software Design - John Ousterhout (https://milkov.tech/assets/psd.pdf)
+- Category Theory for Programmers - Bartosz Milewski
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert Martin
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- The Papalagi (Der Papalagi)
 
-Category Theory for Programmers - Bartosz Milewski
+#### Non-technical
 
-Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert Martin
+- Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling people. Must read)
+- Art of Thinking Clearly 2013 - Rolf Dobelli
+- Meditations - Marcus Aurelius
+- The Power and the Glory (Graham Greene)
+- The Lean Startup (Eric Ries)
 
-Refactoring: Improving the Design of Existing Code - Martin Fowler
 
-How to win friends & Influence people - Dale Carnegie
+#### Misc
 
-The Papalagi (Der Papalagi)
+- https://dev.to/puritanic/ive-read-the-pragmatic-programmer-2bn9
 
-The Power and the Glory (Graham Greene)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
