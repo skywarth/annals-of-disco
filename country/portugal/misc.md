@@ -32,7 +32,7 @@ These will be categorized and put into separate files in time.
 - Don't eat in Baixa district/street, it is a tourist trap. Overpriced and not local-owned.
 - Don't fall for the "free shot" trap, it is usually low-alchocol concentration drink to lure you into the bar.
 - Santa Justa Elevator is for birds, don't pay it, it is not worth it.
-
+- Northern regions are more welcoming foreigners
 
 ### Transportation
 - Uber is available but prefer the local alternative "Bolt". Bolt is cheaper and more people use it.
