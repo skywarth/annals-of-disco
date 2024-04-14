@@ -9,6 +9,8 @@ These will be categorized and put into separate files in time.
 - FNAC, fnac.pt - for electronics
 - Worten, worten.pt - for electronics
 - Ikea, ikea.pt - for furniture
+- continente.pt
+- mercadao.pt
 
 ### Shopping malls
 - Colombo
