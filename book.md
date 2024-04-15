@@ -36,6 +36,7 @@
 - Meditations - Marcus Aurelius
 - The Power and the Glory (Graham Greene)
 - The Lean Startup (Eric Ries)
+- Our mutual friend - Charles Dickens
 
 
 #### Misc
