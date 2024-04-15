@@ -1,0 +1,2 @@
+- https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/
+- https://stitcher.io/
