@@ -106,6 +106,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
+- The Soldier (1998)
 - Dune 2
 - Lawrence of Arabia (1962)
 - Passengers (2016)
