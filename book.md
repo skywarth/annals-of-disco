@@ -19,6 +19,8 @@
 #### Technical
 
 - **The Pragmatic Programmer 1999**
+- Building Microservices **(O'Reilly)** - Sam Newman
+- Head First Design Patterns  **(O'Reilly)** -  Eric Freeman &  Elisabeth Robson
 - Refactoring: Improving the Design of Existing Code
 - Code Complete
 - Mythical Man-Month, The: Essays on Software Engineering (1995),  Frederick Brooks Jr.
@@ -27,7 +29,7 @@
 - Category Theory for Programmers - Bartosz Milewski
 - Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert Martin
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
-- The Papalagi (Der Papalagi)
+
 
 #### Non-technical
 
@@ -38,6 +40,7 @@
 - The Lean Startup (Eric Ries)
 - Our mutual friend - Charles Dickens
 - Only the Paranoid Survive, Andrew Grove
+- The Papalagi (Der Papalagi)
 
 #### Misc
 
