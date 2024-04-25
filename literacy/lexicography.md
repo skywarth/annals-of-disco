@@ -1,3 +1,17 @@
+## Churlish
+`chur-lish`
+
+Act of being churl: beastly, uncivilized, vulgar, rude, peasant like. Someone who is acting unpleasant. For example, declining a kind invitation could be churlish. Or interrupting someone while they are telling you a story would be churlish. When metro arrives, if you don't allow people to get off first, that is churlish; uncivil. 
+
+Comes from old English, evolved through the ages. Originally ceorlisc, then cherlish, to churlish. Pre 1000s. In old English, ceorl (churl) would mean peasant; lowest class of men. Initially it didn't mean anything bad, it was simply a class in caste. Only later on it evolved to identify someone vulgar and uncivil.
+
+
+*Insubordinate and churlish, pity...*
+
+*Such churlish and rudent behaviour will get you nowhere*
+
+
+
 ## Force Majeure
 `force-meguere`
 
