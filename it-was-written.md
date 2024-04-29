@@ -31,6 +31,9 @@
  - ~~Publish my first github action~~
  - Artisan credits generator
  - Browser plugin for checking if job posting has visa/relo support
+ - DD themed PR narrator
+ - Money relativity calc
+ - Guestbook
 
  - mobile game name generator
  - Markdown merger/splitter
