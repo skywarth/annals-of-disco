@@ -10,6 +10,20 @@ Comes from old English, evolved through the ages. Originally ceorlisc, then cher
 
 *Such churlish and rudent behaviour will get you nowhere*
 
+## Wog
+> [racial slur] [offensive]
+
+`wog`
+
+Deragotary term to refer to non-white skinned person; usually those of nubian, middle-eastern or southeast-asian descendency. In some context of street slang, it might refer to **anyone** that is foreigner, but commonly for the listed ethnicities.
+
+Originally it ment `"a lower-class babu shipping clerk"`, babu meaning clerk with Indian origin. Later popularized and used by British soldiers during WW2, as a slang for arab or native indian (hindoo), in the context of laborer/servant. Some uncertainties revolve around its lexicography but strongest candidate for the word origin is "golliwog" (deragotary, offensive) from `The History of King Edward's Horse, 1921`.
+
+1920, Britian.
+
+*Get that wog out of here*
+
+*Call me wog one more time and I shall educate you in the ways of civil manner*
 
 
 ## Force Majeure
