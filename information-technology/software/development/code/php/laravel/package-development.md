@@ -14,7 +14,8 @@ If any point, something doesn't make sense, or you made some changes in composer
 
 
 ## Resc
-https://laravelpackage.com/02-development-environment/
+- https://laravelpackage.com/02-development-environment/
+- [!] https://github.com/spatie/package-skeleton-laravel
 
 
 ## Steps
