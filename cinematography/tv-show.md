@@ -33,6 +33,7 @@ Probably forgot most of the past ones.
 check
 
 - shogun
+- Brave new world (only one season, cancelled)
 - fallout
 - mindhunter
 - LoTR: Rings of power
