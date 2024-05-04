@@ -1,3 +1,18 @@
+## Dossier
+`do-si-ay`
+
+Documents, files, papers which belong to certain subject. For example; military personnel documents of a single person bundled together, folder that contains your personal information, set of documents you give to the consulate for visa application. 
+
+In Latin, *dos* means "back". Dossier is named so because when these documents were bundled together with a strap, they would usually bear a insignia/label on the back.
+
+However; in old French, *dossiere* means back-strap or rather horse harness. It also makes sense because books, documents, files, folders and papers were used to be bundled together via a strap/harness. Hence the WinRAR logo...
+
+French Origin, 1880.
+
+*I know that about you, I've read your dossier*
+
+*Under no circumstance this dossier is laid bare before another pair of eyes*
+
 ## Riveting
 `ri-ve-ting`
 
