@@ -1,3 +1,20 @@
+## Riveting
+`ri-ve-ting`
+
+Extraordinarily interesting, captivating.
+
+Comes from the figurative meaning of hammering down 'rivets', so you gather attention.
+
+From 1854...
+
+*I think it is riveting*
+
+*His command of English was riveting, such compelling narrative!*
+
+
+
+
+
 ## Churlish
 `chur-lish`
 
