@@ -103,6 +103,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Triangle (2009) (time capsule, repeating events, similar to coherence, choices and alternating time lines. Plot is just incredibly obvious, you see it coming from miles away. As soon as you see the plot coming, it just becomes incredibly boring. Its meh.)
 - Rain Man (1988) (Its an American classic, pop culture from old times like Forrest Gump. Autist, inheritance, asylum, comedy, vegas, card counting, even more autism)
 - Harakiri (1964) (Edo period Japan, 17th century. Samurai, honor, vengance, 30 vs 1, hunting samurais, poverty, pestilence, comitting harakiri, family, scheming. Great movie, loved it.)
+- Lawrence of Arabia (1962) (Its a classic, a damn classic. Arabia, arabs, tribal feud, desert life, politics, influence, ottoman, making friends and earning respect. Basically the story of English gentelemen who loved arabian culture, and wanted to unite arabs and give them a nation rathen than a nomadic lifestyle.)
 
 ### Watch later
 
