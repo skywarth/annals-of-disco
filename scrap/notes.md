@@ -132,3 +132,5 @@ vasco da gama
 prosopagnosia
 
 https://ollama.com/
+
+https://ntfy.sh/
