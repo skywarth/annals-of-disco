@@ -35,3 +35,4 @@ D3 visa is for highly skilled professionals
   - Lease contract
 - Criminal record certificate
 - Travel medical insurance with 30k EUR coverage
+- Higher education diploma
