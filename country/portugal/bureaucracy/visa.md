@@ -34,5 +34,14 @@ D3 visa is for highly skilled professionals
   - Hotel reservation
   - Lease contract
 - Criminal record certificate
+  - Has to be with apostille, signed and sealed
+  - `E-apostil` is not working correctly by the moment (15/05/2024), sign and seals are missing, also it lacks some TR characters, so refrain from using it. Also the officials in the courthouse don't recommend it. Guaranteed way is obtaining physical copy.
+  - To acquire it:
+    1. Go to your local courthouse
+    2. Get your criminal record certificate from the corresponding desk. They provide it in any language you want. Get both English and Portuguese.
+    3. Now you have to get it apostilled. For this, get a copy of your ID card.
+    4. Go to the corresponding room for acquiring apostille. Give your criminal record certificates and your ID card photocopy.
+    5. They'll most probably tell you to come tomorrow.
+    6. Go and collect your documents. Check the signature, stamps and seals. Done.
 - Travel medical insurance with 30k EUR coverage
 - Higher education diploma
