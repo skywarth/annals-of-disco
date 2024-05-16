@@ -15,7 +15,7 @@ D3 visa is for highly skilled professionals
 - All documents must be in A4 size. For those documents bigger than A4, photocopy them into A4
 - No paperclips, pins, folders
 - No lamination for any document
-- **All documents** must be translated to English or Portuguese by a sworn translator
+- **All documents** must be translated to English or Portuguese by a sworn translator. Although Portuguese is preferred, it could be processed faster.
 - If you bring a photocopy of a document, bring the original as well
 
 
@@ -28,6 +28,12 @@ D3 visa is for highly skilled professionals
 - Two identical biometric photographs, 35x45mm, white background
 - Your work contract or binding offer. Contract should be valid for period of 1 year
 - Bank statement for at least 3 months, signed and sealed
+  - Transactions are not really necessary
+  - To acquire it:
+    1. Go to your bank
+    2. At the desk, tell them you want bank statement in English or Portuguese
+    3. If it's not possible to obtain it in foreign language, get it either way and get it translated by a sworn translator
+    4. Get the signature circulars from the bank along with it, signature circulars doesn't need to be translated at all
 - Pay slips of last 3 months from the employer, signed and sealed 
 - Application fee of 90 EUR, converted to identical amount in Turkish Lira (441 TL indicated by the embassy)
 - Proof of accommodation in Portugal
