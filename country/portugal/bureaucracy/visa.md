@@ -3,7 +3,7 @@
 D3 visa is for highly skilled professionals
 
 - Salary at least 1.5 times the national minimum wage
-- Requires higher education diploma or 5-6 years of experience
+- Requires higher education diploma or 5-6 years of experience. Although as of late, immigration office is tend to decline no-diploma applications that rely solely on work experience
 - If applying with promise of contract (not present currently), then 10k EUR in savings
 - Since this is intended for more than 1 year stay, it is a **national visa**
 
@@ -11,23 +11,34 @@ D3 visa is for highly skilled professionals
 
 > (These are for applying in Turkey)
 
+### Tags
+- `[RELO]`: Indicated by relocation partner
+- `[EMBA]`: Indicated by the embassy
+- `[GUID]`: Indicated by guides online
+
+### Application method
+- Many countries other than Turkey may request appointment via VFS Global
+- Originally, you may request an appointment at the embassy via emailing this address `sconsular.ankara@mne.pt`
+- However, at the moment of writing (19/05/2024) embassy website indicates you may get appointment from the e-visa platform
+  - https://pedidodevistos.mne.gov.pt/VistosOnline/
+  - Interestingly, this announcement wasn't on the website a few days ago? Check the [wayback machine](https://web.archive.org/web/20230812092053/https://ancara.embaixadaportugal.mne.gov.pt/tr/konsolosluk-bolumu/genel-bilgi) for proof.
+- `[RELO]` routes you to apply to e-visa first for appointment (and application form), then email the embassy for appointment
+- In case of late appointment, or trouble getting any appointment at all. Consult your lawyers to harass them a bit.
+
 ### Common
 - All documents must be in A4 size. For those documents bigger than A4, photocopy them into A4
 - No paperclips, pins, folders
 - No lamination for any document
 - **All documents** must be translated to English or Portuguese by a sworn translator. Although Portuguese is preferred, it could be processed faster.
 - If you bring a photocopy of a document, bring the original as well
-- If you're not sure where to get an apostille for a document, advise to the closest district governorship.
+- If you're not sure where to get an apostille for a document, advise to the closest district governorship. They are responsible for applying apostille to documents.
 
 ### Documents
-Tags:
-- `[RELO]`: Indicated by relocation partner
-- `[EMBA]`: Indicated by the embassy
-- `[GUID]`: Indicated by guides online
 
 - Application form `[RELO]` `[EMBA]` `[GUID]`
   - filled in English with capital letters
   - https://ancara.embaixadaportugal.mne.gov.pt/images/pedido_de_visto_de_longa_duracao_en_2.pdf
+  - You may also acquire it filled by submitting your application to [e-visa](https://pedidodevistos.mne.gov.pt/VistosOnline/) first
 - Passport `[RELO]` `[EMBA]` `[GUID]`
   - (valid for at least 1 year)
 - Previous passport that may've expired
@@ -43,6 +54,7 @@ Tags:
   - at least 3 months
   - signed and sealed
   - Transactions are not really necessary (`[GUID]`)
+  - At least €9840 per person (`[GUID]`)
   - To acquire it:
     1. Go to your bank
     2. At the desk, tell them you want bank statement in English or Portuguese
@@ -74,3 +86,26 @@ Tags:
   - It should be done around 1-2 work days
   - Notary approval/seal costs around 350~ TL at the moment of writing (17/05/2024)
 - Flight ticket reservation `[EMBA]`
+
+
+## Appendix/misc
+
+### Email format sending emails to embassy, Format-1
+
+Answer/include these in your email.
+
+```
+1. Passport copies for all
+2. Residency permits in turkey for all
+3. Name and Surname
+4. Nationality
+5. Where do theylive in Turkey or KKTC
+6. What do you do in Turkey or KKTC
+7. Do they have a valid Turkish or KKTC residence permit ?
+8. If yes, what is the exact validity date of the residency? (You need to write the exact date.)
+9. What is the purpose of the visit to Portugal?
+10. For how long are they intended to stay in Portugal?
+11. What are the traveling dates to Portugal?
+12. Will they go to another Schengen countries other than Portugal? If yes, please write to each country´s name and how many days they will stay in?
+13. The relationship between the people ; father, mother,…
+```
