@@ -104,16 +104,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Rain Man (1988) (Its an American classic, pop culture from old times like Forrest Gump. Autist, inheritance, asylum, comedy, vegas, card counting, even more autism)
 - Harakiri (1964) (Edo period Japan, 17th century. Samurai, honor, vengance, 30 vs 1, hunting samurais, poverty, pestilence, comitting harakiri, family, scheming. Great movie, loved it.)
 - Lawrence of Arabia (1962) (Its a classic, a damn classic. Arabia, arabs, tribal feud, desert life, politics, influence, ottoman, making friends and earning respect. Basically the story of English gentelemen who loved arabian culture, and wanted to unite arabs and give them a nation rathen than a nomadic lifestyle.)
+- Dune 2 (2024) (Dune, sand, ze spice, lisan al-gaib, prophet, leadership. Pretty good. Can definately be watched couple of times. Some scenes are to be remembered for life. Though I still miss some scenes from the original movie from the past, it had some vibe to it. Wish they didn't focus this damn much on the relationship aspect, there were so much stuff to focus to. Actors did a marvelous job. Great movie. Glad I watched it in the theaters.)
+- The World's Fastest Indian (2005) (New Zealand, USA, customs, kiwi, even more kiwi, oldie but goldie, breaking speed record, racing, making friends, chasing your dreams. Really good movie. Surprisingly I didn't even take break while watching it, it is somehow captivating.)
+- Blue in the face (1995) (Brooklyn, tobacco culture, weirdos, clerk culture, tobacco shop, Harvey Keitel, belgian waffles. In many aspects, it reminded me of Clerks 1994. Whole movie feels like you're hanging around with your friends in the neighborhood. Its a good way to grasp American culture. Its alright.)
+- Lawrence of Arabia (1962) (Now this is a timeless classic. Such class, elegance. Arabia, aqaba, uprising, revolt, derailing and attacking Ottoman trains, gaining independence, British, WW1, influencing, leading, integrating. This movie teaches about influencing people, winning people, making friends and gaining power. Watch it closely and learn about the oldest but strongest weapon: tongue. Main actor did a fabulous job. Some aspects had some hidden messages or hints, they were a bit ambiguous, I still think about it from time to time. Must watch, great movie.)
+
+
 
 ### Watch later
-
-- The World's Fastest Indian (2005)
-- Blue in the face (1995)
 - A walk in the sun (1945)
 - From Paris with Love (2010)
 - The Soldier (1998)
-- Dune 2
-- Lawrence of Arabia (1962)
+- The Kentucky Fried Movie (1977)
 - Passengers (2016)
 - Lion of the Desert (1981)
 - The Descent (2005)
