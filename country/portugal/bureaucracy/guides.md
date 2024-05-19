@@ -1,1 +1,2 @@
 - https://www.migrun.tech/portugal/d3
+- https://medium.com/@furkankadioglu/portekize-göç-rehberi-d7-d8-nomad-vizesi-için-detaylı-anlatım-d8be8830012b
