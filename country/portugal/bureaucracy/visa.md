@@ -4,7 +4,7 @@ D3 visa is for highly skilled professionals
 
 - Salary at least 1.5 times the national minimum wage
 - Requires higher education diploma or 5-6 years of experience. Although as of late, immigration office is tend to decline no-diploma applications that rely solely on work experience
-- If applying with promise of contract (not present currently), then 10k EUR in savings
+- If applying with promise of contract (means no contract yet, maybe just offer), then 10k EUR in savings
 - Since this is intended for more than 1 year stay, it is a **national visa**
 
 ## Application 
@@ -90,7 +90,10 @@ D3 visa is for highly skilled professionals
 
 ## Appendix/misc
 
-### Email format sending emails to embassy, Format-1
+### Requesting appointment from the embassy
+
+#### Format-1
+
 
 Answer/include these in your email.
 
@@ -108,4 +111,46 @@ Answer/include these in your email.
 11. What are the traveling dates to Portugal?
 12. Will they go to another Schengen countries other than Portugal? If yes, please write to each country´s name and how many days they will stay in?
 13. The relationship between the people ; father, mother,…
+```
+
+#### Format-2
+
+Also include the ID page of the passport as attachment.
+
+```
+    To whom it may concern,
+
+    I want to get an appointment from your consulate for D7 Visa application. I accept the closest appointment date.
+
+    NAME AND SURNAME : 
+
+    Nationality / Nacionalidade: 
+
+    Passport Number : 
+
+    Questions answered bellow
+
+    1. Your Name and Surname / Seu Nome e Sobrenome:
+
+    2. Your nationality / Sua Nacionalidade:
+
+    3. Where do you live in Turkey or KKTC / Onde você mora na Turquia ou na KKTC?
+
+    4. What do you do in Turkey or KKTC / O que você faz na Turquia ou na KKTC?
+
+    5. Do you have a valid Turkish or KKTC residence permit / Você tem uma residência Turca válida?
+    I have Turkish citizenship. Passport Number: <PASAPORT Number> — Turkey ID: <T.C ID number>
+
+    5.1 If yes, what is the exact validity date of the residency? (You need to write the exact date.) / Se sim, qual é a data EXATA de validade da residência?
+    Permanent.
+
+    6. What is the purpose of your visit to Portugal? / Qual é propósito da visita a Portugal?
+
+    7. For how long are you intended to stay in Portugal? / Por quanto tempo você vai ficar em Portugal?
+
+    8. What are the traveling dates to Portugal? / Quais são as datas de viagem para Portugal?
+
+    9. Will you go to another Schengen countries other than Portugal? / Irá outros Schengen países na Europa?
+
+    9.1 If yes, please write to each country´s name and how many days you will stay in? / Se sim, por favor escreva o nome de cada país e quantos dias você vai ficar?
 ```
