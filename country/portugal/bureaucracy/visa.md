@@ -59,7 +59,7 @@ D3 visa is for highly skilled professionals
   - at least 3 months
   - signed and sealed
   - Transactions are not really necessary (`[RELO]`)
-  - At least €9840 per person (`[GUID]`)
+  - At least €9840 per person (if there is no contract) (`[GUID]`)
   - To acquire it:
     1. Go to your bank
     2. At the desk, tell them you want bank statement in English or Portuguese
@@ -69,12 +69,15 @@ D3 visa is for highly skilled professionals
 - Pay slips `[EMBA]` `[RELO]`
   - last 3 months (6 months according to `[RELO]`) from the employer
   - signed and sealed
+  - Has to be translated to  English or Portuguese, if its not in these languages, like any other document
+  - Notary or apostille is not necessary
 
 - Application fee of 90 EUR, converted to identical amount in Turkish Lira (441 TL indicated by the embassy) `[EMBA]` `[RELO]` `[GUID]`
 
 - Proof of accommodation in Portugal `[EMBA]` `[RELO]` `[GUID]`
   - Hotel reservation
   - Lease contract
+  - Has to be for 4 months (120 days)
  
 
 - Proof of address in country of origin `[RELO]` `[GUID]`
@@ -109,7 +112,8 @@ D3 visa is for highly skilled professionals
     6. Go and collect your documents. Check the signature, stamps and seals. Done.
    
 
-- Travel medical insurance with 30k EUR coverage `[EMBA]` `[GUID]`
+- Travel medical insurance with 30k EUR coverage `[EMBA]` `[GUID]` `[RELO]`
+  - Has to be valid for 122 days, should start 1 day before the designated travel date
 
 - Higher education diploma `[EMBA]` `[RELO]`
   - Like all other documents, it has to be translated. Portuguese is preferred.
