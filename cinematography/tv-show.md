@@ -29,9 +29,11 @@ Probably forgot most of the past ones.
 - Fargo*
 - Invincible*
 - marco polo
+- person of interest*
 
 check
 
+- The Bible (2013)
 - Those about to die (rome themed)
 - shogun
 - Brave new world (only one season, cancelled)
@@ -39,7 +41,6 @@ check
 - mindhunter
 - LoTR: Rings of power
 - The Witcher: Blood Origin
-- person of interest
 - House of the dragon
 - dark
 - stargate (SG-1)
