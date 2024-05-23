@@ -41,6 +41,7 @@
 - Our mutual friend - Charles Dickens
 - Only the Paranoid Survive, Andrew Grove
 - The Papalagi (Der Papalagi)
+- Flowers for Algernon - Daniel Keyes
 
 #### Misc
 
