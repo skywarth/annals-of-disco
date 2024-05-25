@@ -34,6 +34,7 @@ Probably forgot most of the past ones.
 check
 
 - The Bible (2013)
+- true detective
 - Those about to die (rome themed)
 - shogun
 - Brave new world (only one season, cancelled)
