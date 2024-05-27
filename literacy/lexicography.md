@@ -1,3 +1,23 @@
+## Bikeshedding
+`bike-shed-ing`
+
+It comes from the [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality). Law of triviality suggests that people in a group/organization often weight trivial issues more than the crucial problems. 
+
+> Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed, while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively.
+
+Focusing on trivial concepts rather than the paramount issues.
+
+Usually used in software industry.
+
+To me, its a fallacy of incompetent managers and leaders. To diverge the attention from their incompetency, they focus on easy to tackle (and usually elementary) task. This effectively masks their impotence, but in the mean time enables the whole organization's undoing.
+
+English origin, 1957
+
+*Stop with the bikeshedding and get on with it!*
+
+*Lads it's not my place to say this but I feel like we're bikeshedding here*
+
+
 ## Dossier
 `do-si-ay`
 
