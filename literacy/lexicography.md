@@ -1,3 +1,19 @@
+## Meticulous
+`me-tic-cul-u-lus`
+
+In 1530s Latin `meticulosus`/`metuculosus`, it originally meant 'fearful' or 'timid'. Its litaral translation from latin was 'full of fear'. Its origin is unknown. 
+
+In 1840 English, it returned to the literature with the meaning 'fussy about details'. Though since then it is remarked as an archaic word, obsolete. Imperial Dictionary of 1883 marks it as an arcaic word, an its meaning as 'timid'. However, Century dictionary (1883) it is defined as 'timid; over-careful'. So in essence, it was borrowed from the Latin, and evolved into 'fear of making mistake' from the original 'fearful' meaning. This transition of meaning occured between 1700-1800 period.
+
+In the modern era, it means: careful, finicky, scrupulous, cautious. Showing great attention to detail.
+
+It is not a common word, and be very carerful (or meticulous, lol) when using it. The emotion it conveys could be misinterpretted by people.
+
+*He is a meticulous teacher, and a strict instructor*
+
+*Thank you for your hardwork, I can see that these documents are meticulously preserved*
+
+
 ## Bikeshedding
 `bike-shed-ing`
 
