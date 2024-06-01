@@ -136,3 +136,5 @@ https://ollama.com/
 https://ntfy.sh/
 
 Krav Maga
+
+https://blog.codinghorror.com/
