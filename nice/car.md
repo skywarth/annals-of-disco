@@ -19,3 +19,5 @@
 ### Peugeot 205 GTI (1990) (That masculine ad with aircraft carrier and fighter jet.)
 
 ### Porsche 924 dakar  (1974-78)
+
+### Toyota Soarer 3.0 GT LIMITED (1988) (Has some nice silver lining of Japanese aesthetics)
