@@ -20,4 +20,4 @@
 
 ### Porsche 924 dakar  (1974-78)
 
-### Toyota Soarer 3.0 GT LIMITED (1988) (Has some nice silver lining of Japanese aesthetics)
+### Toyota Soarer 3.0 GT (Or Z20, one lower model) LIMITED (1988) (Has some nice silver lining of Japanese aesthetics)
