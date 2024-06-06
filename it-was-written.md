@@ -56,6 +56,11 @@
 
  - Frontend library for punishing unfair use and overdue payment
 
+ - Enable acquiring donations:
+  - https://buymeacoffee.com/
+  - https://ko-fi.com/
+  - https://www.paypal.com/paypalme/
+
 
  - Run a marathon
 
