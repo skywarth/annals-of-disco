@@ -36,7 +36,9 @@
 - sflix.to
 - 123movie.pw (moved)
 - ~~123moviesfree.mx~~ (down)
-- fmoviesz.to
+- ~~fmoviesz.to~~ (down)
+- fmovies24.to
 - movie4kto.net
 - themoviearchive.site
 - lekuluent.com
+- hydrahd.com
