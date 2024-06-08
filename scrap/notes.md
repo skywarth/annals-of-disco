@@ -151,4 +151,6 @@ https://icebergcharts.com
 
 https://that1archive.neocities.org/ (schizo, govt archives)
 
+https://lainzine.org/
+
 https://lainchan.org/
