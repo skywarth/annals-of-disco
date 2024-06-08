@@ -150,3 +150,5 @@ https://digdeeper.neocities.org/ (some sort of rabbit hole, slightly schizo, sec
 https://icebergcharts.com
 
 https://that1archive.neocities.org/ (schizo, govt archives)
+
+https://lainchan.org/
