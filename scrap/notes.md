@@ -143,3 +143,6 @@ Krav Maga
 https://blog.codinghorror.com/
 
 geocities & neocities
+
+https://digdeeper.neocities.org/ (some sort of rabbit hole, slightly schizo, security & privacy) 
+ - https://diggy.club/
