@@ -141,3 +141,5 @@ https://ntfy.sh/
 Krav Maga
 
 https://blog.codinghorror.com/
+
+geocities
