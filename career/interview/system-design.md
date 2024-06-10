@@ -113,12 +113,10 @@ Command Query Responsibility Segregation. Separate read and write operations int
 
 ##### Reverse-proxy
 
+Gate keeping basically. Acting as a proxy for the main server/service. Receiving request and forwarding it appropriately per custom logic. Good for security, scalability, availability. 
 
+API gateways and load balancers are famous examples.
 
 
 Concepts:
 - Idempotency Token
-
-Gate keeping basically. Acting as a proxy for the main server/service. Receiving request and forwarding it appropriately per custom logic. Good for security, scalability, availability. 
-
-API gateways and load balancers are famous examples.
