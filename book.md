@@ -29,7 +29,7 @@
 - Category Theory for Programmers - Bartosz Milewski
 - Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert Martin
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
-
+- **Design Patterns: Elements of Reusable Object-Oriented Software 1994 - Erich Gamma, Richard Helm... (This is the infamous Gang of Four, must read!)**
 
 #### Non-technical
 
