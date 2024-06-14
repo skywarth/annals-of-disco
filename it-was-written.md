@@ -61,6 +61,9 @@
   - https://ko-fi.com/
   - https://www.paypal.com/paypalme/
 
+ - Enable means of communication
+  - gitter.im
+
 
  - Run a marathon
 
