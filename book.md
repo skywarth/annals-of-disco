@@ -21,6 +21,8 @@
 - **The Pragmatic Programmer 1999**
 - Building Microservices **(O'Reilly)** - Sam Newman
 - Head First Design Patterns  **(O'Reilly)** -  Eric Freeman &  Elisabeth Robson
+- Dependency Injection Principles, Practices, and Patterns **(Manning)** - Mark Seemann & Steven van Deursen
+  - Online: https://livebook.manning.com/book/dependency-injection-principles-practices-patterns/
 - Refactoring: Improving the Design of Existing Code
 - Code Complete
 - Mythical Man-Month, The: Essays on Software Engineering (1995),  Frederick Brooks Jr.
