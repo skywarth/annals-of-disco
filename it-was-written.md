@@ -60,6 +60,7 @@
   - https://buymeacoffee.com/
   - https://ko-fi.com/
   - https://www.paypal.com/paypalme/
+  - https://tidelift.com/about/lifter
 
  - Enable means of communication
   - gitter.im
