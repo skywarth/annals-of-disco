@@ -24,6 +24,7 @@
 - Dependency Injection Principles, Practices, and Patterns **(Manning)** - Mark Seemann & Steven van Deursen
   - Online: https://livebook.manning.com/book/dependency-injection-principles-practices-patterns/
 - Refactoring: Improving the Design of Existing Code
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (2013)
 - Code Complete
 - Mythical Man-Month, The: Essays on Software Engineering (1995),  Frederick Brooks Jr.
 - High Performance MySQL, 4th Edition
