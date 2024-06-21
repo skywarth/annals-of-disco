@@ -121,6 +121,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - A walk in the sun (1945)
 - The Soldier (1998)
 - Passengers (2016)
+- Dark Angel (1990)
 - Lion of the Desert (1981)
 - The Descent (2005)
 - Flash Gordon (1980)
