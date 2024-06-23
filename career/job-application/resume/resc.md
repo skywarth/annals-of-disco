@@ -11,3 +11,6 @@
   - https://docs.google.com/document/d/1UBMuHp6cDVfdP508xP7H9wgLc4VMj6KfyjhAWB9k4OY/edit
 - https://novoresume.com/
 - https://resume.io/
+
+## Noteworthy resumes, public:
+- https://codebyte.re/data/csv-resume.pdf (Shelley Vohr)
