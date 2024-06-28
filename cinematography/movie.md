@@ -110,17 +110,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lawrence of Arabia (1962) (Now this is a timeless classic. Such class, elegance. Arabia, aqaba, uprising, revolt, derailing and attacking Ottoman trains, gaining independence, British, WW1, influencing, leading, integrating. This movie teaches about influencing people, winning people, making friends and gaining power. Watch it closely and learn about the oldest but strongest weapon: tongue. Main actor did a fabulous job. Some aspects had some hidden messages or hints, they were a bit ambiguous, I still think about it from time to time. Must watch, great movie.)
 - From Paris with Love (2010) (France, embassy, USA, secret agent, generic action, heavy stereotypes. Bland, boring, uninteresting, subpar, lacking, below-average, dull, made for dim-wits. Not worth the time, at all.)
 - The Kentucky Fried Movie (1977) (Short skits composed together, comedy, Detroit, more Detroit jokes, tv anchors, kung-fu. Its a mish mash of bits of American culture from 1990s. Some jokes are corny, some are decent. Satire comedy movie. It's OK, not that funny. NSFW.)
-
+- The Mummy (1999) (Imhotep, Imhotep, Imhotep! Egypt, tomb raiding, akimbo, Brendan Fraser, mummy, resurection, love story, camels, mystic stuff, comedy. The scene where the beetle embeds itself under the skin and starts moving, truly unforgettable. It's a classic. I mean who doesn't love 90s-00s common actor layout: heroic, well built, handsome main character, beautiful woman he is in love with, dorky friend, a nemesis, and a jackass henchman. Like this is the staple, the signature composition for early 2000s, late 90s. Of course it seems so generic and overused now but then everybody knew about this movie. It is the reason a generation was raised to like akimbos, heroism, guns blazing, corny jokes, and tomb raiding. Looking back, it feels somewhat cliche, but I still enjoy it after all those years. Good movie.)
 
 
 ### Watch later
-- The Mummy (1999)
+
 - Lincoln (2012)
 - Wild Tales (2014)
 - Phenomenon (1966)
 - A walk in the sun (1945)
 - The Soldier (1998)
 - Passengers (2016)
+- Johnny English (2003)
 - Dark Angel (1990)
 - Lion of the Desert (1981)
 - The Descent (2005)
