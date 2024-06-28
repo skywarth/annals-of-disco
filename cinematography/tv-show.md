@@ -30,14 +30,17 @@ Probably forgot most of the past ones.
 - Invincible*
 - marco polo
 - person of interest*
+- The Bible (2013)*
+- Brave new world*
+
 
 check
 
-- The Bible (2013)
+
 - true detective
 - Those about to die (rome themed)
 - shogun
-- Brave new world (only one season, cancelled)
+
 - fallout
 - mindhunter
 - LoTR: Rings of power
