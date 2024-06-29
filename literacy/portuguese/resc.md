@@ -4,4 +4,5 @@
 - https://pptonline.acm.gov.pt/
 - https://www.linguno.com/
 - https://www.ucateachesportuguese.com/
-- Memrise (app)
+- Memrise (app, free)
+- https://www.practiceportuguese.com/ (app & website, paid)
