@@ -5,7 +5,19 @@
 
 > Não
 
-Translation: to speak (language). To talk (language).
+Translation: No.
+
+---
+
+> Também
+
+Translation: too, also, as well.
+
+---
+
+> Ser
+
+Translation: To be (permanent).
 
 ---
 
@@ -54,6 +66,20 @@ Translation: See you later. Goodbye! Bye! Until later.
 
 ---
 
+> So inglês
+
+Translation: I'm English (said by man)
+
+---
+
 > Eu falo inglês
 
 Translation: I speak English
+
+---
+
+> És português?
+
+Translation: Are you Portuguese? (Said to a man)
+
+
