@@ -1,7 +1,8 @@
 # Portuguese laws and rules
 
 ## Main resources
-- https://diariodarepublica.pt/dr/home
+- Legal definitions and terms: https://diariodarepublica.pt/dr/home
+- Secure school program: https://www.psp.pt/Pages/atividades/programa-escola-segura.aspx
 
 
 ## Subjects
