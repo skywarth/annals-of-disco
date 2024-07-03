@@ -166,3 +166,5 @@ Sacraments of the Catholic Church
 Solipsism
 
 Alfacinha
+
+Law of Demeter
