@@ -2,6 +2,19 @@
 
 ## Words
 
+### Numbers
+
+| English  | Portuguese (masculine)  | Portuguse (feminine)  |  |
+|---|---|---|---|
+| One   | Um  | Uma  |   |
+| Two   | Dois  | Duas  |   |
+| Three   | Três  | Três  |   |
+| Four   | Quatro  | Quatro  |   |
+| Five   | Cinco  | Cinco  |   |
+
+---
+
+### Others
 
 > Não
 
@@ -50,6 +63,12 @@ Translation: They (male). them (male).
 
 Translation: They (female). them (female).
 
+---
+
+> Sopa
+
+Translation: Soup
+
 ## Common phrases
 
 > Bom dia
@@ -82,4 +101,27 @@ Translation: I speak English
 
 Translation: Are you Portuguese? (Said to a man)
 
+---
 
+> A ementa, por favor
+
+Translation: The menu, please.
+
+---
+
+> Um açordas, por favor
+
+Translation: One açordas (soup with bread), please
+
+---
+
+> Eu gosto francesinha
+
+Translation: I like francesinha (a special Portuguse sandwich dish)
+
+
+---
+
+> Ela quer uma sopa
+
+Translation: She wants a soup
