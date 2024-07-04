@@ -125,3 +125,15 @@ Translation: I like francesinha (a special Portuguse sandwich dish)
 > Ela quer uma sopa
 
 Translation: She wants a soup
+
+---
+
+> Tudo bem?
+
+Translation: How's it going? All good?
+
+---
+
+> Como estás?
+
+Translation: How are you?
