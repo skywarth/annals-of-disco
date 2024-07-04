@@ -111,6 +111,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - From Paris with Love (2010) (France, embassy, USA, secret agent, generic action, heavy stereotypes. Bland, boring, uninteresting, subpar, lacking, below-average, dull, made for dim-wits. Not worth the time, at all.)
 - The Kentucky Fried Movie (1977) (Short skits composed together, comedy, Detroit, more Detroit jokes, tv anchors, kung-fu. Its a mish mash of bits of American culture from 1990s. Some jokes are corny, some are decent. Satire comedy movie. It's OK, not that funny. NSFW.)
 - The Mummy (1999) (Imhotep, Imhotep, Imhotep! Egypt, tomb raiding, akimbo, Brendan Fraser, mummy, resurection, love story, camels, mystic stuff, comedy. The scene where the beetle embeds itself under the skin and starts moving, truly unforgettable. It's a classic. I mean who doesn't love 90s-00s common actor layout: heroic, well built, handsome main character, beautiful woman he is in love with, dorky friend, a nemesis, and a jackass henchman. Like this is the staple, the signature composition for early 2000s, late 90s. Of course it seems so generic and overused now but then everybody knew about this movie. It is the reason a generation was raised to like akimbos, heroism, guns blazing, corny jokes, and tomb raiding. Looking back, it feels somewhat cliche, but I still enjoy it after all those years. Good movie.)
+- Johnny English (2003) (Mr Bean as MI7 agent, queen abdicating, evil frenchman, incompetent agent. Dull, boring, tasteless, designated for quarter-wits, uninteresting, upright sloppy, unoriginal, didn't even break a single smile, I was stoic the whole time. Don't waste your time, terrible.)
+- The Descent (2005) (Girl group, hiking, cave exploration, tomgirls, weird cave dwelling creatures, hidden tunnel networks. I mean it's alright, some scenes were full of gore. Some scenes were upright funny to be honest, or ridiculous. And the first 30-45 minutes are just waste of time, it could've been shortened to 5 minute sequence, it doesn't add anything much to the story. It's alright.)
+
 
 
 ### Watch later
@@ -121,11 +124,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - A walk in the sun (1945)
 - The Soldier (1998)
 - Passengers (2016)
-- Johnny English (2003)
 - Dark Angel (1990)
 - Lion of the Desert (1981)
 - Hidden figures (2016)
-- The Descent (2005)
 - Flash Gordon (1980)
 - Jason and the Argonauts (1963)
 - The Cheerleader (1973)
