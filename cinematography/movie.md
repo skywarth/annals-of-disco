@@ -113,12 +113,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Mummy (1999) (Imhotep, Imhotep, Imhotep! Egypt, tomb raiding, akimbo, Brendan Fraser, mummy, resurection, love story, camels, mystic stuff, comedy. The scene where the beetle embeds itself under the skin and starts moving, truly unforgettable. It's a classic. I mean who doesn't love 90s-00s common actor layout: heroic, well built, handsome main character, beautiful woman he is in love with, dorky friend, a nemesis, and a jackass henchman. Like this is the staple, the signature composition for early 2000s, late 90s. Of course it seems so generic and overused now but then everybody knew about this movie. It is the reason a generation was raised to like akimbos, heroism, guns blazing, corny jokes, and tomb raiding. Looking back, it feels somewhat cliche, but I still enjoy it after all those years. Good movie.)
 - Johnny English (2003) (Mr Bean as MI7 agent, queen abdicating, evil frenchman, incompetent agent. Dull, boring, tasteless, designated for quarter-wits, uninteresting, upright sloppy, unoriginal, didn't even break a single smile, I was stoic the whole time. Don't waste your time, terrible.)
 - The Descent (2005) (Girl group, hiking, cave exploration, tomgirls, weird cave dwelling creatures, hidden tunnel networks. I mean it's alright, some scenes were full of gore. Some scenes were upright funny to be honest, or ridiculous. And the first 30-45 minutes are just waste of time, it could've been shortened to 5 minute sequence, it doesn't add anything much to the story. It's alright.)
-
+- The Creator (2023) (AI, robots, synthetics, humans vs robots, nuclear, alternate timeline, controlling electronics remotely by mind, religious ai, USA, New Asia. Surprisingly good. Nowadays sci-fi is just trash, but this one is really decent. Not boring at all. Though narrative is a bit too cliche: "America bad, natives good". Visuals are impressive as well, and the atmosphere is spot-on. Impressive. Good movie)
 
 
 ### Watch later
 
-- The Creator (2023)
+
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
 - Wild Tales (2014)
