@@ -36,6 +36,7 @@
 
 #### Non-technical
 
+- Hagakure: The Book of the Samurai (1992, originally published in 1716)
 - Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling people. Must read)
 - Art of Thinking Clearly 2013 - Rolf Dobelli
 - Meditations - Marcus Aurelius
