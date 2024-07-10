@@ -65,6 +65,8 @@
  - Enable means of communication
   - gitter.im
 
+ - Have a rudis
+
 
  - Run a marathon
 
