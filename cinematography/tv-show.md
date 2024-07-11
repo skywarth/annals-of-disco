@@ -40,7 +40,7 @@ check
 - true detective
 - Those about to die (rome themed)
 - shogun
-
+- Loudermilk
 - fallout
 - mindhunter
 - LoTR: Rings of power
