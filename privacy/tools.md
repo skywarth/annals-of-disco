@@ -60,6 +60,8 @@ GNU JAMI (p2p, completely decentralized. Allows different comm types: voice mess
 
 - p2p JS application that runs client side and delivers messages in image format. So basically whatever is put inside the input will be converted to png using svg to image render. Sounds good, gotta do it sometime.
 
+- Threema (threema.ch) some intriguing messaging app, Switzerland based
+
 ### Translation
 
 - Argos (FOSS, GUI)
