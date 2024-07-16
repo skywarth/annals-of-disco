@@ -121,7 +121,8 @@ D3 visa is for highly skilled professionals
     1. Notary->Apostille->Translation->Notary->Apostille
     2. Translation->Notary->Apostille
   - It should be done around 1-2 work days
-  - Notary approval/seal costs around 350~ TL at the moment of writing (17/05/2024)
+  - Notary approval/seal costs for the original diploma (just as is) around 350~ TL at the moment of writing (17/05/2024)
+  - Notary approval/seal cost for the translated and apostilled diploma is around 1125~ TL
 
 - Flight ticket reservation `[EMBA]`
 
