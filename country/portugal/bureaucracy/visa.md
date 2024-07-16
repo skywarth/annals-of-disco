@@ -139,7 +139,7 @@ D3 visa is for highly skilled professionals
   - Essentially allows Portuguese police to perform criminal background search on you
   - Has to be signed
  
-- Applicant letter (cover letter)
+- Applicant letter (cover letter) `[RELO]`
   - A document indicating your the purpose of your application
   - Has to be signed
 
