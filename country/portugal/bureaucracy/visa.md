@@ -91,6 +91,7 @@ D3 visa is for highly skilled professionals
       - Get it signed and sealed
       - Get it apostilled (from the district governorship)
       - Go to a translation office and get it translated to Portuguese
+      - Get it notarized by the notary, following the translation. Cost is around 919~ TL at the time of writing (21/05/2024)
     - Certificate of residence (`ikametgah`)
       - Advise to e-devlet
       - Select the `Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Sorgulama` service
@@ -122,7 +123,7 @@ D3 visa is for highly skilled professionals
     2. Translation->Notary->Apostille
   - It should be done around 1-2 work days
   - Notary approval/seal costs for the original diploma (just as is) around 350~ TL at the moment of writing (17/05/2024)
-  - Notary approval/seal cost for the translated and apostilled diploma is around 1125~ TL
+  - Notary approval/seal cost for the translated and apostilled diploma is around 1125~ TL (21/05/2024)
 
 - Flight ticket reservation `[EMBA]`
 
