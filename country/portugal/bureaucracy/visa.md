@@ -41,9 +41,12 @@ D3 visa is for highly skilled professionals
   - You may also acquire it filled by submitting your application to [e-visa](https://pedidodevistos.mne.gov.pt/VistosOnline/) first
 - Passport `[RELO]` `[EMBA]` `[GUID]`
   - (valid for at least 1 year)
-  - `[GUID]` claims it has to be notarized
 - Previous passport that may've expired
-- Photocopy of passport's ID page `[EMBA]`
+- Photocopy of passport `[EMBA]` `[GUID]`
+  - ID page
+  - Visa page(s) that are not empty
+  - Other pages that has signature or stamp
+  - `[GUID]` claims it has to be notarized
 - Photocopy of previous visas `[EMBA]`
 - Two identical  photographs `[EMBA]` `[GUID]` `[RELO]`
   - 35x45mm
@@ -125,7 +128,7 @@ D3 visa is for highly skilled professionals
   - Notary approval/seal costs for the original diploma (just as is) around 350~ TL at the moment of writing (17/05/2024)
   - Notary approval/seal cost for the translated and apostilled diploma is around 1125~ TL (21/05/2024)
 
-- Flight ticket reservation `[EMBA]`
+- Flight ticket reservation `[EMBA]` `[GUID]`
 
 
 - CV `[RELO]`
@@ -139,9 +142,14 @@ D3 visa is for highly skilled professionals
   - Essentially allows Portuguese police to perform criminal background search on you
   - Has to be signed
  
-- Applicant letter (cover letter) `[RELO]`
+- Applicant letter (cover letter) `[RELO]` `[GUID]` 
   - A document indicating your the purpose of your application
   - Has to be signed
+ 
+- Visa fee in cash `[EMBA]` `[RELO]` `[GUID]` 
+  - In local currency, Turkish Lira if applying from Turkey.
+  - Equivalent of €90
+  - Paid in cash
 
 ## Appendix/misc
 
