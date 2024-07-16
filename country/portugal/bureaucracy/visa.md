@@ -135,6 +135,13 @@ D3 visa is for highly skilled professionals
   - Sign it
   - Scan it
 
+- Authorization to consult criminal background in Portugal `[RELO]`
+  - Essentially allows Portuguese police to perform criminal background search on you
+  - Has to be signed
+ 
+- Applicant letter (cover letter)
+  - A document indicating your the purpose of your application
+  - Has to be signed
 
 ## Appendix/misc
 
