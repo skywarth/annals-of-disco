@@ -9,7 +9,7 @@ Probably forgot most of the past ones.
 - Spartacus
 - Better Call Saul
 - Arcane
-- westworld
+- Westworld
 - House
 - Black Summer
 - Cyberpunk: Edgerunners
@@ -21,18 +21,18 @@ Probably forgot most of the past ones.
 - resident evil
 - primal
 - Last Of Us*
-- fringe
+- Fringe
 - The Witcher *
 - Castlevania
 - What we do in the shadows *
 - For all mankind*
 - Fargo*
 - Invincible*
-- marco polo
-- person of interest*
+- Marco polo
+- Person of interest*
 - The Bible (2013)*
-- Brave new world*
-
+- Brave new world
+- Gen-V*
 
 check
 
