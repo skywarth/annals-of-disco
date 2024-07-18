@@ -172,3 +172,5 @@ Law of Demeter
 https://en.wikisource.org/wiki/Parables_of_Ramakrishna/The_Parable_of_the_snake_that_refused_to_hiss
 
 https://deviq.com/ (secondary resource for design patterns)
+
+Prenuptial agreements
