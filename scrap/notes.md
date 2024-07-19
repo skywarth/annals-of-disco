@@ -174,3 +174,5 @@ https://en.wikisource.org/wiki/Parables_of_Ramakrishna/The_Parable_of_the_snake_
 https://deviq.com/ (secondary resource for design patterns)
 
 Prenuptial agreements
+
+https://babylonbee.com
