@@ -118,6 +118,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 
 ### Watch later
 
+- Don't look up (2021) (rewatch)
+- Dante's Inferno: An Animated Epic (2010) (rewatch)
 
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
