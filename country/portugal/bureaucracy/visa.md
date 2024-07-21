@@ -35,6 +35,16 @@ D3 visa is for highly skilled professionals
 
 ### Documents
 
+- Establish a new, empty folder because there is going to be a throng of documents.
+- Documents are separated into three categories, each category should be grouped in a file, contained in the folder. Files/categories follows as:
+  - File #1: Documents to be handed to the consulate
+  - File #2: Auxillary documents, supportive material
+  - File #3: Original documents and materials
+
+
+
+
+
 - Application form `[RELO]` `[EMBA]` `[GUID]`
   - filled in English with capital letters
   - https://ancara.embaixadaportugal.mne.gov.pt/images/pedido_de_visto_de_longa_duracao_en_2.pdf
@@ -61,8 +71,8 @@ D3 visa is for highly skilled professionals
 - Bank statement `[EMBA]`
   - at least 3 months
   - signed and sealed
-  - Transactions are not really necessary (`[RELO]`)
-  - At least €9840 per person (if there is no contract) (`[GUID]`)
+  - Transactions are not really necessary (`[RELO]`), but according to `[GUID]` it is necessary
+  - At least €9840 per person (if there is no contract) (`[GUID]` `[RELO]`)
   - To acquire it:
     1. Go to your bank
     2. At the desk, tell them you want bank statement in English or Portuguese
