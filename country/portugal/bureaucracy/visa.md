@@ -41,32 +41,32 @@ D3 visa is for highly skilled professionals
   - File #2: Auxillary documents, supportive material
   - File #3: Original documents and materials
 
+#### File #1
+
+These are the documents that are to be handed to the consulate. Regardless of the outcome of the visa application, documents in this file will be lost, won't be recovered once submitted, except for the passport alone. 
 
 
 
-
-- Application form `[RELO]` `[EMBA]` `[GUID]`
-  - filled in English with capital letters
-  - https://ancara.embaixadaportugal.mne.gov.pt/images/pedido_de_visto_de_longa_duracao_en_2.pdf
-  - You may also acquire it filled by submitting your application to [e-visa](https://pedidodevistos.mne.gov.pt/VistosOnline/) first
-- Passport `[RELO]` `[EMBA]` `[GUID]`
-  - (valid for at least 1 year)
-- Previous passport that may've expired
-- Photocopy of passport `[EMBA]` `[GUID]`
-  - ID page
-  - Visa page(s) that are not empty
-  - Other pages that has signature or stamp
-  - `[GUID]` claims it has to be notarized
-- Photocopy of previous visas `[EMBA]`
-- Two identical  photographs `[EMBA]` `[GUID]` `[RELO]`
+- Visa type photographs `[EMBA]` `[GUID]` `[RELO]`
+  - Total of two according to `[RELO]`, though `[GUID]` claims it should be four, so be prepared
   - 35x45mm
   - biometric
   - white background
-  - `[GUID]` claims it should be four, so be prepared
+  - Taken in the last 6 months
+  - Indicate the reason you're taking this photo to the photographer, they know the requirements well
 
-- Invitation from your employer in Portugal `[EMBA]` `[RELO]`
+- Application form `[RELO]` `[EMBA]` `[GUID]`
+  - filled in English with capital letters
+  - Template can be found [here](https://ancara.embaixadaportugal.mne.gov.pt/images/pedido_de_visto_de_longa_duracao_en_2.pdf) 
+  - You may also acquire it filled by submitting your application to [e-visa](https://pedidodevistos.mne.gov.pt/VistosOnline/) first. It provides you with the application form filled with your details.
+  - Consulate may elect to refuse your application form and may enforce you to fill out a blank one 
 
-- Your work contract or binding offer. Contract should be valid for period of 1 year `[EMBA]`
+- Pay slips `[EMBA]` `[RELO]`
+  - last 3 months (6 months according to `[RELO]`) from the employer
+  - signed and sealed
+  - Has to be translated to  English or Portuguese, if it's not in these languages, like any other document
+  - Notary or apostille is not necessary
+
 
 - Bank statement `[EMBA]`
   - at least 3 months
@@ -79,19 +79,41 @@ D3 visa is for highly skilled professionals
     3. If it's not possible to obtain it in foreign language, get it either way and get it translated by a sworn translator
     4. Get the signature circulars from the bank along with it, signature circulars doesn't need to be translated at all
 
-- Pay slips `[EMBA]` `[RELO]`
-  - last 3 months (6 months according to `[RELO]`) from the employer
-  - signed and sealed
-  - Has to be translated to  English or Portuguese, if its not in these languages, like any other document
-  - Notary or apostille is not necessary
+- Authorization to consult criminal background in Portugal `[RELO]`
+  - Essentially allows Portuguese police to perform criminal background search on you
+  - Has to be signed as in passport
+  - Consulate might ignore the copy you brought and make you sign the one that they'll provide you with.
+    - This form is called `Requerimento`
+    - You may find its template [here](https://ancara.embaixadaportugal.mne.gov.pt/images/Requerimento.pdf) 
 
-- Application fee of 90 EUR, converted to identical amount in Turkish Lira (441 TL indicated by the embassy) `[EMBA]` `[RELO]` `[GUID]`
+- Applicant letter (cover letter) `[RELO]` `[GUID]`
+  - A document indicating the purpose of your application
+  - Has to be signed
 
-- Proof of accommodation in Portugal `[EMBA]` `[RELO]` `[GUID]`
-  - Hotel reservation
-  - Lease contract
-  - Has to be for 4 months (120 days)
- 
+- Your binding work contract or job offer
+  - Contract should be valid for period of 1 year `[EMBA]`
+  - If you have both, present them both, it cannot hurt, though contract is far more decisive
+  - If your contract has undergone an alteration as to start date, then present the addendum document as well
+
+- Invitation from your employer in Portugal `[EMBA]` `[RELO]`
+  - Company letter, addressing the consulate/embassy
+
+- Job description `[RELO]`
+  - Summary of your job responsibilities, functions, description
+  - Issued by your company, the company which issued the job contract
+  - It could also be included in your contract, if that's the case, there is no need for anything else
+
+
+- Criminal record certificate or PCC (Police Clearance Certificate) `[EMBA]` `[GUID]` `[RELO]`
+  - Has to be with apostille, signed and sealed
+  - `E-apostil` is not working correctly by the moment (15/05/2024), sign and seals are missing, also it lacks some TR characters, so refrain from using it. Also the officials in the courthouse don't recommend it. Guaranteed way is obtaining physical copy.
+  - To acquire it:
+    1. Go to your local courthouse
+    2. Get your criminal record certificate from the corresponding desk. They provide it in any language you want. Get both English and Portuguese.
+    3. Now you have to get it apostilled. For this, get a copy of your ID card.
+    4. Go to the corresponding room (in the courthouse) for acquiring apostille. Give your criminal record certificates and your ID card photocopy.
+    5. They'll most probably tell you to come tomorrow.
+    6. Go and collect your documents. Check the signature, stamps and seals. Done.
 
 - Proof of address in country of origin `[RELO]` `[GUID]`
   - To acquire it (either one):
@@ -112,54 +134,108 @@ D3 visa is for highly skilled professionals
       - Download the document
       - Get it translated to Portuguse
       - Get it apostilled
-     
-
-- Criminal record certificate `[EMBA]` `[GUID]` `[RELO]`
-  - Has to be with apostille, signed and sealed
-  - `E-apostil` is not working correctly by the moment (15/05/2024), sign and seals are missing, also it lacks some TR characters, so refrain from using it. Also the officials in the courthouse don't recommend it. Guaranteed way is obtaining physical copy.
-  - To acquire it:
-    1. Go to your local courthouse
-    2. Get your criminal record certificate from the corresponding desk. They provide it in any language you want. Get both English and Portuguese.
-    3. Now you have to get it apostilled. For this, get a copy of your ID card.
-    4. Go to the corresponding room (in the courthouse) for acquiring apostille. Give your criminal record certificates and your ID card photocopy.
-    5. They'll most probably tell you to come tomorrow.
-    6. Go and collect your documents. Check the signature, stamps and seals. Done.
-   
-
-- Travel medical insurance with 30k EUR coverage `[EMBA]` `[GUID]` `[RELO]`
-  - Has to be valid for 122 days, should start 1 day before the designated travel date
 
 - Higher education diploma `[EMBA]` `[RELO]`
+  - It has to be related to the field you're going to be working, otherwise it doesn't suffice for D3, you can apply for D1
   - Like all other documents, it has to be translated. Portuguese is preferred.
-  - Its not clear for the order of approvals and translations, Embassy has an ambiguous description. Some translators claim its the first(1), others claim its the second(2) order. For example, Italy expect the order 1 to be done, otherwise they don't recognize. For Portugal, there is no clear information. But the first one is more guaranteed to be accepted, it won't hurt. Just a little more expensive. Two possible orderings:
+  - It's not clear for the order of approvals and translations, Embassy has an ambiguous description. Some translators claim its the first(1), others claim its the second(2) order. For example, Italy expect the order 1 to be done, otherwise they don't recognize. For Portugal, there is no clear information. But the first one is more guaranteed to be accepted, it won't hurt. Just a little more expensive. Two possible orderings:
     1. Notary->Apostille->Translation->Notary->Apostille
     2. Translation->Notary->Apostille
   - It should be done around 1-2 work days
   - Notary approval/seal costs for the original diploma (just as is) around 350~ TL at the moment of writing (17/05/2024)
   - Notary approval/seal cost for the translated and apostilled diploma is around 1125~ TL (21/05/2024)
 
-- Flight ticket reservation `[EMBA]` `[GUID]`
+- Passport `[RELO]` `[EMBA]` `[GUID]`
+  - (valid for at least 1 year)
 
+- Photocopy of passport `[EMBA]` `[GUID]`
+  - ID page
+  - Visa page(s) that are not empty
+  - Other pages that has signature or stamp
+  - `[GUID]` claims it has to be notarized
 
 - CV `[RELO]`
   - Translate it to Portuguese
   - No need for notary or apostille,you may simply translate it via conventional tools (google translate, google docs auto translate etc.)
   - Print it out
   - Sign it
-  - Scan it
+  - Scan it (for yourself, to keep a digital copy)
 
-- Authorization to consult criminal background in Portugal `[RELO]`
-  - Essentially allows Portuguese police to perform criminal background search on you
-  - Has to be signed
- 
-- Applicant letter (cover letter) `[RELO]` `[GUID]` 
-  - A document indicating your the purpose of your application
-  - Has to be signed
- 
-- Visa fee in cash `[EMBA]` `[RELO]` `[GUID]` 
-  - In local currency, Turkish Lira if applying from Turkey.
-  - Equivalent of €90
-  - Paid in cash
+- Power of Attorney (POA) `[RELO]` 
+  - Only if you have an immigration lawyer
+  - For consular services, VFS, visa application, AIMA services, residency permit application 
+
+- Solicitor Letter to the consulate `[RELO]`
+  - Your immigration attorney/lawyer's letter designated for the consulate.
+  - Basically includes/answers:
+    - How you're qualified for "D3 Highly qualified professional" visa?
+    - What's the proof of your qualification?
+    - Bunch of references to the exact laws
+    - Who is the applicant/client?
+    - Why the applicant/client making this application?
+    - Underlines what is requested from the consulate
+    - Present's his/her self as available to be contacted
+
+- Travel medical insurance with 30k EUR coverage `[EMBA]` `[GUID]` `[RELO]`
+  - Has to be valid for 122 days, should start 1 day before the designated travel date
+
+- Flight ticket reservation `[EMBA]` `[GUID]` `[RELO]`
+  - Try to book direct flight into Portugal, otherwise there'll be additional steps to be taken or certain cumbersome requirements
+    - `[RELO]` says: "If the entry is done in another Schengen country, it should be done the entry declaration within 3 days of arrival in PT, at the immigration Office (AIMA); this is a mandatory step"
+
+- Proof of accommodation in Portugal `[EMBA]` `[RELO]` `[GUID]`
+  - Hotel reservation
+  - Lease contract
+  - Has to be for at least 4 months (120 days). The more, the merrier
+
+- Visa application fee `[EMBA]` `[RELO]` `[GUID]`
+  - In cash, in native currency (TRL)
+  - Equivalent of €90, conversion rate is unknown so be prepared
+  - 441 TL indicated by the embassy, at the last time it was updated
+  - Carry sufficient banknotes and coins, as you have to provide the exact amount
+
+
+
+
+#### File #2
+Auxiliary documents, supportive material and backups. These will be used only when needed/asked for. Optional.
+
+- Photocopy of previous visas `[EMBA]`
+- Previous passport that may've expired
+- Birth certificate
+  - You may obtain in multi-language form from the population directorate
+  - Needs to be apostilled
+- Proof of document for your previous job
+  - Indicating work period or last title
+- Bank transactions of the last 6 months
+  - As a rule of thumb, it should be translated. Though it is likely the transactions are more than 10 pages with a load of words, it will be hefty to get them translated.
+- Photocopy of Diploma supplement
+  - Diploma supplement is explained in another section, keep reading
+- Photocopy of expired/previous passport's ID page
+  - It would be better to have it notarized
+- Additional copies of visa and passport type photographs, identical
+
+#### File #3
+
+Original documents and materials. **The** originals. Embassy indicates originals of the documents should also be present at the visa appointment.
+
+- Higher education diploma
+- Diploma supplement
+  - Diploma supplement is usually handed to you when you receive your diploma
+  - It basically explains the education system/structure of the country where you took that program
+  - It also includes the courses, your scores for each of them, and GPA
+  - Contains information about the program you've completed
+  - Usually compliant with a general format such as UNESCO/CEPES or Bologna.
+  - It is good to have it since it essentially proves your qualification and accredited compatibility of it.  
+- Expired/previous passport 
+
+
+
+
+
+
+
+
 
 ## Appendix/misc
 
