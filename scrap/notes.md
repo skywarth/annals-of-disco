@@ -176,3 +176,5 @@ https://deviq.com/ (secondary resource for design patterns)
 Prenuptial agreements
 
 https://babylonbee.com
+
+Native American vision quest
