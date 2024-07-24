@@ -34,7 +34,7 @@
  - DD themed PR narrator
  - Money relativity calc
  - Guestbook
-
+ - OSINT pers locator
  - mobile game name generator
  - Markdown merger/splitter
  - Markdown cypher
