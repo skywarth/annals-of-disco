@@ -1,3 +1,20 @@
+## Virility
+`vuh-ri-li-ti`
+
+Late middle ages (1500s) French origin, `virilité`, and it can be traced back to it's Latin origins before that: `virilitas`. It's usage peaked around 1920s, then steadily declined until recently it was picked up again but the society, increasing after 1980s, probably to counter the decline of masculinity.
+
+It comes from proto-indo-european root word `wi-ro-*, meaning *man*.
+
+The state of being virile. Used for emphasizing manly qualities, masculinity. It also can be used to indicate a man's ability to reproduce, procreate, fertilify. It's all about masculine traits such as strength, charisma, vigor.
+
+Opposite is femininity.
+
+*I'm an aspect of virility, beacon of masculinity, potent in every way.*
+
+*Virility alone will not suffice to charm a decent woman like myself...*
+
+
+
 ## Meticulous
 `me-tic-cul-u-lus`
 
