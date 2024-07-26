@@ -6,6 +6,18 @@ D3 visa is for highly skilled professionals
 - Requires higher education diploma or 5-6 years of experience. Although as of late, immigration office is tend to decline no-diploma applications that rely solely on work experience
 - If applying with promise of contract (means no contract yet, maybe just offer), then 10k EUR in savings
 - Since this is intended for more than 1 year stay, it is a **national visa**
+- The visa (once you obtain it) stamped on your passport will bear the properties
+  - Two entries only, don't leave the country once you're in!
+  - Valid for 120 days (the time to make residency application)
+    - Though this can be extended by the government, since AIMA is overwhelmed with applications and has a backlog of 400K+ applications, [news post](https://worktugal.substack.com/p/portugal-immigration-documents-extension) about this. It was recently extended to one year for all those that posses the visa/documents.
+
+## Visa guides
+
+These are guides for all types of visas, not limited to D3.
+
+- https://www.migrun.tech/portugal/d3
+- https://medium.com/@furkankadioglu/portekize-göç-rehberi-d7-d8-nomad-vizesi-için-detaylı-anlatım-d8be8830012b
+- https://www.alperden.net/portekiz-vizesi-nasil-basvuru-yaptim-ve-vize-aldim/
 
 ## Application 
 
@@ -16,30 +28,32 @@ D3 visa is for highly skilled professionals
 - `[EMBA]`: Indicated by the embassy
 - `[GUID]`: Indicated by guides online
 
-### Application method
+### Obtaining visa appointment
+
+- Swiftly obtain a visa appointment as soon as you have a confirmation or a binding document (contract, invitation letter etc.)
+  - Because available appointments dates are usually so late
+  - Last time I checked, there were free slots starting from 5 months from now
 - Many countries other than Turkey may request appointment via VFS Global
-- Originally, you may request an appointment at the embassy via emailing this address `sconsular.ankara@mne.pt`
+- ~~Originally, you may request an appointment at the embassy via emailing this address `sconsular.ankara@mne.pt`, but now it is invalid.~~
 - However, at the moment of writing (19/05/2024) embassy website indicates you may get appointment from the e-visa platform
   - https://pedidodevistos.mne.gov.pt/VistosOnline/
   - Interestingly, this announcement wasn't on the website a few days ago? Check the [wayback machine](https://web.archive.org/web/20230812092053/https://ancara.embaixadaportugal.mne.gov.pt/tr/konsolosluk-bolumu/genel-bilgi) for proof.
 - `[RELO]` routes you to apply to e-visa first for appointment (and application form), then email the embassy for appointment
-- In case of late appointment, or trouble getting any appointment at all. Consult your lawyers to harass them a bit.
+- In case of late appointment, or trouble getting any appointment at all. Consult your lawyers to kindly harass them a bit.
 
-### Common
+### Documents
+
 - All documents must be in A4 size. For those documents bigger than A4, photocopy them into A4
 - No paperclips, pins, folders
 - No lamination for any document
 - **All documents** must be translated to English or Portuguese by a sworn translator. Although Portuguese is preferred, it could be processed faster.
 - If you bring a photocopy of a document, bring the original as well
 - If you're not sure where to get an apostille for a document, advise to the closest district governorship. They are responsible for applying apostille to documents. Apostilles are free of charge, don't forget that! Some translators might try to charge hefty sums for it.
-
-### Documents
-
 - Establish a new, empty folder because there is going to be a throng of documents.
 - Documents are separated into three categories, each category should be grouped in a file, contained in the folder. Files/categories follows as:
-  - File #1: Documents to be handed to the consulate
-  - File #2: Auxillary documents, supportive material
-  - File #3: Original documents and materials
+  - [File #1](#file-1): Documents to be handed to the consulate
+  - [File #2](#file-2): Auxiliary documents, supportive material
+  - [File #3](#file-3): Original documents and materials
 
 #### File #1
 
@@ -130,7 +144,7 @@ These are the documents that are to be handed to the consulate. Regardless of th
     - Certificate of residence (`ikametgah`)
       - Advise to e-devlet
       - Select the `Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Sorgulama` service
-      - Fill the form and declare that its gonna be given to Portuguese Embassy
+      - Fill the form and declare that it's gonna be given to Portuguese Embassy
       - Download the document
       - Get it translated to Portuguse
       - Get it apostilled
@@ -153,6 +167,8 @@ These are the documents that are to be handed to the consulate. Regardless of th
   - Visa page(s) that are not empty
   - Other pages that has signature or stamp
   - `[GUID]` claims it has to be notarized
+
+- Photocopy of ID `[GUID]`
 
 - CV `[RELO]`
   - Translate it to Portuguese
@@ -229,11 +245,13 @@ Original documents and materials. **The** originals. Embassy indicates originals
   - It is good to have it since it essentially proves your qualification and accredited compatibility of it.  
 - Expired/previous passport 
 
+### Attending the visa appointment
 
-
-
-
-
+- You'll be instructed to leave your belongings at the security, you'll be given a number/ticket to get them back
+- You'll be prompted to fill KVKK forms
+- Documents needs to be ordered per guideline, order them properly
+- Consulate will ask for the purpose of your application, maybe some basic details about you as well
+- You might be prompted to have your photo taken, as well as fingerprint
 
 
 
