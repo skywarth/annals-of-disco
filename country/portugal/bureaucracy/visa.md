@@ -2,7 +2,7 @@
 
 D3 visa is for highly skilled professionals
 
-- Salary at least 1.5 times the national minimum wage
+- Salary at least 1.5 times the national minimum wage (€1800 at the time of writing 27/07/2024)
 - Requires higher education diploma or 5-6 years of experience. Although as of late, immigration office is tend to decline no-diploma applications that rely solely on work experience
 - If applying with promise of contract (means no contract yet, maybe just offer), then 10k EUR in savings
 - Since this is intended for more than 1 year stay, it is a **national visa**
@@ -10,14 +10,7 @@ D3 visa is for highly skilled professionals
   - Two entries only, don't leave the country once you're in!
   - Valid for 120 days (the time to make residency application)
     - Though this can be extended by the government, since AIMA is overwhelmed with applications and has a backlog of 400K+ applications, [news post](https://worktugal.substack.com/p/portugal-immigration-documents-extension) about this. It was recently extended to one year for all those that posses the visa/documents.
-
-## Visa guides
-
-These are guides for all types of visas, not limited to D3.
-
-- https://www.migrun.tech/portugal/d3
-- https://medium.com/@furkankadioglu/portekize-göç-rehberi-d7-d8-nomad-vizesi-için-detaylı-anlatım-d8be8830012b
-- https://www.alperden.net/portekiz-vizesi-nasil-basvuru-yaptim-ve-vize-aldim/
+- You may obtain citizenship in 5 years of residency
 
 ## Application 
 
@@ -54,17 +47,17 @@ These are guides for all types of visas, not limited to D3.
   - [File #1](#file-1): Documents to be handed to the consulate
   - [File #2](#file-2): Auxiliary documents, supportive material
   - [File #3](#file-3): Original documents and materials
+- Once submitted, all documents **handed** to the consulate will be gone, cannot be retrieved regardless of the outcome. Only the passport will be given back to you. 
 
 #### File #1
 
-These are the documents that are to be handed to the consulate. Regardless of the outcome of the visa application, documents in this file will be lost, won't be recovered once submitted, except for the passport alone. 
-
-
+These are the documents that are to be handed to the consulate. Regardless of the outcome of the visa application, documents in this file will be lost, won't be recovered once submitted, except for the passport alone.
 
 - Visa type photographs `[EMBA]` `[GUID]` `[RELO]`
   - Total of two according to `[RELO]`, though `[GUID]` claims it should be four, so be prepared
   - 35x45mm
   - biometric
+  - non-smiling, no hat/cap, no glasses, no scarf except for religious reasons
   - white background
   - Taken in the last 6 months
   - Indicate the reason you're taking this photo to the photographer, they know the requirements well
@@ -80,7 +73,6 @@ These are the documents that are to be handed to the consulate. Regardless of th
   - signed and sealed
   - Has to be translated to  English or Portuguese, if it's not in these languages, like any other document
   - Notary or apostille is not necessary
-
 
 - Bank statement `[EMBA]`
   - at least 3 months
@@ -144,7 +136,7 @@ These are the documents that are to be handed to the consulate. Regardless of th
     - Certificate of residence (`ikametgah`)
       - Advise to e-devlet
       - Select the `Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Sorgulama` service
-      - Fill the form and declare that it's gonna be given to Portuguese Embassy
+      - Fill the form and declare that it's going to be given to Portuguese Embassy
       - Download the document
       - Get it translated to Portuguse
       - Get it apostilled
@@ -202,13 +194,15 @@ These are the documents that are to be handed to the consulate. Regardless of th
 - Proof of accommodation in Portugal `[EMBA]` `[RELO]` `[GUID]`
   - Hotel reservation
   - Lease contract
-  - Has to be for at least 4 months (120 days). The more, the merrier
+  - Has to be for at least 4 months (120 days). The more, the merrier. Recommended amount is 6 months.
+    - Ministry of Foreign Affairs of Portugal indicates that 4 month is sufficient 
 
 - Visa application fee `[EMBA]` `[RELO]` `[GUID]`
   - In cash, in native currency (TRL)
   - Equivalent of €90, conversion rate is unknown so be prepared
   - 441 TL indicated by the embassy, at the last time it was updated
   - Carry sufficient banknotes and coins, as you have to provide the exact amount
+  - Some `[GUID]` claim national visa applications are free
 
 
 
@@ -247,15 +241,40 @@ Original documents and materials. **The** originals. Embassy indicates originals
 
 ### Attending the visa appointment
 
+- Be present at the time of the appointment 
+  - Address of the consulate **(always check consulate's website for up-to-date information!)**: Kırlangıç Cad. n.º 39 - Gaziosmanpaşa (GOP), Çankaya - 06700 Ankara
+  - You should be at the consulate **at least** 1 hour early, though I recommend being there at 9AM regardless of your appointment time
+- Everyone who has appointment will be taken in at the same time, regardless of appointment time slot
 - You'll be instructed to leave your belongings at the security, you'll be given a number/ticket to get them back
 - You'll be prompted to fill KVKK forms
 - Documents needs to be ordered per guideline, order them properly
 - Consulate will ask for the purpose of your application, maybe some basic details about you as well
-- You might be prompted to have your photo taken, as well as fingerprint
+- You might be prompted to have your photo taken, as well as fingerprints
+- You'll be asked how you want to receive back your passport:
+  1. Via shipment to your address
+     - You'll have to fill a UPS form
+     - It'll be delivered to the address in 2-3 business days
+  2. In person
+     - You'll have to personally visit the embassy once more when it is concluded
+
+### Result of visa application
+
+- Consulate's legal decision time is up to 60 days
+- Consulate has the right to request additional documents that are not officially listed beforehand
+- Result of your application will be relayed to you via e-mail
+- Following the application, you can collect your passport by the method you choose earlier
 
 
 
 ## Appendix/misc
+
+### Visa guides
+
+These are guides for all types of visas, not limited to D3.
+
+- https://www.migrun.tech/portugal/d3
+- https://medium.com/@furkankadioglu/portekize-göç-rehberi-d7-d8-nomad-vizesi-için-detaylı-anlatım-d8be8830012b
+- https://www.alperden.net/portekiz-vizesi-nasil-basvuru-yaptim-ve-vize-aldim/
 
 ### Requesting appointment from the embassy
 
