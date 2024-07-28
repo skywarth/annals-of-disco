@@ -184,3 +184,5 @@ Bulletin board system (BBS, a server tech)
 Boxflex (punch bag)
 
 Calvinist
+
+Aho–Corasick algorithm
