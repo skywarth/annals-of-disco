@@ -23,6 +23,11 @@ D3 visa is for highly skilled professionals
 
 ### Obtaining visa appointment
 
+- Visa appointment is obtained from [E-visa platform](https://pedidodevistos.mne.gov.pt/VistosOnline/)
+  - If you ever login, don't forget to logout when you're done. **Because system allows only one active login session!** If you forget to logout and close the tab/window, then you may not login for some hours until your session is cleared.
+  - The appointment date selection/change page can be opened once every 12 hours. So be very careful when you open it, once you navigate to another page or close it, you will not be able to open that page again for 12 hours.
+  - It's a clunky system and will make you quite frusturated and nervous, be prepared.
+  - Only the days from Monday to Thursday (inclusive) are available to be reserved, and for certain times.
 - Swiftly obtain a visa appointment as soon as you have a confirmation or a binding document (contract, invitation letter etc.)
   - Because available appointments dates are usually so late
   - Last time I checked, there were free slots starting from 5 months from now
@@ -244,12 +249,17 @@ Original documents and materials. **The** originals. Embassy indicates originals
 - Be present at the time of the appointment 
   - Address of the consulate **(always check consulate's website for up-to-date information!)**: Kırlangıç Cad. n.º 39 - Gaziosmanpaşa (GOP), Çankaya - 06700 Ankara
   - You should be at the consulate **at least** 1 hour early, though I recommend being there at 9AM regardless of your appointment time
+ 
+- Security
+  - There are so many good comments on the security atthe gate, people claim she is really helpful.
+  - You'll be instructed to leave your belongings at the security, you'll be given a number/ticket to get them back
+  - Security will do the preliminary checks of your documents
+- Do not do loitering! It is not special to this embassy, you cannot loiter/idle around embassies. Don't attempt to sit on the curb right in front of it.
 - Everyone who has appointment will be taken in at the same time, regardless of appointment time slot
-- You'll be instructed to leave your belongings at the security, you'll be given a number/ticket to get them back
 - You'll be prompted to fill KVKK forms
 - Documents needs to be ordered per guideline, order them properly
 - Consulate will ask for the purpose of your application, maybe some basic details about you as well
-- You might be prompted to have your photo taken, as well as fingerprints
+- You might be prompted to have your photo taken if the photos you brought are not up to par with the standard. As well as fingerprints.
 - You'll be asked how you want to receive back your passport:
   1. Via shipment to your address
      - You'll have to fill a UPS form
