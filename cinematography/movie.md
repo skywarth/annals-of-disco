@@ -114,16 +114,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Johnny English (2003) (Mr Bean as MI7 agent, queen abdicating, evil frenchman, incompetent agent. Dull, boring, tasteless, designated for quarter-wits, uninteresting, upright sloppy, unoriginal, didn't even break a single smile, I was stoic the whole time. Don't waste your time, terrible.)
 - The Descent (2005) (Girl group, hiking, cave exploration, tomgirls, weird cave dwelling creatures, hidden tunnel networks. I mean it's alright, some scenes were full of gore. Some scenes were upright funny to be honest, or ridiculous. And the first 30-45 minutes are just waste of time, it could've been shortened to 5 minute sequence, it doesn't add anything much to the story. It's alright.)
 - The Creator (2023) (AI, robots, synthetics, humans vs robots, nuclear, alternate timeline, controlling electronics remotely by mind, religious ai, USA, New Asia. Surprisingly good. Nowadays sci-fi is just trash, but this one is really decent. Not boring at all. Though narrative is a bit too cliche: "America bad, natives good". Visuals are impressive as well, and the atmosphere is spot-on. Impressive. Good movie)
+- Furiosa: A Mad Max Saga (2024) (Mad Max universe, desert, scrappy vehicles, apocalyptic, vengeance, revenge, torture. I don't think it's as good as Fury Road but it's alright. Those same camera movements and signature effects that are in Fury Road is even more present in this movie. Some scenes were ridiciously full of CGI, it was annoying and distracting. Wish there wasn't this much digital effects, it kinda ruins it. Some really dumb story flows are present, as if they were trying to force a narrative or the connection to Fury Road. My man Rictus and his slightly smarter brother is also in the movie so that brings it up a notch. It's good.)
+- Don't look up (2021) (Apocalypse, end of the world, comet, meteor, astronomy, incompetence, corruption, greed, stupidity, media influence, we live in a society etc etc. DiCaprio killed it, pretty good acting. Narrative & story is spectacular. The sudden momentary cuts to some abstract cutscenes just like you imagine something make it perfect, it is an interesting style, I liked this style. It's pretty realistic to be honest, as for how general public and people in power would react. Good movie)
+- Ghost Dog: The Way of The Samurai (1999) (Assasin, ghetto, samurai culture, ghetto culture, Italians, mob, honor, code, loyalty. Basically a black guy reading and learning about the way of the samurai and embracing it, enacting it in every aspect of his life, meanwhile working as a hitman. Overall, the movie reminded me of Taxi Driver 1976. The POVs, driving around at night in empty streets, witnessing human condition, seeing the evil and wrong in the world, it is so similar in my eye. Movie also emphasizes on the art of absurdity, it is present throughout the movie; it brings a zest, a touch of reality to the movie, clearing the dark mood it otherwise would possess. Forest Whitaker did a fantastic job. Great movie, worth a rewatch.)
+
 
 
 ### Watch later
 
-- Don't look up (2021) (rewatch)
-- Dante's Inferno: An Animated Epic (2010) (rewatch)
 
+- Dante's Inferno: An Animated Epic (2010) (rewatch)
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
-- Ghost Dog: The Way of The Samurai (1999)
 - Wild Tales (2014)
 - Phenomenon (1966)
 - A walk in the sun (1945)
