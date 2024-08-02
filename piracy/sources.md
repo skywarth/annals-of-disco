@@ -19,6 +19,7 @@
 - cartoonhd.app (installation)
 
 ## Pharaoh's grave
+- https://www.reddit.com/r/Piracy/wiki/megathread/
 - unblocked-pw.github.io 
 - unblockit.onl
 
@@ -36,9 +37,15 @@
 - sflix.to
 - 123movie.pw (moved)
 - ~~123moviesfree.mx~~ (down)
-- ~~fmoviesz.to~~ (down)
-- fmovies24.to
+
+
+- Fmovies
+  - ~~fmoviesz.to~~ (down)
+  - ~~fmovies24.to~~ (down)
 - movie4kto.net
 - themoviearchive.site
-- lekuluent.com
+- Lelukent
+  - lekuluent.com
+  - lekulumovies.com
 - hydrahd.com
+- braflix.ru
