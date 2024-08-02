@@ -117,19 +117,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Furiosa: A Mad Max Saga (2024) (Mad Max universe, desert, scrappy vehicles, apocalyptic, vengeance, revenge, torture. I don't think it's as good as Fury Road but it's alright. Those same camera movements and signature effects that are in Fury Road is even more present in this movie. Some scenes were ridiciously full of CGI, it was annoying and distracting. Wish there wasn't this much digital effects, it kinda ruins it. Some really dumb story flows are present, as if they were trying to force a narrative or the connection to Fury Road. My man Rictus and his slightly smarter brother is also in the movie so that brings it up a notch. It's good.)
 - Don't look up (2021) (Apocalypse, end of the world, comet, meteor, astronomy, incompetence, corruption, greed, stupidity, media influence, we live in a society etc etc. DiCaprio killed it, pretty good acting. Narrative & story is spectacular. The sudden momentary cuts to some abstract cutscenes just like you imagine something make it perfect, it is an interesting style, I liked this style. It's pretty realistic to be honest, as for how general public and people in power would react. Good movie)
 - Ghost Dog: The Way of The Samurai (1999) (Assasin, ghetto, samurai culture, ghetto culture, Italians, mob, honor, code, loyalty. Basically a black guy reading and learning about the way of the samurai and embracing it, enacting it in every aspect of his life, meanwhile working as a hitman. Overall, the movie reminded me of Taxi Driver 1976. The POVs, driving around at night in empty streets, witnessing human condition, seeing the evil and wrong in the world, it is so similar in my eye. Movie also emphasizes on the art of absurdity, it is present throughout the movie; it brings a zest, a touch of reality to the movie, clearing the dark mood it otherwise would possess. Forest Whitaker did a fantastic job. Great movie, worth a rewatch.)
+- Dante's Inferno: An Animated Epic (2010) (hell, dante's hell/inferno, crusade, knight, descending in hell, devil, sin, grave sin, wife, cheating, vengance, redemption. A crusader finds his wife dead, descends into the hell to find her and redeem her soul. Pretty good, I enjoyed it a lot. Graphics are not the greatest but the voice acting is phenomenal)
+- The Soldier (1998) (Kurt Russel, genetically modified soldiers, genetical enchanchement, clone soldiers, hard training, intensive training, no mercy, abandon. A line of soldiers are being replaced by genetically altered new line of soldiers claiming the new ones are superior in every aspect. But one soldier proves them wrong. It's good.)
 
 
 
 ### Watch later
 
-
-- Dante's Inferno: An Animated Epic (2010) (rewatch)
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
 - Wild Tales (2014)
 - Phenomenon (1966)
 - A walk in the sun (1945)
-- The Soldier (1998)
 - Passengers (2016)
 - Dark Angel (1990)
 - Lion of the Desert (1981)
