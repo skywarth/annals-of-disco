@@ -42,6 +42,7 @@ These will be categorized and put into separate files in time.
 - Sao Jorge Castle (Lisbon). Buy the tickets online! Line is just endless.
 - [!] Look out for "miradouro" signs, they indicate vantage points for great view
 - Sintra (not the 'portela de sintra', it is slightly away from the main attraction). You may buy attraction tickets online, and you would get 15% discount. But you must buy it in 3 days advance. https://bilheteira.parquesdesintra.pt/home
+- Devil's bridge (Ponte da Mizarela), located in Braga
 
 ### Local salaries and living conditions
 
