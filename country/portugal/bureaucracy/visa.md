@@ -246,24 +246,55 @@ Original documents and materials. **The** originals. Embassy indicates originals
 
 ### Attending the visa appointment
 
+> These details for Portuguese embassy in Ankara
+
 - Be present at the time of the appointment 
   - Address of the consulate **(always check consulate's website for up-to-date information!)**: Kırlangıç Cad. n.º 39 - Gaziosmanpaşa (GOP), Çankaya - 06700 Ankara
-  - You should be at the consulate **at least** 1 hour early, though I recommend being there at 9AM regardless of your appointment time
+  - You should be at the consulate **at least** 1 hour early, though I recommend being there at 8AM regardless of your appointment time. Consulate opens at 9AM
  
 - Security
-  - There are so many good comments on the security atthe gate, people claim she is really helpful.
+  - There are so many good comments on the security at the gate, people claim she is really helpful.
   - You'll be instructed to leave your belongings at the security, you'll be given a number/ticket to get them back
-  - Security will do the preliminary checks of your documents
-- Do not do loitering! It is not special to this embassy, you cannot loiter/idle around embassies. Don't attempt to sit on the curb right in front of it.
+    - They only took electronics and ID card, nothing else
+  - Security (in the premises, indoors security) will do the preliminary checks of your documents
+- Do not do loitering! It is not exquisite to this embassy, you cannot loiter/idle around embassies. Don't attempt to sit on the curb right in front of it.
 - Everyone who has appointment will be taken in at the same time, regardless of appointment time slot
-- You'll be prompted to fill KVKK forms
-- Documents needs to be ordered per guideline, order them properly
-- Consulate will ask for the purpose of your application, maybe some basic details about you as well
-- You might be prompted to have your photo taken if the photos you brought are not up to par with the standard. As well as fingerprints.
+- Be careful on your wording and your behaviors around and inside the embassy, don't talk unless you have to, don't state personal opinions and believes
+- Preliminary checks
+  - You'll be prompted to fill GDPR/KVKK forms
+  - Documents needs to be ordered per guideline, order them properly
+- About the application form
+  - Either fill a new form or do redaction on your existing form. Redaction is simply crossing the text/info with a line and writing a correct data
+  - If you got the application form from e-visa, you'll have to alter certain sections, this is due to the fact that at the time of applying for visa appointment certain details and info might not be available (accommodation, travel date etc.)
+    - I had to fill/alter (as far as I can recall): 
+      - Fields about inviting company/temporary accommodation (section 30)
+      - National ID number
+      - Home address (was missing district and city)
+      - Estimated arrival and estimated departure
+      - Place and date section (at the end of the form), altered the date to the of the appointment
+  
+  - Application date on the form has to be the time of the appointment
+  - Revise the travel dates and days of visa requested on the form, you most probably need to change it
+  - Don't forget to input your national ID number
+  - Sign the form 
+- Inside the premises there is a WC and a drinkable water dispenser
+- Interview
+  - This is the actual visa application part, the visa desk, the consulate
+  - Consulate will ask for the purpose of your application, maybe some basic details about you as well
+  - State the visa type you're applying for and the purpose of your visit correctly and clearly
+  - Consulate may ask details about your documents to cross validate you do know the details
+  - They may also do small talks and chit-chats, I mean they are human beings after all
+  - You might be prompted to have your photo taken if the photos you brought are not up to par with the standard. As well as fingerprints.
+    - They took photos of every applicant, no fingerprint was taken
+  - D3 visa application is subject to visa fee of €90 in local currency cash, bring sufficient banknotes and coins. Though they change if they have it.
+  - Consul didn't ask specific documents or documents categories, he simply said: "give me the documents". So be prepared.
+  - Overall it was a pleasant experience for me, they weren't rude or anything. Pretty easy going, actually. 
+
 - You'll be asked how you want to receive back your passport:
   1. Via shipment to your address
-     - You'll have to fill a UPS form
-     - It'll be delivered to the address in 2-3 business days
+     - You'll have to fill a UPS form. It is a carbon form with three copies. One copy is for you to keep, another is for the security, another is to be handed to the visa desk
+     - On the UPS form, it is indicated you'll pay for the shipment on delivery, you won't make any payment for this during the application
+     - It'll be delivered to the address in 2-3 business days once the application is concluded
   2. In person
      - You'll have to personally visit the embassy once more when it is concluded
 
