@@ -194,3 +194,5 @@ https://f5bot.com/
 https://dev.to/wasp/how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3li9?context=digest
 
 friend.com (dystopian nightmare)
+
+Chancenkarte
