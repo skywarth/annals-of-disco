@@ -24,7 +24,7 @@ D3 visa is for highly skilled professionals
 ### Obtaining visa appointment
 
 - Visa appointment is obtained from [E-visa platform](https://pedidodevistos.mne.gov.pt/VistosOnline/)
-  - If you ever login, don't forget to logout when you're done. **Because system allows only one active login session!** If you forget to logout and close the tab/window, then you may not login for some hours until your session is cleared.
+  - If you ever log in, don't forget to log out when you're done. **Because system allows only one active login session!** If you forget to logout and close the tab/window, then you may not login for some hours until your session is cleared.
   - The appointment date selection/change page can be opened once every 12 hours. So be very careful when you open it, once you navigate to another page or close it, you will not be able to open that page again for 12 hours.
   - It's a clunky system and will make you quite frusturated and nervous, be prepared.
   - Only the days from Monday to Thursday (inclusive) are available to be reserved, and for certain times.
@@ -38,11 +38,12 @@ D3 visa is for highly skilled professionals
   - Interestingly, this announcement wasn't on the website a few days ago? Check the [wayback machine](https://web.archive.org/web/20230812092053/https://ancara.embaixadaportugal.mne.gov.pt/tr/konsolosluk-bolumu/genel-bilgi) for proof.
 - `[RELO]` routes you to apply to e-visa first for appointment (and application form), then email the embassy for appointment
 - In case of late appointment, or trouble getting any appointment at all. Consult your lawyers to kindly harass them a bit.
+- Embassy in Ankara receives about 7k emails a day (learnt it first hand in the embassy), so it might be difficult to get a response by email
 
 ### Documents
 
 - All documents must be in A4 size. For those documents bigger than A4, photocopy them into A4
-- No paperclips, pins, folders
+- No paperclips, pins, folders (at the time of delivering the documents to the embassy)
 - No lamination for any document
 - **All documents** must be translated to English or Portuguese by a sworn translator. Although Portuguese is preferred, it could be processed faster.
 - If you bring a photocopy of a document, bring the original as well
@@ -200,7 +201,9 @@ These are the documents that are to be handed to the consulate. Regardless of th
   - Hotel reservation
   - Lease contract
   - Has to be for at least 4 months (120 days). The more, the merrier. Recommended amount is 6 months.
-    - Ministry of Foreign Affairs of Portugal indicates that 4 month is sufficient 
+    - Ministry of Foreign Affairs of Portugal indicates that 4 month is sufficient
+
+- National ID card photocopy `[EMBA]` 
 
 - Visa application fee `[EMBA]` `[RELO]` `[GUID]`
   - In cash, in native currency (TRL)
@@ -264,14 +267,15 @@ Original documents and materials. **The** originals. Embassy indicates originals
   - You'll be prompted to fill GDPR/KVKK forms
   - Documents needs to be ordered per guideline, order them properly
 - About the application form
+  - Do not touch the right hand side column of the form, that is for the consulate to fill
   - Either fill a new form or do redaction on your existing form. Redaction is simply crossing the text/info with a line and writing a correct data
   - If you got the application form from e-visa, you'll have to alter certain sections, this is due to the fact that at the time of applying for visa appointment certain details and info might not be available (accommodation, travel date etc.)
     - I had to fill/alter (as far as I can recall): 
       - Fields about inviting company/temporary accommodation (section 30)
-      - National ID number
-      - Home address (was missing district and city)
-      - Estimated arrival and estimated departure
-      - Place and date section (at the end of the form), altered the date to the of the appointment
+      - National ID number (section 11)
+      - Home address (section 19) (was missing district and city)
+      - Estimated arrival and estimated departure (section 27)
+      - Place and date section (at the end of the form), altered the date to the date of the appointment
   
   - Application date on the form has to be the time of the appointment
   - Revise the travel dates and days of visa requested on the form, you most probably need to change it
