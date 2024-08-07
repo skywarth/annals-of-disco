@@ -33,6 +33,17 @@ You cannot easily send funds to a European bank from a third-country bank, even 
   - For example, say you arrived to Portugal. You inserted your bank card (say of a bank from Turkey) to the ATM. Let's assume you have three accounts defined in that card: TL (native to the card's bank), USD and EUR. When you withdrawal, **it will ONLY and solely interact with the native currency account**, in this scenario TL. Even though you're in Portugal and trying to withdrawal Euro, it will not withdraw from the EUR account.
   - So if your native (native to the card's bank country) currency account is empty, but you have 1000€ in EUR account, you cannot withdraw any money. If you need to, then sell/exchange from EUR account into the native currency account.
 
+### *Maquina de lavar roupa* solution
+
+- Keep your money in your third-country non-EU bank, in a Euro currency account
+- Activate foreign currency payment on your credit card (third-country bank's credit card)
+- Check your credit card limit, increase if you have to. At least 2000€ is safe, 3000€ and above is recommended.
+- Pay everything with the credit card
+- Pay your credit card debt **using the euro currency account,** so you basically pay euro debt with euro funds, using your bank's mobile app or internet app
+- Do not ever spend cash on daily expenditures. Always use the credit card for payments whenever you can. If you ever receive/earn cash, deposit it into your Portuguese bank account, for example your wage pays.
+- This way you slowly but steadily ~~*launder*~~ move your funds into the country. Safe, secure and legal. But seriously though, it is in legal frame AFAIK.
+
+
 ### Carry cash in person
 
 - You are allowed to carry money/gold/check up to 10K €
@@ -52,13 +63,21 @@ You cannot easily send funds to a European bank from a third-country bank, even 
   - Though it is said they no longer accept passport and require citizenship card (what? Wouldn't NIF suffice)+
 
 
-## Tax
+## Legal topics and rules for monetary
 
-### NHR (Non-Habitual Residency) Program
+### Cash payment limit
 
-- Started in 2008
-- Foreigners living in Portugal would be excempt from flat income tax for 20%, for 10 years
-- Goal was to make Portugal more attractive to foreign talent and investors
-- It got removed at the end of 2023 (pepe hands)
-- NHR 2.0 (renewed version) only applies to scientific and academic employments, so other high-value professionals are no longer eligible
-- Certified and legal startup employees are also eligible, but they need to be properly recognized 
+In Portugal, there is a cash payment limit defined by law. If you pay above the limit you may be subject to criminal investigation and/or be subject to paying the legal fine.
+
+- Receiving or making payments equal or greater than **3.000€ (or its equivalent in foreign currency)**
+  - Defined and rules so in Article 63-E of the General Taxation Law (amended by Law No 92/2017 of 22 August 2017)
+  - This limit is defined as **10.000€** for non-habitual resident or non-residents, as long as they do not do entrepreneurship activities or acting as a merchant
+  - Paying taxes in cash for amounts greater than 500€ is also forbidden (OK this one is weird, but why tho?)
+  - It is punishable by law and legal fine is ranging from 180€ to 4.500€ for civilian/ordinary people, and 360€ to 9.000€ for legal representatives and legal people.
+  - It is NOT applicable if the transaction occurs between two private person and in a non-commercial context, e.g: lending your friend money is completely fine.
+  - None of these laws and definitions apply to following financial entities:
+    - Those that receive deposits
+    - Providing payment services and solutions
+    - Issue electronic/digital money
+    - Manual exchange transactions
+  - Do not take my word for it, but I find it rather difficult for them to enforce or track this law 
