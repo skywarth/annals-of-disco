@@ -15,6 +15,7 @@ These will be categorized and put into separate files in time.
 ### Second hand shopping
 
 - olx.pt
+- vinted.pt
 
 ### Shopping malls
 - Colombo
