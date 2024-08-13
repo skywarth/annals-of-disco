@@ -12,6 +12,10 @@ These will be categorized and put into separate files in time.
 - continente.pt
 - mercadao.pt
 
+### Second hand shopping
+
+- olx.pt
+
 ### Shopping malls
 - Colombo
 - Amoreiras
