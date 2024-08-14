@@ -72,3 +72,5 @@ https://blog.juanconvers.com/
 https://overthewire.org
 
 https://undesign.learn.uno //Collection of free design tools and resources for makers, developers and designers 
+
+https://ytch.xyz/ //Youtube as conventional TV
