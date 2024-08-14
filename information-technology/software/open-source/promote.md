@@ -4,5 +4,14 @@ Publish platforms:
   - Find relevant subreddits
 - Hackernews (https://news.ycombinator.com/news)
 - Lobsters (https://lobste.rs/)
+  - Private community
+  - Registration is by invite only
 - DevHunt (https://devhunt.org/)
 - ProductHunt (https://www.producthunt.com/)
+- https://www.saashub.com
+  - Ignore, they don't accept submissions for github link projects
+- https://www.libhunt.com
+  - They automatically scan and add OSS projects, so it is most probably already there
+- star-history.com
+  - [Submit your project](https://star-history.com/blog/list-your-open-source-project)
+  - [Guide on getting more stars](https://star-history.com/blog/playbook-for-more-github-stars)
