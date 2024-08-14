@@ -196,3 +196,5 @@ https://dev.to/wasp/how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3
 friend.com (dystopian nightmare)
 
 Chancenkarte
+
+https://eures.europa.eu/index_pt
