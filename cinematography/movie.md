@@ -125,6 +125,8 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - G.I Joe series
+- The Killer (2023)
+- Dragged Across Concrete (2018)
 - The Man Who Saw Tomorrow (1981)
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
