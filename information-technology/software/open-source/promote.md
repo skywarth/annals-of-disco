@@ -17,3 +17,4 @@ Publish platforms:
   - [Guide on getting more stars](https://star-history.com/blog/playbook-for-more-github-stars)
 - https://gitlibrary.club/
   - Easy, just submit
+- Nice guide on [hackernoon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)
