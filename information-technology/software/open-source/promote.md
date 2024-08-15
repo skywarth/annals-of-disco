@@ -15,3 +15,5 @@ Publish platforms:
 - star-history.com
   - [Submit your project](https://star-history.com/blog/list-your-open-source-project)
   - [Guide on getting more stars](https://star-history.com/blog/playbook-for-more-github-stars)
+- https://gitlibrary.club/
+  - Easy, just submit
