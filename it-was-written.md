@@ -31,7 +31,7 @@
  - ~~Publish my first github action~~
  - Artisan credits generator
  - Browser plugin for checking if job posting has visa/relo support
- - DD themed PR narrator
+ - ~~[Darkest Dungeon themed PR narrator](https://github.com/skywarth/darkest-PR)~~
  - Money relativity calc
  - Guestbook
  - OSINT pers locator
