@@ -1,33 +1,4 @@
 
-https://www.run40minutes.com/
-
-Gotta check the active fetch (like signalR) on js, e.g live messaging app:nd 
-
-- n8n (no/low code automation)
-
-- zapier (no/low code automation)
-
-https://github.com/danrl/wifi-probe
-
-https://github.com/brannondorsey/sniff-probes
-
-
-https://ghygen.hi-folks.dev/?template=laravelapp
-
-https://www.dvc.edu/future/steps/new.html
-
-
-https://github.com/danielmiessler/SecLists
-
-https://www.tindie.com/products/stephanelec/mooltipass-mini-ble-authenticator/
-
-Maze Generation Algorithm (https://en.wikipedia.org/wiki/Maze_generation_algorithm)
-
-
-https://themodularbody.com/
-
-
-https://www.youtube.com/channel/UC6IivHdACKC_wDc1kPWidNg
 https://www.youtube.com/watch?v=hVLjCrxKfQM (important)
 https://www.youtube.com/watch?v=JvbIEimqd0Y
 https://back7.co/home/raspberry-pi-recovery-kit
@@ -120,7 +91,6 @@ Prometheus and Bob
 
 imogene
 
-Dead Internet Theory
 
 portunhol
 

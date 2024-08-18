@@ -98,6 +98,7 @@ Use `event:cache` on production to speed things up a bit. Clear 'em when you don
 
 #### CI/CD
 - https://www.laravel-enlightn.com/ (Performance and Security Insight)
+- https://ghygen.hi-folks.dev/ (GitHub actions generator. Both for app and packages. High quality.)
 
 
 
