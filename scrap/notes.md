@@ -1,32 +1,8 @@
 
-https://www.youtube.com/watch?v=hVLjCrxKfQM (important)
-https://www.youtube.com/watch?v=JvbIEimqd0Y
-https://back7.co/home/raspberry-pi-recovery-kit
-https://archive.org/details/military-manuals
-https://evanmeaney.com/_recpi.html
-
-https://evanmeaney.com/currently.html (mindjob)
 
 
 
-A* search algorithm
 
-project ARA (whoever made this project fail, yo mama aint a nice lady)
-
-
-hmm GPG eh, aight
-
-curious.. https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/turkey.md . Quite a lot of data actually. branching in OSINT ?
-
-uhh, you guys are aware that *certain people* are now just rich since bitcoin grew exponentially over the last 10 years. I mean like... bruh. 
-
-https://github.com/rxin/db-readings
-
-https://www.artofmanliness.com/
-
-git tokens getting out of hand
-
-https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke
 
 https://xyproblem.info/
 

@@ -22,9 +22,12 @@ These will be categorized and put into separate files in time.
 - Amoreiras
 - El Corte Ingles
 
+### Hardware, home improvement store
+
+- https://www.leroymerlin.pt/
 
 ### Current agenda and issues
-- Golden visa program really sky rocketed the housing prices, as well as common living expenses. Wages didn't scale accordingly so cost of living is somewhat a problem.
+- Golden visa program really skyrocketed the housing prices, as well as common living expenses. Wages didn't scale accordingly so cost of living is somewhat a problem.
 
 
 ### Culture
@@ -42,6 +45,7 @@ These will be categorized and put into separate files in time.
 ### Transportation
 - Uber is available but prefer the local alternative "Bolt". Bolt is cheaper and more people use it.
 - (Lisbon specific) Trams are really crowded, and usually full of tourists. So just walk you fat ass, work those muscles. 
+- [MetroLisboa](https://www.metrolisboa.pt/en/)
 
 ### Attractions
 - Sao Jorge Castle (Lisbon). Buy the tickets online! Line is just endless.

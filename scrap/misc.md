@@ -1,3 +1,29 @@
+# Grand list of links and resources
+
+- Reading list for understanding databases systems and learning how to build a new one
+  - https://github.com/rxin/db-readings
+
+- Blog about Art of manliness
+  - https://www.artofmanliness.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Unsifted
+
 https://free-for.dev //freebies for developers and open source projects
 
 https://www.noip.com/ //For dynamic ip problem for hosting

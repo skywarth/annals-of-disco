@@ -1,4 +1,6 @@
- # _**So it shall be done**... Or not !_
+ # The List
+
+_**So it is written, so it shall be done**... Or not !_
  
 ## Technical
 
@@ -20,6 +22,10 @@
     - Long polling
     - Push notification (Web push)
     - gRPC
+
+- A* search algorithm
+- GPG
+- 
 
 ### Task
 
@@ -65,6 +71,13 @@
 - Dynamic custom endpoint proxy for transforming endpoint responses into Prometheus Blackbox exporter compliant type
 - Personal Certificate Authority (CA) for TLS
 - Frontend library for punishing unfair use and overdue payment
+- Build a G.E.C.K or Cyberdeck
+  - https://www.youtube.com/watch?v=hVLjCrxKfQM
+  - https://youtu.be/JvbIEimqd0Y?si=tnpaO1YM336U9xPl
+  - https://evanmeaney.com/_recpi.html
+
+- Make it among top GitHub users
+  - https://github.com/gayanvoice/top-github-users
 
 ---
 ///

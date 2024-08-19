@@ -1,6 +1,6 @@
 # Person of interest
 
-## Undiscovered
+## Undiscovered gems
 
 [Casa De Loco](https://www.youtube.com/channel/UC6IivHdACKC_wDc1kPWidNg)
 
