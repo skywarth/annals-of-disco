@@ -25,7 +25,8 @@ _**So it is written, so it shall be done**... Or not !_
 
 - A* search algorithm
 - GPG
-- 
+- CQRS
+  - Though I've learned about it in the past, would hurt to revisit it
 
 ### Task
 
@@ -56,7 +57,7 @@ _**So it is written, so it shall be done**... Or not !_
 - that ray-tracing chars and dot distribution. Incredible algorithm
 - JS package for console proxy
 - Artisan credits generator
-- Browser plugin for checking if job posting has visa/relo support
+- Browser plugin visa/relo
 - Money relativity calc
 - Guestbook
 - OSINT pers locator

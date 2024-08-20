@@ -1,23 +1,3 @@
-
-
-
-
-
-
-https://xyproblem.info/
-
-metaverse could be a great con. Lotsa people jumping in without seeing any PoW or proper demos. And don't tell me some bum-ass VR is proof of that.
-
-Adobe Coldfusion (`*.CFM` extension)
-
-https://2021.stateofjs.com
-
-Six Thinking Hats
-
-
-GFPGAN - nightmare fuel
-
-
 https://dev.to/perigk/how-to-evaluate-if-a-certification-is-worth-it-for-you-4776
 
 Obsidian.md
@@ -26,8 +6,6 @@ web3 and ipfs https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1
 
 https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 
-
-Slavoj Žižek
 
 Machiavellianism (psychology)
 
@@ -45,7 +23,7 @@ Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
 Salting earth
 
-CQRS
+
 
 Lent fasting variations
 
