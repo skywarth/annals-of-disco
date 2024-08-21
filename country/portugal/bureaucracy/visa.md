@@ -26,7 +26,7 @@ D3 visa is for highly skilled professionals
 - Visa appointment is obtained from [E-visa platform](https://pedidodevistos.mne.gov.pt/VistosOnline/)
   - If you ever log in, don't forget to log out when you're done. **Because system allows only one active login session!** If you forget to logout and close the tab/window, then you may not login for some hours until your session is cleared.
   - The appointment date selection/change page can be opened once every 12 hours. So be very careful when you open it, once you navigate to another page or close it, you will not be able to open that page again for 12 hours.
-  - It's a clunky system and will make you quite frusturated and nervous, be prepared.
+  - It's a clunky system and will make you quite frustrated and nervous, be prepared.
   - Only the days from Monday to Thursday (inclusive) are available to be reserved, and for certain times.
 - Swiftly obtain a visa appointment as soon as you have a confirmation or a binding document (contract, invitation letter etc.)
   - Because available appointments dates are usually so late
