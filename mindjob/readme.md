@@ -31,3 +31,5 @@ h@<k3r$ C@rD G.WE (dot) + (plus stands for the prosperous country flag)
 
 - uhh, you guys are aware that *certain people* are now just rich since bitcoin grew exponentially over the last 10 years. I mean like... bruh.
   - Originally written in `notes.md` in 2021
+
+https://creepypasta.fandom.com/wiki/The_Lamp
