@@ -6,7 +6,13 @@
 - Blog about Art of manliness
   - https://www.artofmanliness.com/
 
+- redact.dev
+	- Mass deleting data off more than 40+ services (reddit, twitch, facebook etc.)
 
+- https://github.com/lowlighter/metrics
+	- Incredible resource for GitHub statistics/metrics
+	- For users, organizations and repos
+	- Has ton of different metric options
 
 
 

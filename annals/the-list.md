@@ -8,6 +8,7 @@ _**So it is written, so it shall be done**... Or not !_
 
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
+- Digest [this architecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Maze Generation Algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 - port knocking
 - reverse shell attack
@@ -27,6 +28,7 @@ _**So it is written, so it shall be done**... Or not !_
 - GPG
 - CQRS
   - Though I've learned about it in the past, would hurt to revisit it
+- IPFS
 
 ### Task
 
@@ -91,6 +93,7 @@ _**So it is written, so it shall be done**... Or not !_
 ### Learning
 
 - Criminology
+- Research Machiavellianism (psychology)
 
 ### Task
 

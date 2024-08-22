@@ -8,7 +8,10 @@ hyperborea
 
 https://findsatoshi.com/
 
- 鬼鎮 (Ghosttown) Spirit Simulator 
+diatoms
+- interesting type of plankton
+- They come in various perfect symmetries 
+- Their cell wall is made of silica, which makes them quite unique compared to other organisms. This cell wall is called frustule
 
 stoicism
 

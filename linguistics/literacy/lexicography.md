@@ -1,3 +1,11 @@
+## Yuppie
+`ya-pee`
+
+1980s. Not much of a origin, recent word that popped out into the usage. First printed usage was in 1980 in a Chicago magazine. It is the acronym for "young urban professional".  
+
+*Get that yuppie outta here, it's too much for his stomach.*
+
+*Well there are only yuppies and elderly here, no one to be missed.*
 ## Virility
 `vuh-ri-li-ti`
 
@@ -5,7 +13,7 @@ Late middle ages (1500s) French origin, `virilité`, and it can be traced back t
 
 It comes from proto-indo-european root word `wi-ro-*, meaning *man*.
 
-The state of being virile. Used for emphasizing manly qualities, masculinity. It also can be used to indicate a man's ability to reproduce, procreate, fertilify. It's all about masculine traits such as strength, charisma, vigor.
+The state of being virile. Used for emphasizing manly qualities, masculinity. It also can be used to indicate a man's ability to reproduce, procreate, fertility. It's all about masculine traits such as strength, charisma, vigor.
 
 Opposite is femininity.
 

@@ -1,21 +1,6 @@
 
-//test commit2
 
-
-web3 and ipfs https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1
-
-https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
-
-
-Machiavellianism (psychology)
-
-Diatoms
-
-https://chateau-logic.com/
-
-Robotripping
-
-Yuppies - slang term denoting the market segment of young urban professionals
+[5-sigma certainty](https://www.zmescience.com/science/what-5-sigma-means-0423423/)
 
 Digital Nomad Visa
 
@@ -23,11 +8,8 @@ Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
 Salting earth
 
-
-
 Lent fasting variations
 
-Github profile metrics using actions: lowlighter/metrics
 
 kreuzritter
 
