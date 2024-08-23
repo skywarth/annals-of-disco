@@ -120,11 +120,13 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Dante's Inferno: An Animated Epic (2010) (hell, dante's hell/inferno, crusade, knight, descending in hell, devil, sin, grave sin, wife, cheating, vengance, redemption. A crusader finds his wife dead, descends into the hell to find her and redeem her soul. Pretty good, I enjoyed it a lot. Graphics are not the greatest but the voice acting is phenomenal)
 - The Soldier (1998) (Kurt Russel, genetically modified soldiers, genetical enchanchement, clone soldiers, hard training, intensive training, no mercy, abandon. A line of soldiers are being replaced by genetically altered new line of soldiers claiming the new ones are superior in every aspect. But one soldier proves them wrong. It's good.)
 - Dragged Across Concrete (2018) (cop culture, esprit de corps, cops being laid off, police brutality, Germans(?), professionals, absurd dialogues, multiple questions of morality , Mel Gibson, crooked cops, racism, slightly bad ending, wideeee shots, loooong dull scenes, direct violence with no hesitation. A Zahler classic. I enjoyed every aspect of the robbers, they were intriguing. Director certainly made the movie in his unique flavor, there is some sensation to it that I can't describe. Some scenes were memorable indeed. I think it is barely in exploitation cinema genre. Pretty good movie, I liked it, but you might be bored.)
+- Knock Knock (2015) (two girls, family man, seduction, cheating, crazy, perfect family, being tied down, slight torture, Keanu Reeves, Ana de Armas. It is such a stupid and daft movie, I cannot even put it to words. How can a man not overpower two woman? How dense can you be, how gullible can one be? Imagine not having contingency plans. Story-wise terrible, acting horrendous, shots hideous. Only thing that could be said about this movie is: it is almost identical to a intro in an adult film. Even those two famous actors couldn't lift the bar for shit, and brotherman the the bar was the floor. Don't waste your time unless you're into blue-balling semi-adult movies. Terrible movie.)
+- G.I. Joe: The Rise of Cobra (2009) (guns go brr, ninjas, explosions, stereotypical people, nanomite (wut?), American circle-jerk dream of being the hero of the day, France, USA. I mean it's the GI Joe, grandfather of generic action movies. Food movie.)
+- G.I. Joe: Retaliation (2013) (guns go brr, ninjas, explosions, Dwayne Johnson, some weird tech to destroy the world plot. Lame. Food movie)
 
 
 ### Watch later
 
-- G.I Joe series
 - The Killer (2023)
 - The Man Who Saw Tomorrow (1981)
 - A Quiet Place: Day One (2024)
