@@ -50,7 +50,9 @@ You cannot easily send funds to a European bank from a third-country bank, even 
   - Up to that limit, you don't have to declare it at the customs
   - Anything beyond that is subject to declaration at the customs. If you don't declare and get caught, this money will be treated as part of criminal activity, and you'll be in some deep trouble
 
-## Banks in Portugal for foreigners
+## Banking
+
+###  Banks
 
 - Caixa Geral de Depositos
   - National bank
@@ -61,6 +63,25 @@ You cannot easily send funds to a European bank from a third-country bank, even 
   - Part of Millennium
   - Common among foreigners
   - Though it is said they no longer accept passport and require citizenship card (what? Wouldn't NIF suffice)+
+
+### Opening bank account
+
+#### Requirements
+- [NIF](./bureaucracy/tax.md#NIF)
+- Copy of resident card or passport
+	- Along with your visa
+- Proof of address
+	- In Portugal or abroad
+- Proof of employment
+	- Work contract
+	- Pay slips
+		- Since you cannot receive salary pay until you open a bank account, it is practically impossible to present this. Though you can provide payslips from your previous employer, as long as it is in English or Portuguese
+- Portuguese phone number
+	- Though some guides online claim that it takes so little time to open bank account, I  object. There are tons of comments and reviews claiming it takes weeks if not months to open it.
+- Initial deposit amount (varies per bank)
+- Email address
+- (Not sure) Company statement
+
 
 
 ## Legal topics and rules for monetary

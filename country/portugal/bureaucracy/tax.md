@@ -1,5 +1,54 @@
 # Tax
 
+## NIF
+
+> Número de Identificação Fiscal
+
+**It is imperative that you obtain it as soon as you can, it is used for everything**
+
+### What is it for?
+- Paying taxes
+- Obtaining a cell phone, which requires phone contract/bill
+- Opening bank accounts
+- To be used in various contracts
+- Sometimes when purchasing goods, so they can issue the tax in your name
+- Employment; your employer requires your NIF for payroll and taxes
+- Obtaining NISS requires NIF
+- Registration to public healthcare services
+- Signing up for utility services
+- Renting/buying property
+- **Basically anything and everything...**
+
+### How to get it
+
+#### Requirements
+
+- Passport photocopy
+- Proof of address
+	- If applying for non-resident NIF; you need to appoint someone that resides in Portugal as a tax representative. This person will be responsible for receiving official correspondence regarding tax matters. So in practice, their address will be used for this purpose. This tax representative can be an individual (solicitor, lawyer, accountant) or a company. In this case, you also need Power of Attorney document.
+	- If applying for resident NIF; Utility bill, rental contract, or any other document that may be recognized for your address in Portugal
+
+- **(For resident NIF)** Proof of residency
+	- If EU or EEA/Swiss citizen; A valid residency certificate (Certificado de Registo de Cidadão da União Europeia) issued by the local town hall (Câmara Municipal)
+	- Non-EU citizen; A valid residence permit or visa
+- Application form
+	- Either filled by you or your tax representative
+
+#### Application
+
+- If applying  in person; you may simply apply at an local tax office. Make sure to bring all the required documents. 
+- If your tax representative is applying on your behalf; they'll apply for you in a tax office.
+- There are no fees associated with application
+- Under normal circumstances; you'll receive your NIF immediately after the application
+- Alternatively, you may apply to NIF via online service providers. They don't require physical copies of the documents, digital documents suffice. Usually it takes less than a week with this method. They cost around 50€ to 120€
+	- Bordr.com
+	- migrun.tech
+	- nifonline.com
+
+
+
+
+
 ## NHR (Non-Habitual Residency) Program
 
 - Started in 2008

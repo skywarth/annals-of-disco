@@ -1,15 +1,8 @@
 
 
-[5-sigma certainty](https://www.zmescience.com/science/what-5-sigma-means-0423423/)
-
-Digital Nomad Visa
-
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
 Salting earth
-
-Lent fasting variations
-
 
 kreuzritter
 
@@ -23,7 +16,6 @@ Se'irim (Hebrew, means demon)
 
 Wuxia
 
-Prometheus and Bob
 
 imogene
 
@@ -104,3 +96,5 @@ friend.com (dystopian nightmare)
 Chancenkarte
 
 https://eures.europa.eu/index_pt
+
+Agent Orange
