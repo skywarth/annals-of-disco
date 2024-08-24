@@ -5,6 +5,11 @@
 
 ## Brands
 
+
+### Pelican
+
+- ze best
+
 ### Samsonite
 - Defacto luggage brand
 - Great quality
