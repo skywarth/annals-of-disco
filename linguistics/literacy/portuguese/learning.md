@@ -2,6 +2,23 @@
 
 ## Words
 
+### Pronouns
+
+
+| English | Portuguese | Pronunciation         | Notes                     |
+| ------- | ---------- | --------------------- | ------------------------- |
+| I       | Eu         | *ew*                  |                           |
+| You     | Tu         | *to*                  | Informal                  |
+| You     | Você       | *vo-see*              | Formal                    |
+| He      | Ele        | *el-e*                |                           |
+| She     | Ela        | *e-la*                |                           |
+| We      | Nós        | *nosh*                |                           |
+| You all | Vós        | *vohs*                | **Archaic, rarely used.** |
+| You all | Vocês      | *vo-sehsh *           |                           |
+| They    | Eles       | *eh-lsh* or *eh-lish* | Masculine or mixed group  |
+| They    | Elas       | *eh-lash* or *e-las*  | Feminine group            |
+
+
 ### Numbers
 
 | English  | Portuguese (masculine)  | Portuguse (feminine)  |  |
@@ -15,6 +32,20 @@
 ---
 
 ### Others
+
+> Quero
+
+Translation: I want
+
+---
+
+
+> Sim
+
+Translation: Yes.
+
+--- 
+
 
 > Não
 
@@ -31,6 +62,7 @@ Translation: too, also, as well.
 > Ser
 
 Translation: To be (permanent).
+Description: Permanent, long lasting. Such as characteristic, identity, profession, time, origin, ethnicity, country of origin, relationship etc.
 
 ---
 
@@ -137,3 +169,9 @@ Translation: How's it going? All good?
 > Como estás?
 
 Translation: How are you?
+
+---
+
+> Eu quero café com leite
+
+Translation: I want coffee with milk
