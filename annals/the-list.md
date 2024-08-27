@@ -9,6 +9,11 @@ _**So it is written, so it shall be done**... Or not !_
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
 - Digest [this architecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- Digest [this LLD guide](https://github.com/ashishps1/awesome-low-level-design)
+	- Fundamental concepts
+	- One easy problem
+	- One medium problem
+	- One hard problem
 - [Maze Generation Algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 - port knocking
 - reverse shell attack

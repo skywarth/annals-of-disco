@@ -1,6 +1,7 @@
 # System Design Interview
 
 ## Resources
+- [Low Level Design](https://github.com/ashishps1/awesome-low-level-design)
 - https://www.designgurus.io/course/grokking-the-system-design-interview
 - https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3
 
