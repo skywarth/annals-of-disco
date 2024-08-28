@@ -13,7 +13,7 @@
 - To be used in various contracts
 - Sometimes when purchasing goods, so they can issue the tax in your name
 - Employment; your employer requires your NIF for payroll and taxes
-- Obtaining NISS requires NIF
+- Obtaining [NISS](./social-security#NISS) may require NIF, it is not mandatory
 - Registration to public healthcare services
 - Signing up for utility services
 - Renting/buying property
