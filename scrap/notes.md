@@ -1,3 +1,4 @@
+ostrich problem
 
 obsidian templates
 - https://github.com/llZektorll/OB_Template

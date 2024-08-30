@@ -3,6 +3,12 @@
 - Reading list for understanding databases systems and learning how to build a new one
   - https://github.com/rxin/db-readings
 
+- HuBMAP
+	- Open science initiative for human body cellular atlas, it's a consortium
+	- https://github.com/hubmapconsortium
+	- https://portal.hubmapconsortium.org/browse/dataset/bd87f76e021887c22a9d85238d5cc386
+	- https://apps.humanatlas.io/eui/
+
 - Blog about Art of manliness
   - https://www.artofmanliness.com/
 
