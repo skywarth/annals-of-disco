@@ -123,6 +123,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Knock Knock (2015) (two girls, family man, seduction, cheating, crazy, perfect family, being tied down, slight torture, Keanu Reeves, Ana de Armas. It is such a stupid and daft movie, I cannot even put it to words. How can a man not overpower two woman? How dense can you be, how gullible can one be? Imagine not having contingency plans. Story-wise terrible, acting horrendous, shots hideous. Only thing that could be said about this movie is: it is almost identical to a intro in an adult film. Even those two famous actors couldn't lift the bar for shit, and brotherman the the bar was the floor. Don't waste your time unless you're into blue-balling semi-adult movies. Terrible movie.)
 - G.I. Joe: The Rise of Cobra (2009) (guns go brr, ninjas, explosions, stereotypical people, nanomite (wut?), American circle-jerk dream of being the hero of the day, France, USA. I mean it's the GI Joe, grandfather of generic action movies. Food movie.)
 - G.I. Joe: Retaliation (2013) (guns go brr, ninjas, explosions, Dwayne Johnson, some weird tech to destroy the world plot. Lame. Food movie)
+- Trap (2024) (Psycho, concert, serial killer, abduction, manipulation, psychopathy, famous, escape the police. Yet another psycho thriller. There were some catch and plot twists here and there. Ending was not that good but at least they didn't leave it at complete cliff hanger. Some face shots or portrait shots were a bit too excessive. Decent movie, I liked it a lot though. )
 
 
 ### Watch later

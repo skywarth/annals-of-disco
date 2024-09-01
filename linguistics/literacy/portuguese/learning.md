@@ -39,6 +39,10 @@ Translation: I want
 
 ---
 
+> Preciso
+
+Translation: Necessary, need.
+
 
 > Sim
 
@@ -175,3 +179,13 @@ Translation: How are you?
 > Eu quero café com leite
 
 Translation: I want coffee with milk
+
+---
+
+> Preciso de um cha quentinho
+
+Translation: I need a warm/hot tea
+
+---
+
+> De onde és
