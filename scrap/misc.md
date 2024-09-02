@@ -20,8 +20,13 @@
 	- For users, organizations and repos
 	- Has ton of different metric options
 
+- Zettelkasten
+	- Some sort of note taking and knowledge base building methodology
+	- https://zettelkasten.de/overview/
 
 
+- Kreuzritter
+	- German word for crusader or medieval knight
 
 
 

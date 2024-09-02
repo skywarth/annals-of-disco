@@ -1,4 +1,3 @@
-ostrich problem
 
 obsidian templates
 - https://github.com/llZektorll/OB_Template
@@ -6,14 +5,8 @@ obsidian templates
 - https://github.com/anpigon/obsidian-book-search-plugin
 - https://github.com/groepl/Obsidian-Templates
 
-zettelkasten
 
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
-
-
-Salting earth
-
-kreuzritter
 
 Catharsis
 
