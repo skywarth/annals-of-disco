@@ -1,4 +1,21 @@
+# Lexicography
+
+## Catharsis
+
+`ka-thar-sis`
+
+First near modern usage is 1770s.
+
+The process of releasing strong—and usually repressed— emotions and traumas through an artful activity. Activity can be anything really, doesn't necessarily has to be artful, even expressing it by telling it to someone and how it impacted you can also be catharsis. Usually it takes forms of theater, music, writing. Goal is to achieve spiritual purification/release of strong emotions that are often scarring and may be traumatizing. Emotional release.
+
+Originates from the ancient Greek, around the times of Aristotle. Formerly, it meant 'bodily purging' or 'purification' in physical means. Later it's meaning has been coined to the psychological term by Aristotle himself. It is also used in medicine context to describe evacuation or cleansing of certain material from body, e.g: `Cathartic` drugs are used for increasing bowel movement and accelerate defecation.
+
+*I want no one to escape. But even after admitting this, there is no **catharsis**;...*
+
+*I had to undergo this suffering, I had to bear this burden for otherwise there would be no **catharsis**.*
+
 ## Yuppie
+
 `ya-pee`
 
 1980s. Not much of a origin, recent word that popped out into the usage. First printed usage was in 1980 in a Chicago magazine. It is the acronym for "young urban professional".  

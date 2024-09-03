@@ -8,8 +8,6 @@ obsidian templates
 
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
-Catharsis
-
 Jungian archetypes
 
 Spelunking
@@ -17,7 +15,6 @@ Spelunking
 Se'irim (Hebrew, means demon)
 
 Wuxia
-
 
 imogene
 
@@ -100,3 +97,5 @@ Chancenkarte
 https://eures.europa.eu/index_pt
 
 Agent Orange
+
+Catharism

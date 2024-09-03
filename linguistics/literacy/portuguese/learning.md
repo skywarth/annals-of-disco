@@ -105,6 +105,49 @@ Translation: They (female). them (female).
 
 Translation: Soup
 
+---
+
+> Nome
+
+Translation: Name
+
+---
+
+> Viajar
+
+Translation: To travel
+
+---
+
+> férias
+
+Translation: Holiday
+
+---
+
+> Avião
+
+Translation: Airplane
+
+---
+
+> Para
+
+Translation: To
+
+---
+
+> Onde
+
+Translation: Where
+
+---
+
+> Ir
+
+Translation: Go
+
+
 ## Common phrases
 
 > Bom dia
@@ -188,4 +231,30 @@ Translation: I need a warm/hot tea
 
 ---
 
+> Qual é o seu nome?
+
+Translation: What is your name?
+
+---
+
+> O meu nome é Hank
+
+Translation: My name is Hank
+
+---
+
 > De onde és
+
+Translation: Where are you from
+
+---
+
+> Boas férias!
+
+Translation: Have a good vacation/holiday. Good holiday!
+
+---
+
+> Boa viagem!
+
+Translation: Have a nice trip! Good trip.
