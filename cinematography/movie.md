@@ -124,11 +124,11 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - G.I. Joe: The Rise of Cobra (2009) (guns go brr, ninjas, explosions, stereotypical people, nanomite (wut?), American circle-jerk dream of being the hero of the day, France, USA. I mean it's the GI Joe, grandfather of generic action movies. Food movie.)
 - G.I. Joe: Retaliation (2013) (guns go brr, ninjas, explosions, Dwayne Johnson, some weird tech to destroy the world plot. Lame. Food movie)
 - Trap (2024) (Psycho, concert, serial killer, abduction, manipulation, psychopathy, famous, escape the police. Yet another psycho thriller. There were some catch and plot twists here and there. Ending was not that good but at least they didn't leave it at complete cliff hanger. Some face shots or portrait shots were a bit too excessive. Decent movie, I liked it a lot though. )
-
+- The Killer (2023) (Assassin, killer, mercenary, contractor, OCD, psychopath, revenge, vengeance. Michael Fassbender killed it, like holy crap! I don't think they could've picked a better actor for this rule, his cold gaze fits greatly. Some contract killer failing a job and on the run, then goes after some people for revenge. Great movie.)
 
 ### Watch later
 
-- The Killer (2023)
+
 - The Man Who Saw Tomorrow (1981)
 - A Quiet Place: Day One (2024)
 - Lincoln (2012)
