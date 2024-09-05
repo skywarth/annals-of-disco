@@ -77,30 +77,6 @@ Translation: to speak (language). To talk (language).
 
 ---
 
-> Ele
-
-Translation: He. It.
-
----
-
-> Ela
-
-Translation: She. It.
-
----
-
-> Eles
-
-Translation: They (male). them (male).
-
----
-
-> Elas
-
-Translation: They (female). them (female).
-
----
-
 > Sopa
 
 Translation: Soup
@@ -146,6 +122,12 @@ Translation: Where
 > Ir
 
 Translation: Go
+
+---
+
+> Quando
+
+Translation: When
 
 
 ## Common phrases
