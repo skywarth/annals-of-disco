@@ -4,14 +4,17 @@
 
 ### Read Already
 
-(not including those who are already read in the past)
+> (not including those who were already read in the past)
+
+- Ben Hur: a tale of the Christ - Lewis Wallace
+	- Magnificent, marvelous. An incredible tale, slightly differs from the original movie in 1900s.
 
 ### Read Again
 
 - How to win friends & Influence people - Dale Carnegie
 
 ### Awaiting to be read
-- Ben Hur: a tale of the Christ - Lewis Wallace
+
 - Making it happen - John Harvey-Jones
 
 ### Hunting
