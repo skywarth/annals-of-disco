@@ -129,6 +129,40 @@ Translation: Go
 
 Translation: When
 
+---
+
+> Ficou
+
+Also: ficar
+
+Translation: Was left, stayed, became, went
+
+---
+
+> Num
+
+Translation: In a, on a...
+
+---
+
+> Estou
+
+Translation: I am
+
+**Note:** *You might think "why not use Eu sou ?". Well, 'Eu Sou' is for being something indefinitely. Eu sou something, Eu sou a person, eu sou from England. Estou is for things that are not permanent, things that can be subject to change, something that can be altered. Estou de gripe (flu), Eu estou feliz (happy), Estou perdido (lost)*
+
+---
+
+> Perdido/Perdida
+
+Translation: Lost, missed, missing
+
+---
+
+> Sabes
+
+Translation: You know, do you know
+
 
 ## Common phrases
 
@@ -240,3 +274,29 @@ Translation: Have a good vacation/holiday. Good holiday!
 > Boa viagem!
 
 Translation: Have a nice trip! Good trip.
+
+---
+
+> Ela ficou num hotel de cinco estrelas
+
+Translation: She stayed at a five-star hotel
+
+---
+
+> Quando voltas?
+
+Translation: When will you be back, when you-return?
+
+---
+
+> Sabes onde fica a farmacia?
+
+Translation: Do yo know where's the pharmacy
+
+or 
+
+> Onde esta **a** farmacia? (why is it 'a', instead of 'de' ?)
+
+Translation: Where is the pharmacy?
+
+---
