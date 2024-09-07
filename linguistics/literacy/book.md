@@ -6,8 +6,8 @@
 
 > (not including those who were already read in the past)
 
-- Ben Hur: a tale of the Christ - Lewis Wallace
-	- Magnificent, marvelous. An incredible tale, slightly differs from the original movie in 1900s.
+- Ben Hur: a tale of the Christ - Lewis Wallace (1960 print, Harper Crest Edition)
+	- Magnificent, marvelous. An incredible tale, slightly differs from the original movie in 1959.
 
 ### Read Again
 
