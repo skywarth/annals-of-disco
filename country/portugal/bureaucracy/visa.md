@@ -302,12 +302,53 @@ Original documents and materials. **The** originals. Embassy indicates originals
   2. In person
      - You'll have to personally visit the embassy once more when it is concluded
 
-### Result of visa application
+## Visa Application conclusion
 
 - Consulate's legal decision time is up to 60 days
 - Consulate has the right to request additional documents that are not officially listed beforehand
 - Result of your application will be relayed to you via e-mail
 - Following the application, you can collect your passport by the method you choose earlier
+	- If you opted for UPS shipment as a delivery method, you'll pay for it when you receive it
+
+### Visa processing times 
+
+List of data I gathered from various resources.
+
+- Most applicants express disparity between conclusion dates. Their spouses somehow got it earlier even though they applied later.
+	- Some say wife got it in 25 days but husband's application is taking more than 3 months
+
+
+| Source   | Visa type | Consulate   | Application date | Designated Travel date | Conclusion date | Total days in process | Remarks                                                  |
+| -------- | --------- | ----------- | ---------------- | ---------------------- | --------------- | --------------------- | -------------------------------------------------------- |
+| Facebook | Erasmus   | Turkey      | 27/06/2024       | 29/07/2024             | 29/07/2024      | 32 days               | Issued on the day the subject was going to travel, damn. |
+| Reddit   | D3        | Nigeria     | 27/06/2024       |                        | (In progress)   | 60+ days              | Nigerian national, applied in Nigeria                    |
+| Reddit   | D3        | India       | 02/04/2024       |                        | 07/05/2024      | 30-35 days            | `Primary_Temporary_89`                                   |
+| Reddit   | D3        | Qatar       | 07/04/2024       |                        | (In progress)   | 90+ days              | `Jeeva_Reddit`, Indian national                          |
+| Reddit   | D3        | India       | XX/07/2024       |                        | (In progress)   | 60+ days              | `BriefAd4761`, Indian national                           |
+| Reddit   | D3        | Hong Kong   | XX/01/2024       |                        | (Unknown)       | 90+ days              | Deleted user, Pakistani national                         |
+| Reddit   | D3        | Costa Rica  | XX/01/2024       |                        | XX/02/2024      | 25 days               | `Civil_Ad778`                                            |
+| Reddit   | DX        | UK          | 27/11/2023       |                        | XX/02/2024      | 70 days               | `GrandHumor`                                             |
+| Reddit   | DX        | USA         | XX/12/2023       |                        | XX/02/2024      | 40~ days              | `MrBrownMilk`                                            |
+| Reddit   | D8        | USA         | XX/XX/2023       |                        | XX/XX/2024      | 183~ days             | `aryxus2`                                                |
+| Reddit   | D8        | UK          | 08/01/2024       |                        | 30/01/2024      | 22 days               |                                                          |
+| Reddit   | D7        | USA         | 15/04/2024       |                        | (In progress)   | 150+ days             | `Maegurillion`                                           |
+| Reddit   | D3        | Philippines | XX/XX/2024       |                        | XX/XX/2024      | 35 days               | `One-Possibility-941`                                    |
+| Reddit   | D3        | Nigeria     | 13/09/2022       |                        | XX/01/2024      | 95 days               | `Fit_Affect_5832`, Nigerian national, American Husband   |
+
+#### Warnings and incidents
+
+Almost all the embassies around the world report problems currently (August 2024) with visa system, forewarning for delays:
+- [UAE 26/07/2024](https://visa.vfsglobal.com/are/en/prt/news/important-update)
+- [Qatar 15/07/2024](https://visa.vfsglobal.com/qat/en/prt/news/delay-in-visa-processing)
+- [USA 05/08/2024](https://visa.vfsglobal.com/usa/en/prt/news/technical-issues-pertaining) 
+- [Egypt 26/07/2024](https://visa.vfsglobal.com/egy/en/prt/news/suspension-of-visa-operations)
+- [Senegal 27/07/2024](https://visa.vfsglobal.com/sen/en/prt/news/technical-reasons)
+- [ZAF 23/07/2024](https://visa.vfsglobal.com/zaf/en/prt/news/delay-in-processing-of-visa)
+
+
+List of nationalities that may experience longer delays:
+- https://www.vfsglobal.com/one-pager/portugal/usa/english/pdf/Port-Except-country.pdf
+
 
 
 

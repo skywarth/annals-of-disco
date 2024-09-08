@@ -1,4 +1,6 @@
 
+diabetic retinopathy 
+
 obsidian templates
 - https://github.com/llZektorll/OB_Template
 - https://github.com/tuan3w/obsidian-template
