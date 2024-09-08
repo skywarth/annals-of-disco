@@ -312,7 +312,7 @@ Original documents and materials. **The** originals. Embassy indicates originals
 
 ### Visa processing times 
 
-List of data I gathered from various resources.
+List of data I gathered from various resources. For respecting privacy, real names are shortened.
 
 - Most applicants express disparity between conclusion dates. Their spouses somehow got it earlier even though they applied later.
 	- Some say wife got it in 25 days but husband's application is taking more than 3 months
@@ -333,7 +333,9 @@ List of data I gathered from various resources.
 | Reddit   | D8        | UK          | 08/01/2024       |                        | 30/01/2024      | 22 days               |                                                          |
 | Reddit   | D7        | USA         | 15/04/2024       |                        | (In progress)   | 150+ days             | `Maegurillion`                                           |
 | Reddit   | D3        | Philippines | XX/XX/2024       |                        | XX/XX/2024      | 35 days               | `One-Possibility-941`                                    |
-| Reddit   | D3        | Nigeria     | 13/09/2022       |                        | XX/01/2024      | 95 days               | `Fit_Affect_5832`, Nigerian national, American Husband   |
+| Reddit   | D3        | Nigeria     | 13/09/2022       |                        | XX/01/2023      | 95 days               | `Fit_Affect_5832`, Nigerian national, American Husband   |
+| Facebook | D1/D3     | Turkey      | 17/07/2024       |                        | (In progress)   | 55+ days              | (Anonymous) in FB group                                  |
+| Facebook | D4        | Turkey      | 02/07/2024       | 18/08/2024             | 23/08/2024      | 52 days               | (Anonymous) in FB group. Student, masters programme.     |
 
 #### Warnings and incidents
 

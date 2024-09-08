@@ -1,6 +1,16 @@
 # Portugal -  :portugal:
 PT (CCA2) - PRT (CCA3)
 
+## Flag
+
+- Castles represent the 7 castles that are reconquered from the Moors
+- Armillary sphere is for navigation. For the great success and innovation in leading the Age of Discovery
+- Blue Shield icons in the middle; represent the 5 Moorish Kings that are defeated by King Alfonso I, first king of Portugal. 
+	- The five dots/stars in the blue shields represent 'Five holy wounds' of the Christ
+- Colors
+	- `Red`: for the blood of the nation, especially for those who died in 1910 revolution
+	- `Green`: Hope for the future
+
 ## Uncategorized miscellaneous notes
 These will be categorized and put into separate files in time.
 
