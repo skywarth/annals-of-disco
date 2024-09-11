@@ -1,8 +1,7 @@
 Damn... Should've started this list soo much earlier. Now how the hell am I supposed to callback all those great movies. 
 
 - The Sword of Doom (has some crazy scowls. basically it's about an evil samurai)
-- China syndrome
-  - Reactor control room scene is really good
+- China syndrome (Reactor control room scene is really good)
 - Wargames
 - men of honor (navy diver, De Niro)
 - Requiem for a Dream (a bit emotional, meh)
@@ -125,19 +124,22 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - G.I. Joe: Retaliation (2013) (guns go brr, ninjas, explosions, Dwayne Johnson, some weird tech to destroy the world plot. Lame. Food movie)
 - Trap (2024) (Psycho, concert, serial killer, abduction, manipulation, psychopathy, famous, escape the police. Yet another psycho thriller. There were some catch and plot twists here and there. Ending was not that good but at least they didn't leave it at complete cliff hanger. Some face shots or portrait shots were a bit too excessive. Decent movie, I liked it a lot though. )
 - The Killer (2023) (Assassin, killer, mercenary, contractor, OCD, psychopath, revenge, vengeance. Michael Fassbender killed it, like holy crap! I don't think they could've picked a better actor for this rule, his cold gaze fits greatly. Some contract killer failing a job and on the run, then goes after some people for revenge. Great movie.)
+- Gandhi (1982) (India, Gandhi, Pakistan, Hindu, Muslim, Peace, WW2, independence, colony, Britain, British, politics, religion, nonviolence. Life of Gandhi. It's decent. )
+- A Quiet Place: Day One (2024) (silence, high hearing ability aliens, quiet, alien invasion. It's definitely not as good as the first movie, it's a bit boring. It's meh.)
+- Lincoln (2012) (Abraham Lincoln, USA, slavery, emancipation, civil war, confederation. Actor of Abraham Lincoln did a good job. Suspense during the ballot counting was nicely emphasized. Nice movie, but really hard to watch in one sitting, watch it in 3 sessions.)
+- Passengers (2016) (Spaceship, colony, habitable planet, cryo sleep, long waiting, couple, spending years alone in a spaceship. Jennifer Lawrence's acting falls flatter than a sheet of paper, some other actress would've done it far better. Some loopholes to force the romantic narrative. It was OK.)
+- Lion of the Desert (1981) (Libya, Italy, colony, imperialism, occupation, war, history, biography, independence, freedom, leadership, negotiation, guerilla, WW2, Mussolini. It's a movie about Omar Mukhtar who fought for the freedom of Libya and Bedouin, which was under the management of Italy at the time. Great movie.)
+
 
 ### Watch later
 
+- Into the wild (2007)
 - The cabin in the woods (2012)
 - The Man Who Saw Tomorrow (1981)
-- A Quiet Place: Day One (2024)
-- Lincoln (2012)
 - Wild Tales (2014)
 - Phenomenon (1966)
 - A walk in the sun (1945)
-- Passengers (2016)
 - Dark Angel (1990)
-- Lion of the Desert (1981)
 - Hidden figures (2016)
 - Flash Gordon (1980)
 - Jason and the Argonauts (1963)
