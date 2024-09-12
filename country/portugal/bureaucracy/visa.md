@@ -318,28 +318,52 @@ List of data I gathered from various resources. For respecting privacy, real nam
 	- Some say wife got it in 25 days but husband's application is taking more than 3 months
 
 
-| Source   | Visa type | Consulate   | Application date | Designated Travel date | Conclusion date | Total days in process | Remarks                                                  |
-| -------- | --------- | ----------- | ---------------- | ---------------------- | --------------- | --------------------- | -------------------------------------------------------- |
-| Facebook | Erasmus   | Turkey      | 27/06/2024       | 29/07/2024             | 29/07/2024      | 32 days               | Issued on the day the subject was going to travel, damn. |
-| Reddit   | D3        | Nigeria     | 27/06/2024       |                        | (In progress)   | 60+ days              | Nigerian national, applied in Nigeria                    |
-| Reddit   | D3        | India       | 02/04/2024       |                        | 07/05/2024      | 30-35 days            | `Primary_Temporary_89`                                   |
-| Reddit   | D3        | Qatar       | 07/04/2024       |                        | (In progress)   | 90+ days              | `Jeeva_Reddit`, Indian national                          |
-| Reddit   | D3        | India       | XX/07/2024       |                        | (In progress)   | 60+ days              | `BriefAd4761`, Indian national                           |
-| Reddit   | D3        | Hong Kong   | XX/01/2024       |                        | (Unknown)       | 90+ days              | Deleted user, Pakistani national                         |
-| Reddit   | D3        | Costa Rica  | XX/01/2024       |                        | XX/02/2024      | 25 days               | `Civil_Ad778`                                            |
-| Reddit   | DX        | UK          | 27/11/2023       |                        | XX/02/2024      | 70 days               | `GrandHumor`                                             |
-| Reddit   | DX        | USA         | XX/12/2023       |                        | XX/02/2024      | 40~ days              | `MrBrownMilk`                                            |
-| Reddit   | D8        | USA         | XX/XX/2023       |                        | XX/XX/2024      | 183~ days             | `aryxus2`                                                |
-| Reddit   | D8        | UK          | 08/01/2024       |                        | 30/01/2024      | 22 days               |                                                          |
-| Reddit   | D7        | USA         | 15/04/2024       |                        | (In progress)   | 150+ days             | `Maegurillion`                                           |
-| Reddit   | D3        | Philippines | XX/XX/2024       |                        | XX/XX/2024      | 35 days               | `One-Possibility-941`                                    |
-| Reddit   | D3        | Nigeria     | 13/09/2022       |                        | XX/01/2023      | 95 days               | `Fit_Affect_5832`, Nigerian national, American Husband   |
-| Facebook | D1/D3     | Turkey      | 17/07/2024       |                        | (In progress)   | 55+ days              | (Anonymous) in FB group                                  |
-| Facebook | D4        | Turkey      | 02/07/2024       | 18/08/2024             | 23/08/2024      | 52 days               | (Anonymous) in FB group. Student, masters programme.     |
+| Source   | Visa type    | Consulate   | Application date | Designated Travel date | Conclusion date | Total days in process | Remarks                                                                               |
+| -------- | ------------ | ----------- | ---------------- | ---------------------- | --------------- | --------------------- | ------------------------------------------------------------------------------------- |
+| Facebook | Erasmus      | Turkey      | 27/06/2024       | 29/07/2024             | 29/07/2024      | 32 days               | Issued on the day the subject was going to travel, damn.                              |
+| Reddit   | D3           | Nigeria     | 27/06/2024       |                        | (In progress)   | 60+ days              | `One_Bar_9066` Nigerian national, applied in Nigeria                                  |
+| Reddit   | D3           | India       | 02/04/2024       |                        | 07/05/2024      | 30-35 days            | `Primary_Temporary_89`                                                                |
+| Reddit   | D3           | Qatar       | 07/04/2024       |                        | (In progress)   | 90+ days              | `Jeeva_Reddit`, Indian national                                                       |
+| Reddit   | D3           | India       | XX/07/2024       |                        | (In progress)   | 60+ days              | `BriefAd4761`, Indian national                                                        |
+| Reddit   | D3           | Hong Kong   | XX/01/2024       |                        | (Unknown)       | 90+ days              | Deleted user, Pakistani national                                                      |
+| Reddit   | D3           | Costa Rica  | XX/01/2024       |                        | XX/02/2024      | 25 days               | `Civil_Ad778`                                                                         |
+| Reddit   | DX           | UK          | 27/11/2023       |                        | XX/02/2024      | 70 days               | `GrandHumor`                                                                          |
+| Reddit   | DX           | USA         | XX/12/2023       |                        | XX/02/2024      | 40~ days              | `MrBrownMilk`                                                                         |
+| Reddit   | D8           | USA         | XX/XX/2023       |                        | XX/XX/2024      | 183~ days             | `aryxus2`                                                                             |
+| Reddit   | D8           | UK          | 08/01/2024       |                        | 30/01/2024      | 22 days               |                                                                                       |
+| Reddit   | D7           | USA         | 15/04/2024       |                        | (In progress)   | 150+ days             | `Maegurillion`                                                                        |
+| Reddit   | D3           | Philippines | XX/XX/2024       |                        | XX/XX/2024      | 35 days               | `One-Possibility-941`                                                                 |
+| Reddit   | D3           | Nigeria     | 13/09/2022       |                        | XX/01/2023      | 95 days               | `Fit_Affect_5832`, Nigerian national, American Husband                                |
+| Facebook | D1/D3        | Turkey      | 17/07/2024       |                        | (In progress)   | 55+ days              | (Anonymous) in FB group                                                               |
+| Facebook | D4           | Turkey      | 02/07/2024       | 18/08/2024             | 23/08/2024      | 52 days               | (Anonymous) in FB group. Student, masters programme.                                  |
+| Reddit   | Schengen     | USA         | 31/07/2024       | 12/09/2024             | 11/09/2024      | 42 days               | `Reasonable-Tale-2078 `                                                               |
+| Reddit   | Schengen, F1 | USA         | 13/06/2024       | 12/07/2024             | 28/06/2024      | 15 days               | `RoshnibSoni`, Indian national, green card holder, Indian passport                    |
+| Reddit   | D4           | Morocco     | 02/08/2024       | 10/09/2024             | 06/09/2024      | 35 days               | `Great-Prune-7458`, Moroccan national                                                 |
+| Reddit   | D4           | Bolivia     | 18/06/2024       | 30/09/2024 (?)         | 17/08/2024      | 59 days               | `Mdpb2`, Bolivian national                                                            |
+| Reddit   | D4           | Jakarta     | 08/05/2024       | 21/08/2024             | 07/08/2024      | 91 days               | `Sensitive-Soup4733`, pinoy, Filipino national                                        |
+| Reddit   | E6           | Indonesia   | 16/07/2024       | 06/09/2024             | 22/08/2024      | 37 days               | `2evn2x`, Indonesian national                                                         |
+| Reddit   | Schengen     | Ireland     | 12/06/2024       | 04/07/2024             | (In progress)   | 90+ days              | `IndividualOver4253`                                                                  |
+| Reddit   | D4           | Canada      | XX/06/2024       | 01/09/2024             | (In progress)   | 60+ days              | `Few_Flamingo2624`                                                                    |
+| Reddit   | D4           | Canada      | 25/06/2024       | 21/08/2024             | (In progress)   | 70+ days              | `Opposite_Menu556`                                                                    |
+| Reddit   | E6           | Singapore   | 04/07/2024       |                        | (In progress)   | 60+ days              | `Brief-Signature7422`                                                                 |
+| Reddit   | D4           | South Korea | 28/08/2024       | 25/09/2024             | (In progress)   | 15+ days              | `Shoddy-Astronaut6976` South Korean passport                                          |
+| Reddit   | D4           | Thailand    | 21/06/2024       | XX/09/2024             | (In progress)   | 60+ days              | `Fantastic_Law_625`, living in Malaysia, Bangladesh citizen                           |
+| Reddit   | D4           | India       | 31/07/2024       | XX/09/2024             | (In progress)   | 45+ days              | `Scarspo`, Indian national                                                            |
+| Reddit   | D8           | India       | XX/08/2023       |                        | 2X/11/2024      | 90~ days              | `DramaticPotential831`                                                                |
+| Reddit   | D4           | India       | 28/06/2023       |                        |                 | 90~ days              | `One_Local_1379`                                                                      |
+| Reddit   | D4           | India       | 29/07/2024       |                        | 05/09/2024      | 37 days               | `CrankyDoughnut710`                                                                   |
+| Reddit   | D4           | India       | XX/08/2024       |                        | XX/08/2024      | 14~ days              | `weirdoreborn`                                                                        |
+| Reddit   | Schengen     | USA         | 15/03/2024       | 06/06/2024             | 04/06/2024      | 81 days               | `Anxious_Editor_9145` Indian national. Green card holder. 2 days prior to travel date |
+| Reddit   | Schengen     | USA         | 04/04/2024       | 19/06/2024             | 15/06/2024      | 55~ days              | `Delicious_Abroad4701` Indian passport.                                               |
+| Reddit   | Schengen     | Canada      | 16/07/2024       | 19/08/2024             | 13/08/2024      | 20~ days              | `That_King4128` Lebanese passport, living in Canada.                                  |
 
 #### Warnings and incidents
 
-Almost all the embassies around the world report problems currently (August 2024) with visa system, forewarning for delays:
+##### AIMA updating the software
+
+- Why would they decide to update the software on peak season?
+
+Almost all the embassies around the world report technical problems currently (August 2024) with visa system, forewarning for delays:
 - [UAE 26/07/2024](https://visa.vfsglobal.com/are/en/prt/news/important-update)
 - [Qatar 15/07/2024](https://visa.vfsglobal.com/qat/en/prt/news/delay-in-visa-processing)
 - [USA 05/08/2024](https://visa.vfsglobal.com/usa/en/prt/news/technical-issues-pertaining) 
