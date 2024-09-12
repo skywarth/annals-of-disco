@@ -30,7 +30,8 @@ _**So it is written, so it shall be done**... Or not !_
     - gRPC
 
 - A* search algorithm
-- GPG
+- GPG (cryptography)
+	- [Nice *comfy* tutorial](https://www.youtube.com/watch?v=eLKOIjNFwVs)
 - CQRS
   - Though I've learned about it in the past, would hurt to revisit it
 - IPFS
