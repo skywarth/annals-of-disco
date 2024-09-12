@@ -1,6 +1,23 @@
 Probably forgot most of the past ones. 
 
+# TV Shows and series
 
+## Watching
+
+- The Boys*
+- Love, Death & Robots*
+- Black mirror*
+- Last Of Us*
+- The Witcher *
+- What we do in the shadows *
+- For all mankind*
+- Fargo*
+- Invincible*
+- Person of interest*
+- The Bible (2013)*
+- Gen-V*
+
+## Watched
 - Lost
 - Breaking Bad
 - Hannibal
@@ -13,30 +30,19 @@ Probably forgot most of the past ones.
 - House
 - Black Summer
 - Cyberpunk: Edgerunners
-- The Boys*
-- Love, Death & Robots*
-- Black mirror*
-- Castlevania
 - Expanse
 - resident evil
 - primal
-- Last Of Us*
 - Fringe
-- The Witcher *
 - Castlevania
-- What we do in the shadows *
-- For all mankind*
-- Fargo*
-- Invincible*
 - Marco polo
-- Person of interest*
-- The Bible (2013)*
 - Brave new world
-- Gen-V*
-
-check
 
 
+
+## To be watched
+
+- Afterlife
 - true detective
 - Those about to die (rome themed)
 - shogun
