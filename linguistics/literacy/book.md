@@ -37,6 +37,8 @@
 - Refactoring: Improving the Design of Existing Code - Martin Fowler
 - **Design Patterns: Elements of Reusable Object-Oriented Software 1994 - Erich Gamma, Richard Helm... (This is the infamous Gang of Four, must read!)**
 - Structure and Interpretation of Computer Programs (1984 and 1996), by **MIT** - Harold Abelson, Gerald Jay Sussman
+- Software Engineering, A modern Approach - Marco Tulio Valente
+	- Not a well-known author or a book but looks decent. Contains all the crucial aspects of software engineering
 
 #### Non-technical
 

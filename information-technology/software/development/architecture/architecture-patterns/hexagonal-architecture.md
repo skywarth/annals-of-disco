@@ -2,26 +2,63 @@
 
 > AKA Ports & Adapters pattern
 
+## Characteristic
+
 
 - Domain focused architecture
-- Idea is to decouple the business logic from the infrastructural concerns
+	- Though it adheres to Domain-Driven Design in most aspects, it is not directly related to it. They are distinct concepts.
+	- You may say it is inspired by DDD
 - `Application` is the application itself, the core application, your app
 - Two types, `primary` and `secondary`
-	- `Primary` port/adapter **control** the application. **Inbound**
-	- `Secondary` port/adapter is **controlled** by the application. **Outbound**
+	- `Primary` port/adapter **control** the application.
+		- **Inbound**
+		- Basically the means of Interface: Actors or anything that invokes the application
+	- `Secondary` port/adapter is **controlled** by the application. 
+		- **Outbound**
+		- Basically the infrastructure
 	- Each connect to the respective other, `Primary Adapter` is matched with a `Primary Port`, `Secondary Adapter` is matched with `Secondary Port`
 - Ports and adapters have various forms of relationships
 	- 1-1
 	- 1-N (common, one port multiple adapters)
 	- N-1
 	- N-N (rare)
+- In theory, each side is meant to represent a reason/concern for the business logic to communicate with the external services, this is the reason it is not a circle but rather a hexagon
 
-## Core
+### Pros
+
+- **Adaptability**:Decouple the business logic from the infrastructural concerns, isolate the core
+- **Testability**:Enhance testing capabilities and simplifying it
+- Lower risk of regression from changes
+- Reduce the refactor cost
+- Fostering TDD by making core business logic easier to test
+
+### Cons
+
+- Abundance of classes, packages and modules
+- Tedious to keep the separation of concerns in check
+- If the business logic is not too extensive, or it is rather a small-sized application; then it is an overkill
+- Potential inefficiency
+
+
+### When to use
+
+- Complex or extensive business logic
+- Business logic or core logic is stable, no constant radical changes
+
+
+
+
+## Components
+
+
+### Core
 
 - `Application` core, the center of hexagon
 - Domain Logic
 - Business logic
+- Also known as `domain classes`
 - It is **not** limited to the codebase, or defined by it. Something that exists in the codebase or the repository may certainly fall out of the limits of the [[#Core]], **so don't think it as your codebase**.
+- It shouldn't depend on anything, ports can depend on it but it shouldn't depend on anything. Direction of dependencies are from outside of the core to inside.
 - Strictly domain/business logic, nothing else; no service that directly interacts with external dependency and services
 - It should be free of infrastructural concerns
 - It shouldn't ask the question of **how**, it should ask the question of **what**
@@ -40,7 +77,7 @@ Core:
    +----------------------------+
              |
              |
- //////////////////////////////// <-- Hexagon side, boundary of the core)
+ //////////////////////////////// <-- Hexagon side, boundary of the core
 			 |
 			 |
 Secondary Adapter (Outside of Core, outer area of the hexagon):
@@ -56,19 +93,79 @@ Secondary Adapter (Outside of Core, outer area of the hexagon):
 ```
 
 
+
+### Port
+
+- Inner sides of the hexagon represents the ports
+- Ports interact with external services and dependencies that are called [[#Adapter]]
+- In essence, they are `interface`s, software/programming interfaces (not UI)
+- **Part of the [[#Core]]**, they are considered as [[#Core]] in a way
+
+#### Primary port
+
+- Entry point into the application
+- AKA `Provided Port`
+- Defines how actions procured by an external agent (or rather a primary adapter) are going to interact with the [[#core]] business logic
+- Communicates with the respective [[#Primary adapter]]
+- `AuthHandler`, `CheckoutStrategy`, `UserRegistrationService`, `UserActionHandler`, `FileUploadService`
+- Ports can also be established in forms of CQRS. In CQRS, ports are `Command and Query`
+
+
+#### Secondary port
+
+- Exit point or an interface to access external services
+- AKA `Required Port`
+- Defines a contract, an interface for means of communication with the external world
+- Communicates with the [[#Secondary adapter]]
+- `UserRepository`, `MessagePublisher`, `EmailFacade`, `FileStorage`, `PaymentGatewayAdapter`
+
+
+
+### Adapter
+
+- Outer side of the hexagon
+- External service/system/dependency method
+- Interfaced/accessed by a [[#Port]]
+- Don't be confused: an adapter can still actually reside inside the application. For example, `MySQLUserRepository`. This is because they interact with external services.
+- Usually they are realized by `Adapter Design Pattern`
+
+#### Primary adapter
+
+- Adapters that wants to access the application and/or it's data
+- Implementation for the [[#Primary port]]
+- For example another app that relies on your data for its operations, some external that **consumes** your API
+- `UserRegistrationController` (REST API) handling HTTP requests for user registration operations, `UserRegistrationGraphQL`, `UserRegistrationCLI`. Or `DesktopUserActionHandler`, `MobileUserActionHandler`. Or `RESTFileUploadController`, `FormFileUploadController`
+
+
+#### Secondary adapter
+
+- Connects the application to external systems
+- Outbound communication
+- Implementations for [[#Secondary port]], conforming to its contract
+- `MySQLUserRepository`, `MongoUserRepository`, `RabbitMQMessagePublisher`, `MailgunEmailSender`, `LocalFileStorage`, `S3FileStorage`, `StripePaymentGateway`, `PayPalPaymentGateway`
+
+
+
 ## Flow
 
 Flow can originate from one of two origins:
 1. Originate from the core itself
+	- This is not a recommended practice, it is anti-pattern per Hexagonal Architecture principles
 2. Originate from an external agent and go through **Primary channels** (primary adapter into primary port into core)
 
 - Flow cannot originate from **secondary channels**, I mean duh.
+
+
+Below is an example flow that originates from external agent/system to primary channels then out of secondary channels.
 
 ```
 External Agent: Mobile app user (initiates the flow by an action/request)
       |
       |
 Primary Adapter: UserRegistrationController (REST API)
+      |
+      |
+//////////////////// Hexagon side, boundary of the core
       |
       |
 Primary Port: UserRegistrationService
@@ -80,66 +177,29 @@ Core Application: SomeBusinessLogicService
 Secondary Port: UserRepository
       |
       |
+//////////////////// Hexagon side, boundary of the core
+      |
+      |
 Secondary Adapter: MySQLUserRepository
       |
       |
 External System: MySQL Database
 
 ```
-## Port
-
-- Inner sides of the hexagon represents the ports
-- Ports interact with external services and dependencies that are called [[#Adapter]]
-- **Part of the [[#Core]]**, they are considered as [[#Core]]
-
-### Primary port
-
-- Entry point into the application
-- Defines how actions procured by an external agent are going to interact with the [[#core]] business logic
-- Communicates with the respective [[#Primary adapter]]
-- `AuthHandler`, `CheckoutStrategy`, `UserRegistrationService`, `UserActionHandler`, `FileUploadService`
-
-
-### Secondary port
-
-- Exit point or an interface to access external services
-- Defines a contract, an interface for means of communication with the external world
-- Communicates with the [[#Secondary adapter]]
-- `UserRepository`, `MessagePublisher`, `EmailFacade`, `FileStorage`, `PaymentGatewayAdapter`
-
-
-
-## Adapter
-
-- Outer side of the hexagon
-- External service/system/dependency method
-- Interfaced/accessed by a [[#Port]]
-- Don't be confused: an adapter can still actually reside inside the application. For example, `MySQLUserRepository`. This is because they interact with external services.
-
-### Primary adapter
-
-- Adapters that wants to access the application and/or it's data
-- Implementation for the [[#Primary port]]
-- For example another app that relies on your data for its operations, some external that **consumes** your API
-- `UserRegistrationController` (REST API) handling HTTP requests for user registration operations, `UserRegistrationGraphQL`, `UserRegistrationCLI`. Or `DesktopUserActionHandler`, `MobileUserActionHandler`. Or `RESTFileUploadController`, `FormFileUploadController`
-
-
-### Secondary adapter
-
-- Connects the application to external systems
-- Outbound communication
-- Implementations for [[#Secondary port]], conforming to its contract
-- `MySQLUserRepository`, `MongoUserRepository`, `RabbitMQMessagePublisher`, `MailgunEmailSender`, `LocalFileStorage`, `S3FileStorage`, `StripePaymentGateway`, `PayPalPaymentGateway`
-
-
-
 
 ## Resources
 
-- https://craftbettersoftware.com/p/hexagonal-architecture-with-tdd
-- https://scalastic.io/en/hexagonal-architecture/#:~:text=Hexagonal%20architecture%20is%20an%20architectural,communicate%2C%20using%20ports%20and%20adapters
-- https://softengbook.org/articles/hexagonal-architecture
-- https://github.com/JonathanM2ndoza/Hexagonal-Architecture-DDD
-- https://www.geeksforgeeks.org/hexagonal-architecture-in-java/
-- https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
-- https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)
+- [x] https://craftbettersoftware.com/p/hexagonal-architecture-with-tdd
+	- IMHO, slightly incorrect and a bit misleading, I can't agree wholeheartedly on the architecture of the case. But still a decent post, concise.
+	- Demonstrates on an example warehouse case
+- [x] https://scalastic.io/en/hexagonal-architecture/#:~:text=Hexagonal%20architecture%20is%20an%20architectural,communicate%2C%20using%20ports%20and%20adapters
+	- Comprehensive explanation with more focus on principles
+	- Compares it with Clean Architecture
+- [x] https://softengbook.org/articles/hexagonal-architecture
+	- Deviates from other tutorials and elaborations, uses different terms
+	- Diagrams are good
+	- Contains questions at the and that make you think and reinforce your learning, I liked these questions
+- [ ] https://github.com/JonathanM2ndoza/Hexagonal-Architecture-DDD
+- [ ] https://www.geeksforgeeks.org/hexagonal-architecture-in-java/
+- [ ] https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+- [ ] https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)
