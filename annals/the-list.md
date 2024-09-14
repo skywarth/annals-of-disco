@@ -8,7 +8,10 @@ _**So it is written, so it shall be done**... Or not !_
 
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
-- Digest [this architecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- Hexagonal architecture
+	- Architectural pattern in software
+	- Digest [this architecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+	- And [this](https://craftbettersoftware.com/p/hexagonal-architecture-with-tdd)
 - Digest [this LLD guide](https://github.com/ashishps1/awesome-low-level-design)
 	- Fundamental concepts
 	- One easy problem
