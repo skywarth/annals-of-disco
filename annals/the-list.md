@@ -8,10 +8,7 @@ _**So it is written, so it shall be done**... Or not !_
 
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
-- Hexagonal architecture
-	- Architectural pattern in software
-	- Digest [this architecture](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
-	- And [this](https://craftbettersoftware.com/p/hexagonal-architecture-with-tdd)
+- ~~[[hexagonal-architecture|Hexagonal architecture pattern]]~~
 - Digest [this LLD guide](https://github.com/ashishps1/awesome-low-level-design)
 	- Fundamental concepts
 	- One easy problem
@@ -23,6 +20,7 @@ _**So it is written, so it shall be done**... Or not !_
 - Docker
 - Cloudflare services
 - Elastic search
+- JWT
 
 - Asynchronous communication methods
     - WebSocket
@@ -36,7 +34,7 @@ _**So it is written, so it shall be done**... Or not !_
 - GPG (cryptography)
 	- [Nice *comfy* tutorial](https://www.youtube.com/watch?v=eLKOIjNFwVs)
 - CQRS
-  - Though I've learned about it in the past, would hurt to revisit it
+  - Though I've learned about it in the past, wouldn't hurt to revisit it
 - IPFS
 
 ### Task
