@@ -10,6 +10,13 @@
 
 - ze best
 
+### Tumi
+
+- Top of the class
+- Business-class luggage
+- You don't call it "my luggage", you call it "my tumi"
+- Incredibly expensive
+
 ### Samsonite
 - Defacto luggage brand
 - Great quality

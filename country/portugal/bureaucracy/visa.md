@@ -208,8 +208,10 @@ These are the documents that are to be handed to the consulate. Regardless of th
 - Visa application fee `[EMBA]` `[RELO]` `[GUID]`
   - In cash, in native currency (TRL)
   - Equivalent of €90, conversion rate is unknown so be prepared
-  - 441 TL indicated by the embassy, at the last time it was updated
+	  - It was live exchange rate
+  - ~~441 TL indicated by the embassy, at the last time it was updated~~
   - Carry sufficient banknotes and coins, as you have to provide the exact amount
+	  - They had spare banknotes to exact amount wasn't that crucial
   - Some `[GUID]` claim national visa applications are free, it is also indicated on the application form as "This application is free". So you might not have to pay anything at all. 
 
 
