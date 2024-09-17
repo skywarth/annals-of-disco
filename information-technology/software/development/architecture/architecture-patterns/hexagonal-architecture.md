@@ -125,6 +125,7 @@ Secondary Adapter (Outside of Core, outer area of the hexagon):
 - AKA `Provided Port`
 - Defines how actions procured by an external agent (or rather a primary adapter) are going to interact with the [[#core]] business logic
 - Communicates with the respective [[#Primary adapter]]
+- **They are meant to be implemented by core classes**
 - `AuthHandler`, `CheckoutStrategy`, `UserRegistrationService`, `UserActionHandler`, `FileUploadService`
 - Ports can also be established in forms of CQRS. In CQRS, ports are `Command and Query`
 
@@ -135,6 +136,8 @@ Secondary Adapter (Outside of Core, outer area of the hexagon):
 - AKA `Required Port`
 - Defines a contract, an interface for means of communication with the external world
 - Communicates with the [[#Secondary adapter]]
+- They are meant to be implemented by [[#Secondary adapter]]s
+- Core business logic classes uses these secondary ports (which are interfaces), to interact with [[#Secondary adapter]]s. Core business logic classes do not interact with [[#Secondary adapter]]s directly.
 - `UserRepository`, `MessagePublisher`, `EmailFacade`, `FileStorage`, `PaymentGatewayAdapter`
 
 
@@ -150,7 +153,8 @@ Secondary Adapter (Outside of Core, outer area of the hexagon):
 #### Primary adapter
 
 - Adapters that wants to access the application and/or it's data
-- Implementation for the [[#Primary port]]
+- Uses the [[#Primary port]] to communicate with [[#Primary port]]s implementation in core business logic. 
+	- For example: primary port is `BookManager`, an interface. `BookManager` is implemented by `BookManagementFacade`. Primary adapter `BookManagementController` has an attribute `BookManager bookManager;`, it is expected that an implementation is `BookManager` is injected for it, in this case `BookManagementFacade`.
 - For example another app that relies on your data for its operations, some external that **consumes** your API
 - `UserRegistrationController` (REST API) handling HTTP requests for user registration operations, `UserRegistrationGraphQL`, `UserRegistrationCLI`. Or `DesktopUserActionHandler`, `MobileUserActionHandler`. Or `RESTFileUploadController`, `FormFileUploadController`
 
@@ -160,6 +164,8 @@ Secondary Adapter (Outside of Core, outer area of the hexagon):
 - Connects the application to external systems
 - Outbound communication
 - Implementations for [[#Secondary port]], conforming to its contract
+	- For example: `BookRepository` is a secondary port, `MongoDBBookRepository` is a secondary adapter that implements `BookRepository`
+- They are indirectly consumed by core business logic classes, only through [[#Secondary port]]s.
 - `MySQLUserRepository`, `MongoUserRepository`, `RabbitMQMessagePublisher`, `MailgunEmailSender`, `LocalFileStorage`, `S3FileStorage`, `StripePaymentGateway`, `PayPalPaymentGateway`
 
 
@@ -500,8 +506,9 @@ app.listen(3000, () => {
 	- Deviates from other tutorials and elaborations, uses different terms
 	- Diagrams are good
 	- Contains questions at the and that make you think and reinforce your learning, I liked these questions
-- [ ] https://github.com/JonathanM2ndoza/Hexagonal-Architecture-DDD
+- [x] https://github.com/JonathanM2ndoza/Hexagonal-Architecture-DDD
 	- Hexagonal Arch with DDD and microservice using Java Spring
+	- Folder structure is pretty good
 - [x] https://www.geeksforgeeks.org/hexagonal-architecture-in-java/
 	- Simple application in Java, it is basic with there are some mistakes or possible confusion points, don't see it unless you understand the concept fully, or it will confuse you further
 - [ ] https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
