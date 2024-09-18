@@ -8,7 +8,10 @@ _**So it is written, so it shall be done**... Or not !_
 
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
-- ~~[[hexagonal-architecture|Hexagonal architecture pattern]]~~
+- Software architecture patterns
+	- ~~[[hexagonal-architecture|Hexagonal architecture pattern]]~~
+	- [Clean architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+	- Onion architecture
 - Digest [this LLD guide](https://github.com/ashishps1/awesome-low-level-design)
 	- Fundamental concepts
 	- One easy problem
