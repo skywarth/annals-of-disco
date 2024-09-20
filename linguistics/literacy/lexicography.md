@@ -1,5 +1,18 @@
 # Lexicography
 
+
+## Altruism
+
+`al-tru-ism`
+
+1853, French origin `altruisme`. But if you deep dive to the roots: Italian word 'altrui', then at the bottom of it the 'alteri' meaning 'others' or 'someone else'.
+
+Unselfishness, act of being selfless. Opposite of `egoism` and selfishness. Altruist is someone who is devoted to the well-being of other, before himself.
+
+*Never knew you were an altruist Mr.  ..?*
+
+*Please, spare me from hearing your altruism bullcrap, your predecessors were far more  realistic.*
+
 ## Catharsis
 
 `ka-thar-sis`
