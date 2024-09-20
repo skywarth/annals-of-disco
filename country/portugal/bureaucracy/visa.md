@@ -367,6 +367,9 @@ List of data I gathered from various resources. For respecting privacy, real nam
 | Whatsapp | D3           | Turkey      | XX/XX/2022       |                        | XX/XX/2022      | 35~ days              | `O****n`                                                                                                                         |
 | Whatsapp | D4           | Turkey      | 05/08/2024       | 02/09/2024             | 16/09/2024      | 42 days               | `A.T.`, in group, Erasmus student. Subject claims consulate didn't notify by email. Though he received UPS notification via SMS. |
 
+Timelines database for Golden Visa (D9):
+- https://nomadgate.com/portugal/gv-timeline/
+- https://nomadgate.com/portugal/gv-timeline/main/
 #### Warnings and incidents
 
 ##### AIMA updating the software
