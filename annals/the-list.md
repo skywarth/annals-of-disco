@@ -37,6 +37,8 @@ _**So it is written, so it shall be done**... Or not !_
 - GPG (cryptography)
 	- [Nice *comfy* tutorial](https://www.youtube.com/watch?v=eLKOIjNFwVs)
 - CQRS
+- CORS
+	- [digest this](https://itnext.io/understanding-cors-4157bf640e11)
   - Though I've learned about it in the past, wouldn't hurt to revisit it
 - IPFS
 

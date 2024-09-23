@@ -366,10 +366,22 @@ List of data I gathered from various resources. For respecting privacy, real nam
 | Whatsapp | D4           | Turkey      | 07/08/2024       | 06/09/2024             | 13/09/2024      | 36 days               | `G****n`, in group, Erasmus student                                                                                              |
 | Whatsapp | D3           | Turkey      | XX/XX/2022       |                        | XX/XX/2022      | 35~ days              | `O****n`                                                                                                                         |
 | Whatsapp | D4           | Turkey      | 05/08/2024       | 02/09/2024             | 16/09/2024      | 42 days               | `A.T.`, in group, Erasmus student. Subject claims consulate didn't notify by email. Though he received UPS notification via SMS. |
+| Whatsapp | D4           | Turkey      | 20/08/2024       | 26/09/2024             | (Unknown)       | 30+ days              | `L.D.`, in group, Erasmus student.                                                                                               |
+| Whatsapp | D4           | Turkey      | XX/07/2024       | 20/09/2024             | 2X/09/2024      | 50+ days              | `Efe` in group, Erasmus student.                                                                                                 |
 
 Timelines database for Golden Visa (D9):
 - https://nomadgate.com/portugal/gv-timeline/
 - https://nomadgate.com/portugal/gv-timeline/main/
+
+
+#### Statistics
+
+- Total of 22.000 work visas are issued between 2024 January-August period.
+	- 33% of these are for Brazilian applicants, around 7.200~
+	- Another source claims it is 9262 work visas, not 22k
+- As of August 2024, there are about 350k~ visa applications waiting to be processed, [source](https://schengen.news/brazilians-waiting-for-4-months-for-their-portuguese-work-visas-to-be-processed/)
+- In June, July and August 2024 period, Portugal issued only 1266 work visas
+
 #### Warnings and incidents
 
 ##### AIMA updating the software
@@ -397,9 +409,72 @@ List of nationalities that may experience longer delays:
 
 These are guides for all types of visas, not limited to D3.
 
+- https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency#teaching-purposes-highly-qualified-or-cultural-activity-or-highly-qualified-subordinate-activity
 - https://www.migrun.tech/portugal/d3
 - https://medium.com/@furkankadioglu/portekize-göç-rehberi-d7-d8-nomad-vizesi-için-detaylı-anlatım-d8be8830012b
 - https://www.alperden.net/portekiz-vizesi-nasil-basvuru-yaptim-ve-vize-aldim/
+
+### News sources
+
+- https://schengen.news/schengen/portugal/
+
+### Contacting embassy/consulate via mail
+
+#### Format
+
+- Sender's info
+	- Top left side of the letter
+	- Full name, address, phone number, email address
+- Date
+	- Right below the sender's info, one or two lines of spacing in between
+	- `DD Month YYYY` format, e.g: `22 September 2024`
+- Consulate's info
+	- Following the date section, with a line or two of spacing, aligned left as well
+	- Consulate's name, address, postal code
+- Subject
+	- One line below consulate info, aligned left
+	- Starting with `Subject:`
+- Salutations
+	- `Dear Sir/Madam`
+- Closing
+	- `Yours faithfully`
+
+#### Example
+
+```
+[Your Full Name]  
+[Your Full Address]  
+[City, Zip Code, Country]  
+[Phone Number]  
+[Email Address]
+
+[DD Month YYYY]
+
+Consulate of Portugal  
+Consulate Section  
+[Embassy Address]  
+Ankara, [Postal Code]  
+Turkey
+
+Subject: [subject]
+
+[body]
+
+Yours faithfully,  
+[Your Signature] (if physical letter)  
+[Your Full Name]
+
+Attachments:  
+- Copy of Visa Application Receipt  
+- Copy of Passport (if applicable)
+
+```
+
+#### Resources
+
+- https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/student_sample_letter.pdf
+- https://app.formspal.com/pdf-editor/letter-to-embassy-for-visa?DocumentUID=5e8ba96e-36e3-4a81-b828-bcdb76f011fe
+- https://uk.pinterest.com/pin/770326711240828954/
 
 ### Requesting appointment from the embassy
 

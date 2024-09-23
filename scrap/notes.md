@@ -7,6 +7,7 @@ obsidian templates
 - https://github.com/anpigon/obsidian-book-search-plugin
 - https://github.com/groepl/Obsidian-Templates
 
+bongard puzzle
 
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
