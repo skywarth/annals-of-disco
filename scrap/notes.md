@@ -8,6 +8,7 @@ obsidian templates
 - https://github.com/groepl/Obsidian-Templates
 
 bongard puzzle
+- https://www.oebp.org/welcome.php
 
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
@@ -102,3 +103,11 @@ https://eures.europa.eu/index_pt
 Agent Orange
 
 Catharism
+
+Caesar's so called quote about western Iberia, possibly cliche or made-up
+- https://www.goodreads.com/quotes/12168108-there-is-in-the-most-occidental-part-of-iberia-a
+- https://dialnet.unirioja.es/servlet/articulo?codigo=5905456
+
+Personal knowledge bases
+- https://github.com/lyz-code/blue-book
+

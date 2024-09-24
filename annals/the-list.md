@@ -55,6 +55,7 @@ _**So it is written, so it shall be done**... Or not !_
 - ~~[Publish my first GitHub action](https://github.com/skywarth/vite-github-pages-deployer)~~
 - ~~[Darkest Dungeon themed PR narrator](https://github.com/skywarth/darkest-PR)~~
 - ~~[Publish a GitHub app for the first time](https://github.com/marketplace/darkest-pr)~~
+- Static site for [annals-of-disco](https://github.com/skywarth/annals-of-disco)
 - Publish my UltraMegaFusionRandom PRNG for PHP. (why so little amount of PRNGs in PHP, do I have to do everything myself ?)
 - network controlled pico pomodoro
 - Public thank you page (submitting form etc.), preferably parametric
