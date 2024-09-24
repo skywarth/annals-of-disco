@@ -67,7 +67,7 @@ You cannot easily send funds to a European bank from a third-country bank, even 
 ### Opening bank account
 
 #### Requirements
-- [NIF](./bureaucracy/tax.md#NIF)
+- [NIF](bureaucracy/tax.md#NIF)
 - Copy of resident card or passport
 	- Along with your visa
 - Proof of address
