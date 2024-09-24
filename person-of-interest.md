@@ -17,12 +17,12 @@
 ## Schizo
 
 - Slavoj Žižek
-  - That Slovenian philosopher guy
-  - Slightly schizo
-  - Philosopher
-  - Dude I love his gists, hand gestures and constant touching of nose
-  - Has some rather radical views on various subjects
-  - He likes to talk about gender stuff
+	- That Slovenian philosopher guy
+	- Slightly schizo
+	- Philosopher
+	- Dude I love his gists, hand gestures and constant touching of nose
+	- Has some rather radical views on various subjects
+	- He likes to talk about gender stuff
 
 
 ---
