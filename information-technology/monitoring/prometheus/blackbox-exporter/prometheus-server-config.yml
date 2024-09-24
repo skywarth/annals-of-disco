@@ -1,0 +1,37 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+# maybe some other jobs here etc.
+# other jobs could be about some other exporter types. It doesn't matter
+
+# ===================
+# FOCUS HERE BEGIN
+# ===================
+  - job_name: 'blackbox'
+    metrics_path: /probe
+    params:
+      module: [http_2xx]
+    static_configs:
+      - targets:
+        - https://forwardie.com
+        - https://maps.googleapis.com/maps/api/geocode/json?address="test"
+        - https://cdn.jsdelivr.net
+        - https://cdn.tiny.cloud
+        - https://unpkg.com
+        - https://api.parasut.com
+        - https://github.com
+        - https://mailgun.com
+        - https://teams.microsoft.com
+        - https://outlook.com
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - source_labels: [__param_target]
+        target_label: instance
+      - target_label: __address__
+        replacement: 127.0.0.1:9115 # This is the blackbox-exporter's address and port.
+
+# ===================
+# FOCUS HERE END
+# ===================
