@@ -2,3 +2,4 @@
 .obsidian/
 static_site/
 site/
+.cache/
