@@ -25,6 +25,19 @@
 	- He likes to talk about gender stuff
 
 
+## Misc
+
+- Mark Jason Dominus
+	- Interested in:
+		- mathematics
+		- archaic programming languages (Perl, Erlang etc.)
+		- etymology and linguistics
+		- various other subject, all around
+	- Lives in US
+	- Has a blog named [The universe of **Disco**](https://blog.plover.com/tech/), RSS is supported
+	- [About page](https://blog.plover.com/meta/about-me.html)
+	- Performs research on really peculiar concepts, quite rare to be honest 
+
 ---
 ## Unsifted ones below
 
