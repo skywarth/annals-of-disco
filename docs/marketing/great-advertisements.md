@@ -10,3 +10,9 @@ https://youtu.be/zzmI-ApEq7Y?si=QTUb4bdLAKoY1imf
 
 https://youtu.be/w9ogzVyTtcw?si=4EsLFayCECcdiBUK
 
+## Asics - The desk break (2024)
+
+- Awareness about working all day at desk
+
+https://www.youtube.com/watch?v=3XFXcBdXqKE
+
