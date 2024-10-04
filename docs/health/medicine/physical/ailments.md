@@ -6,10 +6,9 @@
 > **Always consult your doctor/physician without delay.**
 ---
 
-#### Chlamydia (STD)
+### Chlamydia (STD)
 
 Research.
-
 
 ### Decubitus (Pressure ulcer, bedsores)
 Research. Careful, nasty stuff. Varies in location: elbows, shoulder, sacrum etc. Has 4 stages. 
@@ -17,6 +16,16 @@ Research. Careful, nasty stuff. Varies in location: elbows, shoulder, sacrum etc
 
 ### Agnosia
 Interesting stuff, do research
+
+### Diabetic retinopathy
+
+- It is essentially a result of diabetes causing damage on various organs. In this case; it is eyes
+- It is the leading cause of vision impairment
+- 99% of patients with diabetes type 1 and around %60 percent of patients with diabetes type 2 display some degree of it
+- If left untreated; it'll result in severe vision impairment by big portions of floaters, if not complete blindness
+- Fluctuating vision, floaters, blurred vision, eye strain, red eyes, trouble with seeing in the dark
+- It is exclusive to diabetic patients
+
 
 ### Pneumococcal disease
 - Caused by pneumococcus bacteria

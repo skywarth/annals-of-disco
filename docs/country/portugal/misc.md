@@ -14,6 +14,9 @@ PT (CCA2) - PRT (CCA3)
 ## Uncategorized miscellaneous notes
 These will be categorized and put into separate files in time.
 
+
+- English language bookshop in Lisbon
+	- https://saltedbooks.com/
 ### Online shopping
 
 - FNAC, fnac.pt - for electronics

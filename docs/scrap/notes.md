@@ -1,5 +1,4 @@
 
-diabetic retinopathy 
 
 obsidian templates
 - https://github.com/llZektorll/OB_Template
@@ -112,3 +111,7 @@ Personal knowledge bases
 - https://github.com/lyz-code/blue-book
 
 Filioque
+
+yhwh
+
+cubital tunnel syndrome

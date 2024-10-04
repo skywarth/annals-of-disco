@@ -134,6 +134,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 ### Watch later
 
 - Into the wild (2007)
+- Deadpool & Wolverine (2024) 
 - The cabin in the woods (2012)
 - The Man Who Saw Tomorrow (1981)
 - Wild Tales (2014)
