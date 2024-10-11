@@ -69,3 +69,8 @@ These will be categorized and put into separate files in time.
 ### Local salaries and living conditions
 
 - https://www.reddit.com/r/PTOrdenado/
+
+
+### Satire and humorous guides
+
+- https://www.youtube.com/watch?v=l9asCLWPeI0

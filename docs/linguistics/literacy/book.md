@@ -46,6 +46,7 @@
 - Il Principe -  Niccolo Machiavelli (Great book about influencing and controlling people. Must read)
 - Art of Thinking Clearly 2013 - Rolf Dobelli
 - Meditations - Marcus Aurelius
+- Chaucer's Prologue Knight's Tale - Geoffrey Chaucer (1920s edition)
 - The Power and the Glory (Graham Greene)
 - The Lean Startup (Eric Ries)
 - Our mutual friend - Charles Dickens
