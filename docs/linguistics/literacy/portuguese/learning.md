@@ -300,3 +300,16 @@ or
 Translation: Where is the pharmacy?
 
 ---
+
+> Onde está x?
+
+Translation: Where is X?
+
+---
+
+> Isto requer cozimento
+
+Translation: This requires cooking? *or* Does this require cooking?
+
+
+

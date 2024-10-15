@@ -13,7 +13,6 @@ Probably forgot most of the past ones.
 - For all mankind*
 - Fargo*
 - Invincible*
-- Person of interest*
 - The Bible (2013)*
 - Gen-V*
 
@@ -23,6 +22,7 @@ Probably forgot most of the past ones.
 - Hannibal
 - Halt and Catch Fire
 - See
+- Person of interest
 - Spartacus
 - Better Call Saul
 - Arcane
