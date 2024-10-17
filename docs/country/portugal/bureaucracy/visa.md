@@ -332,6 +332,8 @@ List of data I gathered from various resources. For respecting privacy, real nam
 	- Some say wife got it in 25 days but husband's application is taking more than 3 months
 
 
+<!--
+
 | Source   | Visa type    | Consulate   | Application date | Designated Travel date | Conclusion date | Total days in process | Remarks                                                                                                                             |
 | -------- | ------------ | ----------- | ---------------- | ---------------------- | --------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Facebook | Erasmus      | Turkey      | 27/06/2024       | 29/07/2024             | 29/07/2024      | 32 days               | Issued on the day the subject was going to travel, damn.                                                                            |
@@ -381,6 +383,9 @@ List of data I gathered from various resources. For respecting privacy, real nam
 | Whatsapp | D4           | Turkey      | 20/08/2024       |                        | 20/09/2024      | 30 days               | `M.D.`, in group, Erasmus student                                                                                                   |
 | Whatsapp | D4           | Turkey      | 23/08/2024       |                        | 20/09/2024      | 33 days               | `A.A.`, in group, Erasmus student. Got response to his emails somehow, could be due to the fact he was close to receiving the visa. |
 | Whatsapp | D4           | Turkey      | 13/08/2024       |                        | 12/09/2024      | 29 days               | `Gurkan`, in group, Erasmus student                                                                                                 |
+
+-->
+
 
 Timelines database for Golden Visa (D9):
 - https://nomadgate.com/portugal/gv-timeline/
