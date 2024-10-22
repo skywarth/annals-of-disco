@@ -129,10 +129,12 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Lincoln (2012) (Abraham Lincoln, USA, slavery, emancipation, civil war, confederation. Actor of Abraham Lincoln did a good job. Suspense during the ballot counting was nicely emphasized. Nice movie, but really hard to watch in one sitting, watch it in 3 sessions.)
 - Passengers (2016) (Spaceship, colony, habitable planet, cryo sleep, long waiting, couple, spending years alone in a spaceship. Jennifer Lawrence's acting falls flatter than a sheet of paper, some other actress would've done it far better. Some loopholes to force the romantic narrative. It was OK.)
 - Lion of the Desert (1981) (Libya, Italy, colony, imperialism, occupation, war, history, biography, independence, freedom, leadership, negotiation, guerilla, WW2, Mussolini. It's a movie about Omar Mukhtar who fought for the freedom of Libya and Bedouin, which was under the management of Italy at the time. Great movie.)
+- Alien: Romulus (2024) (Alien franchise, synthetic, space, miner ship, colony, space colony. It was alright, it's an Alien movie after all so it is certainly watchable)
 
 
 ### Watch later
 
+- Sanjuro (1962)
 - Into the wild (2007)
 - Deadpool & Wolverine (2024) 
 - The cabin in the woods (2012)
