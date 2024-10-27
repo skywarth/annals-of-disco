@@ -4,17 +4,19 @@ Probably forgot most of the past ones.
 
 ## Watching
 
-- The Boys*
-- Love, Death & Robots*
-- Black mirror*
-- Last Of Us*
-- The Witcher *
-- What we do in the shadows *
-- For all mankind*
-- Fargo*
-- Invincible*
-- The Bible (2013)*
-- Gen-V*
+- The Boys
+- Love, Death & Robots
+- Black mirror
+- Last Of Us
+- The Witcher
+- What we do in the shadows
+- For all mankind
+- Fargo
+- Invincible
+- The Bible (2013)
+- Gen-V
+- Those about to die
+- Shogun
 
 ## Watched
 - Lost
@@ -26,6 +28,7 @@ Probably forgot most of the past ones.
 - Spartacus
 - Better Call Saul
 - Arcane
+- The Man In The High Castle
 - Westworld
 - House
 - Black Summer
@@ -37,15 +40,13 @@ Probably forgot most of the past ones.
 - Castlevania
 - Marco polo
 - Brave new world
+- Afterlife
 
 
 
 ## To be watched
 
-- Afterlife
 - true detective
-- Those about to die (rome themed)
-- shogun
 - Loudermilk
 - fallout
 - mindhunter
