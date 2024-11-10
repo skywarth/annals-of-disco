@@ -8,6 +8,9 @@ _**So it is written, so it shall be done**... Or not !_
 
 - ~~Custom endpoint for Prometheus BlackBox exporter~~
 - ~~Typescript~~
+- Bulding a PHP framework
+	- [Playlist](https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1)
+	- [Building laravel from scratch (old)](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 - Software architecture patterns
 	- ~~[[hexagonal-architecture|Hexagonal architecture pattern]]~~
 	- [Clean architecture by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

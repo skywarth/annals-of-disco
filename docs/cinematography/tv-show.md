@@ -17,7 +17,7 @@ Probably forgot most of the past ones.
 - Gen-V
 - Those about to die
 - Shogun
-
+- fallout
 ## Watched
 - Lost
 - Breaking Bad
@@ -41,6 +41,8 @@ Probably forgot most of the past ones.
 - Marco polo
 - Brave new world
 - Afterlife
+- Dark
+- The Witcher: Blood Origin
 
 
 
@@ -48,12 +50,9 @@ Probably forgot most of the past ones.
 
 - true detective
 - Loudermilk
-- fallout
 - mindhunter
 - LoTR: Rings of power
-- The Witcher: Blood Origin
 - House of the dragon
-- dark
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
