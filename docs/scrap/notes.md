@@ -9,6 +9,8 @@ obsidian templates
 bongard puzzle
 - https://www.oebp.org/welcome.php
 
+Irish goodbye
+
 Marc Landolt (marclandolt.ch). Serious schizo stuff.
 
 Jungian archetypes
@@ -117,3 +119,9 @@ yhwh
 cubital tunnel syndrome
 
 End of unix timestamp is approaching. Jan 19, 2038
+
+Wuxia
+
+L'chaim
+
+British gesture: tapping the nose on the side (means between us or secret)

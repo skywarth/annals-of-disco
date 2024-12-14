@@ -18,6 +18,9 @@ Probably forgot most of the past ones.
 - Those about to die
 - Shogun
 - fallout
+- House of the dragon
+- LoTR: Rings of power
+- true detective*
 ## Watched
 - Lost
 - Breaking Bad
@@ -48,11 +51,10 @@ Probably forgot most of the past ones.
 
 ## To be watched
 
-- true detective
+
+- Secret Level
 - Loudermilk
 - mindhunter
-- LoTR: Rings of power
-- House of the dragon
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)

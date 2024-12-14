@@ -130,7 +130,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Passengers (2016) (Spaceship, colony, habitable planet, cryo sleep, long waiting, couple, spending years alone in a spaceship. Jennifer Lawrence's acting falls flatter than a sheet of paper, some other actress would've done it far better. Some loopholes to force the romantic narrative. It was OK.)
 - Lion of the Desert (1981) (Libya, Italy, colony, imperialism, occupation, war, history, biography, independence, freedom, leadership, negotiation, guerilla, WW2, Mussolini. It's a movie about Omar Mukhtar who fought for the freedom of Libya and Bedouin, which was under the management of Italy at the time. Great movie.)
 - Alien: Romulus (2024) (Alien franchise, synthetic, space, miner ship, colony, space colony. It was alright, it's an Alien movie after all so it is certainly watchable)
-
+- Apocalypse Z: The Beginning of the End (2024) (Yet another meh zombie movie, nothing special, nothing stands out, a lot of useless fillers and drama to make it compelling but fails miserably. Food movie.)
 
 ### Watch later
 
@@ -141,6 +141,7 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Man Who Saw Tomorrow (1981)
 - Wild Tales (2014)
 - Phenomenon (1966)
+- The Mission (1986)
 - A walk in the sun (1945)
 - Dark Angel (1990)
 - Hidden figures (2016)

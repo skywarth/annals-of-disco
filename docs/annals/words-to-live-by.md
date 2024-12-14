@@ -9,3 +9,4 @@ Some I devised myself, some are from; movies, tv shows, books, novels, articles,
 1. > "You never open your mouth, until you know what the shot is."
 2. > "If you're going to kill something, kill it good. Or else it will come crawling back from the dead and won't make the same mistake that you did."
 3. > "You can't help those who can't help themselves."
+4. > "Comfort is the worst addiction"
