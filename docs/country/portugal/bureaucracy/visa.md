@@ -17,9 +17,9 @@ D3 visa is for highly skilled professionals
 - If applying with promise of contract (means no contract yet, maybe just offer), then 10k EUR in savings
 - Since this is intended for more than 1 year stay, it is a **national visa**
 - The visa (once you obtain it) stamped on your passport will bear the properties
-  - Two entries only, don't leave the country once you're in!
-  - Valid for 120 days (the time to make residency application)
-    - Though this can be extended by the government, since AIMA is overwhelmed with applications and has a backlog of 400K+ applications, [news post](https://worktugal.substack.com/p/portugal-immigration-documents-extension) about this. It was recently extended to one year for all those that posses the visa/documents.
+	  - Two entries only, don't leave the country once you're in!
+	  - Valid for 120 days (the time to make residency application)
+	    - Though this can be extended by the government, since AIMA is overwhelmed with applications and has a backlog of 400K+ applications, [news post](https://worktugal.substack.com/p/portugal-immigration-documents-extension) about this. It was recently extended to one year for all those that posses the visa/documents.
 - You may obtain citizenship in 5 years of residency
 
 ## Application 

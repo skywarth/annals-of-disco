@@ -54,6 +54,7 @@
 - The Papalagi (Der Papalagi)
 - Flowers for Algernon - Daniel Keyes
 - The Scourge of God -  William Dietrich
+- Paradise Lost - John Milton
 
 #### Misc
 

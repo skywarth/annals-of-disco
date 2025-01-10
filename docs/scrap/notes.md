@@ -125,3 +125,7 @@ Wuxia
 L'chaim
 
 British gesture: tapping the nose on the side (means between us or secret)
+
+https://adplist.org/
+
+Tech neck
