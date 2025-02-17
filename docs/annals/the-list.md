@@ -131,6 +131,7 @@ _**So it is written, so it shall be done**... Or not !_
   - One for; financial freedom
 
 - Run a marathon
+- Do a Tour de stade 
 - ~~Start a new life in a proper country~~
 
 

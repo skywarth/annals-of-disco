@@ -21,8 +21,10 @@ Probably forgot most of the past ones.
 - House of the dragon
 - LoTR: Rings of power
 - true detective*
+- Lost* (re-watch)
+- Secret Level
 ## Watched
-- Lost
+
 - Breaking Bad
 - Hannibal
 - Halt and Catch Fire
@@ -52,7 +54,6 @@ Probably forgot most of the past ones.
 ## To be watched
 
 - Zero Day
-- Secret Level
 - Loudermilk
 - mindhunter
 - stargate (SG-1)

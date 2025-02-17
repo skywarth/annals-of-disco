@@ -129,3 +129,21 @@ British gesture: tapping the nose on the side (means between us or secret)
 https://adplist.org/
 
 Tech neck
+
+https://en.wikipedia.org/wiki/Mongrel_complex
+
+Lexicography: Vagabond
+
+Melta drink from CZ
+
+schizoid vs schizotypal
+
+uncle tom as slang/slur
+
+coon
+
+Lexicography: profuse, profusely
+
+lexicography: perspiring
+
+The Moscow Rules

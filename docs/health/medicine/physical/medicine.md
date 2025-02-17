@@ -31,3 +31,7 @@ Drinking it could be dangerous, there is no confirmation on it's alright to drin
 - Helps weight loss
 
 ## Synthetic
+
+### Antibiotics
+
+- Medicines that are suffixed with  `*cillin` or `*mycin` are usually antibiotics

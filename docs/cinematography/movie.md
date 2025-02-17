@@ -143,12 +143,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The cabin in the woods (2012) (Creatures, monsters, overseeing, generic teenager group, murder. Group of generic teenagers go to a cabin in the woods for a spring break, while the whole thing is a organized sacrificial pact. It somewhat like a comedy at times. Not really great, only the concept is somewhat interesting. Food movie.)
 - Wild Tales (2014) (multiple stories, asshole, jerk, vengeance, retribution, human condition, we live in a society yada yada. )
 - The Mission (1986) (Jesuit, Catholic, Christianity, south america, natives, power dynamics, honor, test of faith. Guy finding religion after murdering his brother and dying for what he believes in, for one thing he once sought to destroy. Story is nice, sceneries are great. Overall, really good movie.)
-
+- Venom: The Last Dance (2024) (Alien, symbiote, area 51, military, action, sci-fi.  Unoriginal, lame, whack story. Scientists were such whackos and insufferable, the writers are really good at making irritating characters, though I'm sure they didn't mean to do so. A lot of useless details and backstory which doesn't contribute to shit. CGI was OK. Overall, bad. Food movie. )
+- Sonic 2 (2022) (Sonic universe, knuckles, tails. It's a kids movie IMHO. Animation wise it is good but the story and the plot sucks ass. Not good. )
+- Sonic 3 (2024) (Sonic universe, knuckles, tails, shadow hedgehog. Shadow was the only likable character, rest has the depth of a cooking paper. I know it doesn't have to be logical but holy crap whole thing doesn't make any sense at all, just turn off your brain. Food movie, at best.  )
+-  Platform (2019) (Greed, gluttony, Spanish, dystopia, experiment. Essentially it is one of those "we live in a society" bullcrap narrative movies, but this one somehow nailed it. It was "obvio" good. Good movie. Watched it for the second time )
+- The Green Mile (1999) (Miracle, prison, jail, false allegation, kindness, sad ending. Yeah so it is one of those movies that can make a grown man cry. It is a great movie, hence the IMDB score. Characters have pretty good depth to them. Great movie. )
 
 ### Watch later
 
+- Phone booth (2002)
+- The 300 Spartans (1962)
+- Hobbit movies
 - Yojimbo (1961)
-- The Green Mile (1999)
 - Apocalypto (2006)
 - Sanjuro (1962)
 - The Man Who Saw Tomorrow (1981)
@@ -164,5 +170,6 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Starship Troopers
 - Lethal Weapon 2,3,4
 - the killer (1989)
+- 
 
 
