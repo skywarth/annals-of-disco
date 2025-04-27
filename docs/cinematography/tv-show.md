@@ -5,11 +5,10 @@ Probably forgot most of the past ones.
 ## Watching
 
 - The Boys
-- Love, Death & Robots
+- Love, Death & Robots*
 - Black mirror
-- Last Of Us
+- Last Of Us*
 - The Witcher
-- What we do in the shadows
 - For all mankind
 - Fargo
 - Invincible
@@ -21,7 +20,6 @@ Probably forgot most of the past ones.
 - House of the dragon
 - LoTR: Rings of power
 - true detective*
-- Lost* (re-watch)
 - Secret Level
 ## Watched
 
@@ -48,12 +46,15 @@ Probably forgot most of the past ones.
 - Afterlife
 - Dark
 - The Witcher: Blood Origin
+- What we do in the shadows
+- Lost (watched twice)
+- Zero Day
 
 
 
 ## To be watched
 
-- Zero Day
+
 - Loudermilk
 - mindhunter
 - stargate (SG-1)

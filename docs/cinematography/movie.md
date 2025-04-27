@@ -148,16 +148,30 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Sonic 3 (2024) (Sonic universe, knuckles, tails, shadow hedgehog. Shadow was the only likable character, rest has the depth of a cooking paper. I know it doesn't have to be logical but holy crap whole thing doesn't make any sense at all, just turn off your brain. Food movie, at best.  )
 -  Platform (2019) (Greed, gluttony, Spanish, dystopia, experiment. Essentially it is one of those "we live in a society" bullcrap narrative movies, but this one somehow nailed it. It was "obvio" good. Good movie. Watched it for the second time )
 - The Green Mile (1999) (Miracle, prison, jail, false allegation, kindness, sad ending. Yeah so it is one of those movies that can make a grown man cry. It is a great movie, hence the IMDB score. Characters have pretty good depth to them. Great movie. )
+-  No Man's Land - Alien Fan Film (2024) (Alien franchise, Ottoman, Austrian, World War 1. For a short-film that is a fan-made Alien franchise spin-off, not bad. But it's a short movie so it sucks. )
+- Phone booth (2002) (Yuppie, marksman, phone booth, threat, hostage, mastermind, playing with people, sociopath. The whole movie basically takes in the same street which is quite interesting, the antagonist has a charming voice and he plays/manipulates people. Good movie. )
+- Hobbit movies (LOTR, war, dwarf, elf, orc, troll, ring, gold, riches, mountain. First movie is decent, second and the third has hideous CGI for whatever reason. Like those CGI were so bad it was etched into my eyeballs. I like this trilogy though, it's not bad. Glad Alfrid Lickspittle was in the movie, he brings a nice color to it. They kinda forced the comedy element every now and then. Trilogy actually contains some memorable scenes. There were some really dumb elements even for a fantasy setting. And that whole elf-dwarf thing, it sucked, they did my man Legolas dirty. Good movie/trilogy. )
+- Yojimbo (1961) (Samurai, Japan, Black & white, honor, morality, making deal, switching side, manipulation. A ronin samurai who actually tries to do good but doesn't want to look good in people's eyes, playing both sides who are evil, until he destroys them all. Has decent comedy elements, not forced. Character has decent depth, memorable. Great movie.)
+- Apocalypto (2006) (Jungle, native, primal, hunt, Aztec, Maya, Mesoamerica, fear, captive. It is pretty good, atmosphere is nailed nicely, has few memorable scenes, nice shooting techniques for it's time. Good movie.)
+- Sanjuro (1962) (Samurai, Japan, Black & white, honor, morality, doing what's right. Almost identical to Yojimbo, besides it's the same period and I suppose the same director? Even the same actor with it. Character might also be the same. It's a sellsword ronin/samurai, helping a local warlord because of injustice and dishonor against him, he is joining with this lord's samurai's to save him from captivity and clean that lord's name. He is a good character but doesn't like being called so. Great movie.)
+- Death Wish (2018) (Doctor, home invasion, burglar, murder, family, vigilante, justice. It's one of those good guy gone bad movies where a family guy seeks justice by being a vigilante, hunting bad people, because of police incompetency. It's a classic narrative, there are multiple movies in this regard, I think it's a cheap copy of those. It's kinda cliche. It's meh, food movie. )
+- The 13th Warrior (1999) (Northmen, Scandinavia, paganism, arab, viking, folklore, village, defense, learning language, adaptation. Some arab emissary travels to north lands, meets a posse and joins them on a mission, learns their language and fight alongside them. It is a interesting story, nicely executed, no virtue signalling and stuff. Watched it for a second time. Ending was slightly rushed and some stuff are left unresolved though. Great movie.)
+- Death Sentence (2007) (Family man, suburbs, crime, murder, justice, vigilante, home invasion, good guy goes bad and stuff. Family man seeks justice by being vigilante after his son is killed and no justice is served. Similar to Death Wish 2018. One quote close to the ending of the movie is phenomenal and life changing, other than that it's alright. Not bad, it's ok.)
+- Parasite (2019) (Squatter, Korea, Class difference, poorness, poverty, con, conman, manipulation, taking advantage of, ripping-off, )
+- Novocaine (2025) (Not being able to feel pain, action, saving gf, bank robbery, criminal, police. For me this feels like non-POV and bootleg version of 'Hardcore Henry', but it's worse than that. They copied so many elements from 'Hardcore Henry', the whole fake love story, adrenaline memes, not feeling pain and stuff. And the whole thing doesn't make sense one bit. Food movie.)
+- Primal Fear (1996) (Murder, detective, law, lawyer, police, psychopath, manipulation, deception, pretending, court. Story about uncovering the truth behind a murder of a bishop. Edward Norton did a pretty decent job I would say. Pretty decent psychopath movie. I liked it. Good movie)
+- Casino (1995) (Casino, gambling, management, boss, corruption, bribe, Las Vegas, stealing, family woes, betrayal, De Niro, leverage, upper hand, cheating. Decent movie. )
+- Riding Bean (1989) (Animated, police, robbery, double-cross, criminal, action, flashy cars, chase, heat. It's one of them classic action animes. It's ok.)
+- The killer (1989) (Police, assassin, hitman, crime, thriller, action, gun fu, Chinese, organized crime. It's very similar to Hard Boiled, and Golgo 13. This movie inspired ton of great movies in action genre. It is a staple gun-fu movie. It is one of those movies where every gun fires Dragon's breath incendiary rounds and every single thing simply just explodes when shot at. Great movie.)
 
 ### Watch later
 
-- Phone booth (2002)
+- Conan the Barbarian (1982)
+- Red Sonja (1985)
+- She (1984)
 - The 300 Spartans (1962)
-- Hobbit movies
-- Yojimbo (1961)
-- Apocalypto (2006)
-- Sanjuro (1962)
 - The Man Who Saw Tomorrow (1981)
+- The Quiet Earth (1985)
 - Phenomenon (1966)
 - A walk in the sun (1945)
 - Dark Angel (1990)
@@ -166,10 +180,6 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Jason and the Argonauts (1963)
 - The Cheerleader (1973)
 - 13 assasins
-- Riding Bean (1989)
 - Starship Troopers
-- Lethal Weapon 2,3,4
-- the killer (1989)
-- 
 
 

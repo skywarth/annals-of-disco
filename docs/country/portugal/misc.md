@@ -17,6 +17,10 @@ These will be categorized and put into separate files in time.
 
 - English language bookshop in Lisbon
 	- https://saltedbooks.com/
+- Ultra nationalistic interviews
+	- in Martim Moniz: https://www.youtube.com/watch?v=g4UixhxW-wY
+	- https://www.youtube.com/watch?v=h2hmB_aAQGs
+- https://leefapt.weebly.com/residentCardTracker.html
 ### Online shopping
 
 - FNAC, fnac.pt - for electronics
