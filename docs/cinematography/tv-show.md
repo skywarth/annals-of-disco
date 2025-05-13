@@ -21,6 +21,7 @@ Probably forgot most of the past ones.
 - LoTR: Rings of power
 - true detective*
 - Secret Level
+- mindhunter*
 ## Watched
 
 - Breaking Bad
@@ -56,7 +57,6 @@ Probably forgot most of the past ones.
 
 
 - Loudermilk
-- mindhunter
 - stargate (SG-1)
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)

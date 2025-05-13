@@ -21,6 +21,8 @@ These will be categorized and put into separate files in time.
 	- in Martim Moniz: https://www.youtube.com/watch?v=g4UixhxW-wY
 	- https://www.youtube.com/watch?v=h2hmB_aAQGs
 - https://leefapt.weebly.com/residentCardTracker.html
+- https://www.reddit.com/r/PortugalExpats/comments/1kc48ts/comment/mpzqct4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://votimetro.app/
 ### Online shopping
 
 - FNAC, fnac.pt - for electronics

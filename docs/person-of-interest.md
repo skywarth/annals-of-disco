@@ -60,3 +60,5 @@ Eric Kim (https://erickimphotography.com/)
 Longtao Wu (https://www.longtao.fun/)
 
 rdqmap (https://rqdmap.top/about/)
+
+BossManLacks (Gambling addict, drug addict, online gambler, streamer, low life, self destructive)

@@ -163,9 +163,18 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - Casino (1995) (Casino, gambling, management, boss, corruption, bribe, Las Vegas, stealing, family woes, betrayal, De Niro, leverage, upper hand, cheating. Decent movie. )
 - Riding Bean (1989) (Animated, police, robbery, double-cross, criminal, action, flashy cars, chase, heat. It's one of them classic action animes. It's ok.)
 - The killer (1989) (Police, assassin, hitman, crime, thriller, action, gun fu, Chinese, organized crime. It's very similar to Hard Boiled, and Golgo 13. This movie inspired ton of great movies in action genre. It is a staple gun-fu movie. It is one of those movies where every gun fires Dragon's breath incendiary rounds and every single thing simply just explodes when shot at. Great movie.)
-
+- Kingdom of the Planet of the Apes (2024) (planet of the apes, sci-fi, apocalypse, XXXXXXXXXXXXX)
+- The Platform 2 (2024) (Greed, gluttony, riot, revolt, revolution, human condition, Spanish movie, experiment, discipline, communism, loyalist. "We live in a society" movie. Compared to the first movie, this one has far stronger communist/socialist elements. Story about the protagonist was too convoluted, didn't even grasp it as a whole. Ending was weird and bleak. I liked the first movie more I think, but this one had. Ok movie.)
+- Captain America: Brave New World (2025) (Marvel, action, superhero, USA, POTUS. Holy crap, how can you be this bad. Even for a superhero movie, it was incredibly dumb and utterly without any common sense whatsoever. Shit movie.)
+- The Cloverfield Paradox (2018) (Alien, anomaly, supernatural, sci-fi, space, spaceship, war, conflict, mission, crew. It's set in the Cloverfield universe, it is the prologue of the Cloverfield movie. Aside from all the utter stupidity and illogical stuff, it's somewhat enjoyable. But all the crew woes are somewhat boring. All in all it's sci-fi sooo. Bad movie.)
+-  The Predator (2018) (Predator, hunt, hunter, modification, autism, comedy, sci-fi. If it wasn't Predator franchise, I would say it's utter garbage but I got a soft spot for it. Comedy elements were too forced, didn't fit. Unnecessary background of the characters which makes no difference than being fillers. Whole thing doesn't make the slightest sense, you need to turn your brain off to enjoy it somehow. Ok movie.)
+- Slingshot (2024) (Sci-fi, world, end of the world, mission, crew, team, leadership, insanity, fear, morale, spaceship, space, drama. I mean they have some famous lead actors, but even then it was barely ok by an inch. Good insights on team management and leadership. It has the Shutter Island vibes. A lot of mindf*ck, plot twist. Ok movie.)
+- Mickey 17 (2025) (Sci-fi, space, colony, planet, inhabit, clone, disposable. Story of a guy that is being used as disposable asset constantly by being replica/clone. Only few moments were somewhat funny, rest of the comedy is garbage. Ton of useless details that contribute nothing to the story or the setting. Like what was that deal about the love triangle? Food movie.)
 ### Watch later
 
+- The Girl with All the Gifts (2016)
+- Predator: Dark Ages (2015)
+- Steppenwolf (2025)
 - Conan the Barbarian (1982)
 - Red Sonja (1985)
 - She (1984)

@@ -6,3 +6,4 @@
 - [Bobby Lee Childhood story](https://youtu.be/SBaFwemRrJ4?feature=shared)
 - [Two-liter explodes and stuns dog](https://youtu.be/ZxgQDllsaaA?feature=shared)
 - [Yer stick's not even touching the ground man](https://youtu.be/--UFhi_8zsc?feature=shared)
+- [Bribing police in Kazakhstan](https://www.reddit.com/r/ANormalDayInRussia/comments/h0wuoa/how_to_guide_bribbing_a_cop_in_russia/)

@@ -17,6 +17,8 @@ Jungian archetypes
 
 Spelunking
 
+add "Turned up to eleven" term to charms
+
 Se'irim (Hebrew, means demon)
 
 Wuxia
@@ -147,3 +149,29 @@ Lexicography: profuse, profusely
 lexicography: perspiring
 
 The Moscow Rules
+
+Creole people
+
+https://en.m.wikipedia.org/wiki/Active_Denial_System 
+
+https://www.dges.gov.pt/en/pagina/degree-and-diploma-recognition
+
+Samsara
+
+English accents: British, cockney
+
+dogme 95
+
+Pro-bono
+
+Portugal IFICI
+
+Pagpag (novel worth poverty)
+
+habeous corpus
+
+Tomfoolery
+
+Labeling theory
+
+Miranda warning
