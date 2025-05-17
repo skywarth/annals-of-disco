@@ -175,3 +175,5 @@ Tomfoolery
 Labeling theory
 
 Miranda warning
+
+Public IP/web cams around the world
