@@ -170,9 +170,9 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 -  The Predator (2018) (Predator, hunt, hunter, modification, autism, comedy, sci-fi. If it wasn't Predator franchise, I would say it's utter garbage but I got a soft spot for it. Comedy elements were too forced, didn't fit. Unnecessary background of the characters which makes no difference than being fillers. Whole thing doesn't make the slightest sense, you need to turn your brain off to enjoy it somehow. Ok movie.)
 - Slingshot (2024) (Sci-fi, world, end of the world, mission, crew, team, leadership, insanity, fear, morale, spaceship, space, drama. I mean they have some famous lead actors, but even then it was barely ok by an inch. Good insights on team management and leadership. It has the Shutter Island vibes. A lot of mindf*ck, plot twist. Ok movie.)
 - Mickey 17 (2025) (Sci-fi, space, colony, planet, inhabit, clone, disposable. Story of a guy that is being used as disposable asset constantly by being replica/clone. Only few moments were somewhat funny, rest of the comedy is garbage. Ton of useless details that contribute nothing to the story or the setting. Like what was that deal about the love triangle? Food movie.)
+- The Girl with All the Gifts (2016) (UK, apocalypse, zombie, fungi, infection, outbreak. It's like bootleg version of Last of Us. Plot is both interesting and dumb at the same time, some shit doesn't make even the slightest sense. And the whole 'lord of the flies' thing really ruined the thing in my opinion. If certain elements were removed, could've been a good movie. And man, that main character girl is sooooo annoying. Ok movie.)
 ### Watch later
 
-- The Girl with All the Gifts (2016)
 - Predator: Dark Ages (2015)
 - Steppenwolf (2025)
 - Conan the Barbarian (1982)
