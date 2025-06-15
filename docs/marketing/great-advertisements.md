@@ -21,3 +21,9 @@ https://www.youtube.com/watch?v=3XFXcBdXqKE
 - Cool campaign for recruitment
 
 https://youtu.be/RJLVKzWCBq0?feature=shared
+
+## Japanese Sea Chicken Commercial 
+
+- Super funny and well thought, anime style.
+
+https://youtu.be/d7Ko0Zpy20E?feature=shared

@@ -45,6 +45,10 @@
 	- migrun.tech
 	- nifonline.com
 
+### Details
+- When obtained, your NIF is not immediately available to be used for cross-border transactions, you need to enable it first.
+	- Check the current status of VIES VAT number [here](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)
+	- You may activate it on the Portuguese government website ([Autoridade Tributária](https://www.portaldasfinancas.gov.pt/at/html/index.html))
 
 
 

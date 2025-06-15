@@ -5,9 +5,9 @@ Probably forgot most of the past ones.
 ## Watching
 
 - The Boys
-- Love, Death & Robots*
+- Love, Death & Robots
 - Black mirror
-- Last Of Us*
+- Last Of Us
 - The Witcher
 - For all mankind
 - Fargo
@@ -21,11 +21,12 @@ Probably forgot most of the past ones.
 - LoTR: Rings of power
 - true detective*
 - Secret Level
-- mindhunter*
+- mindhunter
 ## Watched
 
 - Breaking Bad
 - Hannibal
+- The Terror
 - Halt and Catch Fire
 - See
 - Person of interest

@@ -40,14 +40,15 @@ _**So it is written, so it shall be done**... Or not !_
 - GPG (cryptography)
 	- [Nice *comfy* tutorial](https://www.youtube.com/watch?v=eLKOIjNFwVs)
 - CQRS
-- CORS
+- ~~CORS~~
 	- [digest this](https://itnext.io/understanding-cors-4157bf640e11)
   - Though I've learned about it in the past, wouldn't hurt to revisit it
 - IPFS
 
 ### Task
 
-- ~~Set up personal dns server (pi hole)~~
+- ~~Set up personal dns server~~
+- ~~Set up personal DHCP server~~
 - ~~[OpenAI API status prober/exporter for prometheus blackbox exporter](https://github.com/skywarth/openai-api-status-prober)~~
 - ~~Country routing algorithm with graph DFS~~
     - ~~https://github.com/skywarth/country-routing-algorithm~~
@@ -60,6 +61,7 @@ _**So it is written, so it shall be done**... Or not !_
 - ~~[Publish a GitHub app for the first time](https://github.com/marketplace/darkest-pr)~~
 - ~~Static site for [annals-of-disco](https://github.com/skywarth/annals-of-disco)~~
 - Publish my UltraMegaFusionRandom PRNG for PHP. (why so little amount of PRNGs in PHP, do I have to do everything myself ?)
+- Minimal online API for validating `composer.json` schema, free of charge.
 - network controlled pico pomodoro
 - Public thank you page (submitting form etc.), preferably parametric
 - Devise a Method/package/library for reliably store ~~pirated~~ confiscated books, documents and articles in GitHub. It should have an altered hash to bypass filters and plagiarism detection. Then, store em?
@@ -69,6 +71,10 @@ _**So it is written, so it shall be done**... Or not !_
 - WiFi probing and passive probe listening
     - https://github.com/danrl/wifi-probe
     - https://github.com/brannondorsey/sniff-probes
+- RPI tools for Flipper
+	- New organization
+	- Multiple tools & apps
+	- First one: metric monitor
 - Pocket EMP
 - Productivity with thermal printers (Epson TM-T88 has nice support and libraries. Xprinter is cheap and seems to have somewhat driver)
 - PHP package for my custom enum implementation
@@ -85,7 +91,7 @@ _**So it is written, so it shall be done**... Or not !_
 - Markdown cypher
 - Use cloudflare proxy once
 - GitHub Action for automatically mapping every input to shell, for bash shell steps. Unbelievable this isn't resolved. https://github.com/actions/runner/issues/665
-- Authentication key device (U2F or FIDO2 or WebAuthn)
+- ~~Authentication key device (U2F or FIDO2 or WebAuthn)~~
     - https://www.tindie.com/products/stephanelec/mooltipass-mini-ble-authenticator/
 - Playing around with eink
 - Dynamic custom endpoint proxy for transforming endpoint responses into Prometheus Blackbox exporter compliant type

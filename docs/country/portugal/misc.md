@@ -23,6 +23,7 @@ These will be categorized and put into separate files in time.
 - https://leefapt.weebly.com/residentCardTracker.html
 - https://www.reddit.com/r/PortugalExpats/comments/1kc48ts/comment/mpzqct4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - https://votimetro.app/
+- Lusophones
 ### Online shopping
 
 - FNAC, fnac.pt - for electronics
