@@ -20,10 +20,29 @@ These will be categorized and put into separate files in time.
 - Ultra nationalistic interviews
 	- in Martim Moniz: https://www.youtube.com/watch?v=g4UixhxW-wY
 	- https://www.youtube.com/watch?v=h2hmB_aAQGs
+- Grupo 1143 (Ultra nationalistic group)
+- Movimento Armilar Lusitano (Ultra nationalistic group)
+- Reconquista (Ultra nationalistic group)
+- Portugueses Primeiro (nationalistic group)
 - https://leefapt.weebly.com/residentCardTracker.html
 - https://www.reddit.com/r/PortugalExpats/comments/1kc48ts/comment/mpzqct4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - https://votimetro.app/
 - Lusophones
+- Tech Visa and visa sponsorship eligible companies
+	- These are the list of companies that are startup certified and has the permission to sponsor visas for highly qualified workers
+	- It basically means that a company has to be on the list in order to be able to sponsor visa of a D3 worker. It also makes the worker to be eligible for NHR or TISRI
+	- https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/DOCS_Emp/EmpresasCertificadas_TechVisa_18022025.aspx
+	- https://www.interregeurope.eu/good-practices/tech-visa-0?utm_source=chatgpt.com
+	- https://www.iapmei.pt/Paginas/Tech-Visa-en.aspx\
+- Brazuca and tuga
+- Order of holiness:
+	1. Jesus
+	2. Cristiano Ronaldo
+	3. Bacalhau
+	- This is the holy trinity
+	- You do not disrespect these. You've been warned.
+
+
 ### Online shopping
 
 - FNAC, fnac.pt - for electronics
@@ -74,6 +93,7 @@ These will be categorized and put into separate files in time.
 - Devil's bridge (Ponte da Mizarela), located in Braga
 - Tomar: Convent of Christ, it is a UNESCO site. Tomar and the site itself is known for knights templar heritage.
 - almendres cromlech
+- Sintra is hella overrated. It's like an open-air tourist amusement park. Expensive as well. Nature is good though.
 
 ### Local salaries and living conditions
 

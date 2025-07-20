@@ -7,6 +7,12 @@
 
 ## Subjects
 
+### Distributing food to the homeless
+- Prohibited and punishable by law if you plan to do this as a private indivial. Only the registered NGO/NPO and volunteering organizations with compliance can do this.
+- Fines are quite hefty
+- There have been incidents in which individuals were charged with fines for doing so
+- Lei 62/2021
+
 ### Definition of self-defense
 - https://diariodarepublica.pt/dr/lexionario/termo/legitima-defesa
 

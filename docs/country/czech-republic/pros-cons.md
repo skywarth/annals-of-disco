@@ -9,6 +9,7 @@
 - Decent prices all around
 - Thrift shops, let's gooo! Coat for 2 EUR.
 - Marvelous railroad infrastructure
+- Has a cool flag
 
 ## Neutral
 

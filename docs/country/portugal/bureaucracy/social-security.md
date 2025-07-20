@@ -16,7 +16,7 @@ It's a 11 digit number, an ID. You need it if you plan to work or study in Portu
 ### How to get it
 #### Requirements
 
-There are quite a lot of misinformation and confusion about it. There are also claims that the clerks at the AIMA require different documents, some require it and some don't.
+There are quite a lot of misinformation and confusion about it. There are also claims that the clerks at the Serviço de Segurança Social require different documents, some require it and some don't.
 
 - Employment
 	- Employment contract
