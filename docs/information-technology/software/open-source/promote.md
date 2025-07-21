@@ -21,6 +21,10 @@
   - Easy, just submit
 - Nice guide on [hackernoon](https://hackernoon.com/how-to-promote-your-github-project-1b39a7eee841)
 
+Laravel specific:
+- Laravel News
+- https://bestoflaravel.com/
+
 ## Guides
 
 - [3k stars to 14k stars](https://gitroom.com/blog/from-3k-stars-to-14k-in-3-months?last_resource_guid=Post%3A69818f30-f4df-4c40-8dc3-4dab2f56d4c2&jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZjhiZGQ2Y2EtYjdhYi00OTdmLTg0OTctZjJmZGJjMWI2YTc4IiwicHVibGljYXRpb25faWQiOiIyYTg1Y2M5OC01NDRjLTQ4NTUtYmMzZS0xMmVlZWVmZGUzODAiLCJleHAiOjE3MzM5MjgwMTksImlzcyI6Imh0dHBzOi8vYXBwLmJlZWhpaXYuY29tIiwiaWF0IjoxNzMzNzU1MjE5fQ.V1RNPUDRdlCXww12vO2looMpPwK3zHlfK3-sUcT7_v4)
