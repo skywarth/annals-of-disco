@@ -9,6 +9,9 @@ repo_url: https://github.com/skywarth/annals-of-disco
 site_dir: static_site
 copyright: Built with <b><u>hate</u></b> &#x1F9E1;. Use it to your heart's content, FOSS FTW. </br>  Copyright 2020 - 2024 Skywarth. All rights reserved.
 extra:
+  analytics:
+    provider: google
+    property: G-TY5YJPB8E3
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/skywarth
