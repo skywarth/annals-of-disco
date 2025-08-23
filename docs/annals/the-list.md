@@ -1,4 +1,4 @@
- # The List
+# The List
 
 _**So it is written, so it shall be done**... Or not !_
  
@@ -47,8 +47,16 @@ _**So it is written, so it shall be done**... Or not !_
 
 ### Task
 
-- ~~Set up personal dns server~~
-- ~~Set up personal DHCP server~~
+- Homelab
+	-  ~~Set up personal dns server~~
+	-  ~~Set up personal DHCP server~~
+	- Productivity with thermal printers (Epson TM-T88 has nice support and libraries. Xprinter is cheap and seems to have somewhat driver)
+	- Personal GitLab server
+	- ~~NAS~~
+	- Robust and capable NAS setup
+		- Migrate to NextCloud and spread the gospel (Checkout YUNOHost)
+	- Online music radio station for personal use
+
 - ~~[OpenAI API status prober/exporter for prometheus blackbox exporter](https://github.com/skywarth/openai-api-status-prober)~~
 - ~~Country routing algorithm with graph DFS~~
     - ~~https://github.com/skywarth/country-routing-algorithm~~
@@ -67,7 +75,6 @@ _**So it is written, so it shall be done**... Or not !_
 - Devise a Method/package/library for reliably store ~~pirated~~ confiscated books, documents and articles in GitHub. It should have an altered hash to bypass filters and plagiarism detection. Then, store em?
 - Abrupt FIN protocol
 - Graceful FIN protocol
-- Migrate to NextCloud and spread the gospel (Checkout YUNOHost)
 - WiFi probing and passive probe listening
     - https://github.com/danrl/wifi-probe
     - https://github.com/brannondorsey/sniff-probes
@@ -76,7 +83,6 @@ _**So it is written, so it shall be done**... Or not !_
 	- Multiple tools & apps
 	- First one: metric monitor
 - Pocket EMP
-- Productivity with thermal printers (Epson TM-T88 has nice support and libraries. Xprinter is cheap and seems to have somewhat driver)
 - PHP package for my custom enum implementation
 - that ray-tracing chars and dot distribution. Incredible algorithm
 - JS package for console proxy

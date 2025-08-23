@@ -22,6 +22,9 @@ Probably forgot most of the past ones.
 - true detective*
 - Secret Level
 - mindhunter
+- Cyberpunk: Edgerunners
+- Squid Game
+- Stargate SG-1
 ## Watched
 
 - Breaking Bad
@@ -37,7 +40,6 @@ Probably forgot most of the past ones.
 - Westworld
 - House
 - Black Summer
-- Cyberpunk: Edgerunners
 - Expanse
 - resident evil
 - primal
@@ -51,15 +53,15 @@ Probably forgot most of the past ones.
 - What we do in the shadows
 - Lost (watched twice)
 - Zero Day
-
+- Loki
 
 
 ## To be watched
 
-
-- Loudermilk
-- stargate (SG-1)
+- Alien: Earth
+- Sandman
 - stargate atlantis (SG-A)
 - stargate universe (SG-U)
 - Castlevania: Nocturne
 - x-files (damn this is a big one. 217 episodes, 15 years running.)
+- ~~Loudermilk~~ (It's annoying and insufferable)

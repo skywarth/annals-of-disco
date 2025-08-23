@@ -185,12 +185,22 @@ Damn... Should've started this list soo much earlier. Now how the hell am I supp
 - The Butterfly Effect 2 (2006) (Time travel, memory, memento, changing future. A biiiig step down from the first movie, they tried to milk the idea once more but failed miserably. Shit movie.)
 - Warfare (2025) (USA, Iraq, war, battle, conflict, action, realistic, dramatic, real story. Quite a realistic depiction of war, even more compelling is the fact that these are from memories. Trauma scenes were overstretched and excessive, I guess they kinda ran out of things to tell. If you take a step back and see it in a broad picture: this is simply just a small battle group of soldiers having, and realizing this makes it lame. Production quality was spectacular though.  Good movie. )
 - The Signal (2014) (sci-fi, alien, area 51, hacking, relationship, plot twist, tech, conspiracy. Honestly, I didn't understand at all what the hell is going on. That ending confused the shit out of me. And there were A LOT of unexplained clues. The whole movie felt like they did shoot the movie in real-time and decided the plot while shooting it. It doesn't feel consistent. First half was great, last 40 minutes were terrible and wonky. All those slo-mo scenes were sooo useless. I liked the movie but man it is so annoying too. Ok movie.)
-- Bruce Almighty (2003)
+- Bruce Almighty (2003) (Comedy, Jim Carrey, God, superpower, Morgan Freeman. Movie about a guy who gets to replace God for few days and sees how challenging it is. Quite funny at times. Though kinda corny and cringy at times. It's a good family movie. Good movie.)
+- Final Destination Bloodlines (2025) (Death, gore, macabre, destiny, fate, dying, accident. It was refreshing to see a once famous franchise be attempted again. With this movie, they trained yet another generation on occupational safety. Kill and gore effects were lame and somewhat "auto-generated", people don't turn into a paddle of blood when they die. It's the Final Destination so I'm not gonna judge it on logic. Food movie.)
+- Watchmen: Chapter II (2024) (Watchmen, animation, vigilante. I thought this was gonna be a sequel or something. Apparently, it's just the animated version, and the second part of the original movie. So the same thing, but a few additional details and slight changes. It was OK. )
+- 28 years later (2025) (Virus, outbreak, epidemic, zombie, thriller, psychological, UK. It started off good, but took a huge dive around the middle when the whole thing about zombies having babies and shit was introduced. Like wtf? Ending was boring and uninteresting. It's watchable though, just because it's a zombie movie. Such a let down after years of waiting for a sequel. What a wasted potential. It was OK, barely.)
+- 
 
 ### Watch later
 
-- 
-- 
+
+- The 6th day (2000)
+- The Ministry of Ungentlemanly Warfare (2024)
+- Doomsday (2008)
+
+- A Wind Named Amnesia (1990)
+- Universal Soldier (1992)
+- Harley Davidson & the Marlboro Man (1991)
 - Predator: Dark Ages (2015)
 - Steppenwolf (2025)
 - Red Sonja (1985)

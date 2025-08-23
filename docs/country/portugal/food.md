@@ -20,3 +20,8 @@ The green soup. Kale, sausage, garlic, onion, potato, chicken stock
 ### Natas do Ceu
 
 So called "Heaven cream", pretty good. Even store-bought one's are pretty decent
+
+### Baba de Camelo
+`dessert`
+
+It means "Camel's drool". It's a mousse, but Portuguese version of it, very similar to the original one. Though I think I like this one more. It tastes so good. Has milk and eggs, so kinda healthy in a way.

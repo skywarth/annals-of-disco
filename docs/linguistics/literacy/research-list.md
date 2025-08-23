@@ -10,3 +10,8 @@ Basically just a list of notes to research later, regarding lexicography.
 - Foment
 - oeuvre
 - macabre
+- Verbatim
+- Summat
+- Faux pas
+- Elocution
+- 

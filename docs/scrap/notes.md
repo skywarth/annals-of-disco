@@ -181,3 +181,13 @@ Public IP/web cams around the world
 https://www.imidaily.com
 
 Gung-ho
+
+zen koans
+
+Saudade
+
+changedetection.io
+
+Emphysema
+
+Lusofranco
