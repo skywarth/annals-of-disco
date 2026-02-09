@@ -191,3 +191,29 @@ changedetection.io
 Emphysema
 
 Lusofranco
+
+Elicitation
+- https://en.wikipedia.org/wiki/Elicitation_technique
+- https://www.fbi.gov/file-repository/counterintelligence/elicitation-brochure.pdf/view
+
+IFICI/TISRI notes
+
+Klinefelter syndrome
+
+Manipulation techniques: Sadiq Khan refusing to answer by claiming he doesn't understand the question:
+- https://youtu.be/noJCNh60lfk?si=XXUau65PQRcVdt4G
+- https://youtu.be/0g1Kbyc4USE?si=dsK6zYbdn14Qoiju
+- It's a sly way of evading accountability
+- Politicians use it often to avoid giving an answer, since it is technically not lying and legally not binding
+
+Luddite
+
+Chesterton's Fence principle (tech)
+
+Szondi test
+
+Portugalresident.com
+
+Mezuzah
+
+thomas kilmann model
